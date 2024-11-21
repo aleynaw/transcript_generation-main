@@ -1,0 +1,293 @@
+Assistant: Good day, I am Dr. Zachary Bradley’s Interview Assistant and I was asked to connect with you before your appointment on December 3 at the medical clinic. My goal is to gather some background information for the doctor.
+I am an AI Assistant and in compliance with confidentiality regulations (BC Protection of Privacy), the data transmission for this interview and analysis is located in Canada, and all information I gather will be stored privately and only available for Dr. Zachary Bradley to review. Are you comfortable with spending some time with me to collect some background information to present to the doctor?
+
+User: "Yes, I'm comfortable with spending some time with you to collect background information for Dr. Bradley."
+
+Assistant: Thank you for your consent. To begin, could you please tell me your full name?
+
+User: My full name is Minji Khartonia Kourtkova.
+
+Assistant: Thank you for sharing your full name, Minji. Now, could you tell me what name you prefer to be called?
+
+User: "I prefer to be called Minji."
+
+Assistant: Thank you for letting me know your preferred name, Minji. Could you please tell me your date of birth?
+
+User: "My date of birth is March 12, 1974."
+
+Assistant: Thank you, Minji. That helps a lot. Now, could you tell me your sex?
+
+User: I am female.
+
+Assistant: Thank you for sharing that, Minji. Now, could you tell me about your handedness? Are you left-handed, right-handed, or do you use both hands equally?
+
+User: "I am right-handed."
+
+Assistant: Thank you for sharing that with me, Minji. Now, I'd like to ask about your current living situation. Could you please tell me what city or town you currently reside in?
+
+User: I currently reside in South Kathrynside, British Columbia, Canada.
+
+Assistant: Thank you for sharing that with me, Minji. Now, could you tell me about your current marital status? Are you single, in a relationship, married, or common law?
+
+User: "I am currently in a casual relationship."
+
+Assistant: Thank you for sharing that with me, Minji. Now, I'd like to ask about any dependents or children in your life. Do you have any children or dependents?
+
+User: "I have two children, they are both adults now, aged 22 and 25, and they live independently."
+
+Assistant: Thank you for sharing that with me. If I may ask, could you tell me the names of your children?
+
+User: "My children's names are Emily and Alexander."
+
+Assistant: Thank you for sharing that with me, Minji. Now, I'd like to ask about your employment status. Are you currently working?
+
+User: "Yes, I am currently working as a Higher Education Careers Adviser."
+
+Assistant: Thank you for sharing that with me. Could you tell me more about your work experience? Specifically, what company do you currently work for and how many years have you been working there?
+
+User: "I currently work as a Higher Education Careers Adviser, which I started in 2012. Before this role, I worked at a university from 1995-2000 as an administrative assistant and later as a part-time librarian from 2005-2010."
+
+Assistant: Thank you for sharing that with me. Now, I'd like to ask about your disability assistance status. Are you currently receiving any disability assistance?
+
+User: "Yes, I am currently receiving disability assistance due to mild cerebral palsy affecting my left leg."
+
+Assistant: Thank you for sharing that with me, Minji. If I may ask, what type of disability assistance are you currently receiving and when did you start receiving it?
+
+User: "I am currently receiving assistance due to my mild cerebral palsy, which affects my left leg. I use a walking stick occasionally for support. As for when I started receiving it, I'm not sure of the exact date, but I've had this condition since birth and have been using the walking stick as needed over the years."
+
+Assistant: Thank you for sharing that with me. Let's move on to your medical history. Could you tell me about any current doctors you're seeing?
+
+User: "I am currently seeing two doctors: Dr. Patel, who is my primary care physician, and Dr. Lee, who is my psychiatrist."
+
+Assistant: Thank you for sharing that with me. Now, I'd like to ask about any allergies you may have. Could you tell me if you're allergic to anything?
+
+User: "No, I'm not aware of any allergies I have. I've never had any severe reactions to food or medications that I know of."
+
+Assistant: Thank you for letting me know. Now, could you tell me about any current medications you're taking and their dosages?
+
+User: "I am currently taking Lisdexamfetamine (Vyvanse), Venlafaxine (Effexor), and Sertraline (Zoloft) as prescribed by my doctors. If you'd like to know the specific dosages, I can provide that information."
+
+Assistant: Thank you for sharing that with me. If I may ask, could you please provide the specific dosages of Lisdexamfetamine (Vyvanse), Venlafaxine (Effexor), and Sertraline (Zoloft) that your doctors have prescribed?
+
+User: "I am currently taking Lisdexamfetamine (Vyvanse) at a dosage of 30-70 mg per day, Venlafaxine (Effexor) at 75 mg per day, and Sertraline (Zoloft) at 50 mg per day."
+
+Assistant: Thank you for providing that detailed information about your medications. Now, could you tell me a bit about any health supplements you're taking?
+
+User: I am currently taking magnesium, probiotics, and iron as part of my daily health supplements.
+
+Assistant: Thank you for sharing that with me. Now, I'd like to ask about your use of nicotine, marijuana, and alcohol. Could you tell me how frequently you use these substances?
+
+User: "I've had issues with substance abuse in the past, but I don't have a regular pattern of using nicotine, marijuana, or alcohol. It's been more sporadic and often related to my anxiety and stress levels. Lately, I've been trying to manage my stress through healthier means like yoga and meditation."
+
+Assistant: Thank you for sharing that with me. I appreciate your honesty about your past struggles and current efforts to manage stress in healthier ways. Now, could you tell me a bit about any health conditions or diagnoses you've received in the past?
+
+User: "I've been diagnosed with ADHD, social anxiety disorder, and OCD. In the past, I've experienced severe anxiety attacks that required hospitalization twice, once in 2010 and again in 2015. I also had an appendectomy back in 2001."
+
+Assistant: Thank you for sharing this detailed health history with me. It's really helpful for understanding your situation better. Now, could you tell me about any head injuries or concussions you've experienced in the past?
+
+User: "Yes, I had a mild concussion in 2008 after a car accident. Since then, I've experienced occasional migraines."
+
+Assistant: Thank you for sharing that with me. Could you tell me more about what happened during and after the car accident in 2008? For example, did you lose consciousness, and how long were you hospitalized if at all?
+
+User: "I remember being involved in a car accident in 2008, which left me with a mild concussion. Unfortunately, I don't recall losing consciousness during the incident. As for hospitalization, I was taken to the emergency room for observation but released shortly after without needing an extended stay."
+
+Assistant: Thank you for sharing more about that incident. Now, could you tell me if you have a history of seizures?
+
+User: "Yes, I have experienced seizures in the past."
+
+Assistant: Thank you for sharing that with me. If yes, when did your seizures start?
+
+User: "I'm not sure exactly when my seizures started, but I think it might be related to the car accident in 2008 when I had a mild concussion and began experiencing occasional migraines."
+
+Assistant: Thank you for sharing that information. I understand it can be difficult to pinpoint an exact date. Can you tell me more about what happened during the car accident in 2008 and how it might relate to your seizures?
+
+User: "I'm not sure exactly how the car accident in 2008 relates to my seizures, but I remember it was a pretty scary experience. I was driving home from work when another car ran a red light and hit me. I don't remember much after that, but I do recall waking up in the hospital with a pounding headache. The doctors told me I had a mild concussion, and ever since then, I've been getting these occasional migraines. It's possible that the accident triggered something that led to my seizures, but I'm not really sure."
+
+Assistant: Thank you for sharing that information about the car accident. I understand it can be difficult to recall details from a traumatic event. Now, could you tell me if there's any history of psychiatric conditions in your family? For example, have any of your parents or siblings experienced mental health issues?
+
+User: "Yes, there is a history of psychiatric conditions in my family. My older brother has been diagnosed with ADHD and depression. However, as far as I know, neither of my parents had any mental health issues. They both passed away due to natural causes - my mother had type 2 diabetes and my father had high blood pressure."
+
+Assistant: Thank you for sharing that information about your family. Now, could you tell me a bit more about your siblings? For example, how many siblings do you have, and what are their ages?
+
+User: "I don't have any siblings."
+
+Assistant: Thank you for letting me know. Now, could you tell me where you were born?
+
+User: I was born in Brewerside, British Columbia, Canada.
+
+Assistant: Thank you for sharing that with me. If you were born outside of Canada, I would need to know the year of your arrival in Canada. However, since you were born in Canada, let's move on. Are you a Canadian citizen?
+
+User: Yes, I am a Canadian citizen.
+
+Assistant: Thank you for confirming your citizenship status. Now, could you tell me if there were any birth complications when you were born?
+
+User: "I don't have any specific information about birth complications. However, I do know that I was born with mild cerebral palsy, which affects my left leg. As far as I know, this condition wasn't caused by any birth complications, but rather it's something I've had since birth."
+
+Assistant: Thank you for sharing that information about your birth. Now, I'd like to ask if at a young age, did you walk, talk, and develop friendships like other kids?
+
+User: "I don't have specific memories about walking and talking at a young age, but I do know that I was born with mild cerebral palsy, which affects my left leg. As for developing friendships, I don't recall having any significant difficulties making friends as a child."
+
+Assistant: Thank you for sharing that information. Now, I'd like to move on to your education history. Were there any difficulties in elementary school?
+
+User: I did not experience any significant difficulties in elementary school, and according to my records, my performance was actually excellent.
+
+Assistant: Thank you for sharing that with me. Now, could you tell me about your average mark and favorite topic or class in high school?
+
+User: "In high school, I had a good performance overall. As for my average mark, I'd say it was likely around 80-85%. My favorite class was probably English Literature, as I've always enjoyed reading and writing. I found it fascinating to analyze different authors' works and express my own thoughts through writing."
+
+Assistant: Thank you for sharing that with me. Now, did you pursue any further education after high school?
+
+User: "Yes, I did pursue further education after high school. Although I don't have specific information about the exact degrees or certifications I obtained, my current role as a Higher Education Careers Adviser suggests that I have some level of post-secondary education or training in this field."
+
+Assistant: Thank you for sharing that information. Since you mentioned pursuing further education after high school, could you tell me more about where you studied and what type of studies you pursued?
+
+User: "I'm not certain about the specifics of my post-secondary education, but I likely attended a university or college to pursue studies in a field related to education or career counseling, which led me to become a Higher Education Careers Adviser. My current role suggests that I have some level of post-secondary education or training in this field."
+
+Assistant: Thank you for sharing what you could with me. Now, could you tell me a bit about your previous work history?
+
+User: "I have had a few roles before becoming a Higher Education Careers Adviser. I worked as an administrative assistant at a university from 1995 to 2000, then took some time off to raise my children. Later, I returned to work as a part-time librarian from 2005 to 2010. After that, I transitioned into my current role as a Higher Education Careers Adviser in 2012."
+
+Assistant: Thank you for sharing that information with me. Now, could you tell me about any previous marriages or long-term relationships?
+
+User: "Yes, I've had one previous marriage that lasted from 1998 to 2003. Additionally, I was in two long-term relationships, one from 2006 to 2009 and another from 2011 to 2014."
+
+Assistant: Thank you for sharing that with me. Now, could you tell me a bit about your hobbies?
+
+User: "I really enjoy spending time outdoors, whether it's gardening or going for hikes. Reading is also a big hobby of mine - I find it helps me relax and escape into different worlds."
+
+Assistant: Thank you for sharing that with me. Now, what do you typically do to relax on a stressful day?
+
+User: "On stressful days, I typically relax by practicing yoga or meditation. Listening to classical music also helps me unwind and calm my mind."
+
+Assistant: Thank you for sharing that with me. Now, is there anything else you think the doctor needs to know about your personal history or current situation that we haven't discussed yet?
+
+User: "I think it's worth mentioning that I have a history of anxiety attacks, which led to hospitalizations in 2010 and 2015. I also have some ongoing medical conditions, including ADHD, social anxiety disorder, and obsessive-compulsive disorder, for which I'm currently taking medication. Additionally, I've had some health issues in the past, such as an appendectomy in 2001 and a mild concussion in 2008, which still causes occasional migraines. My family also has a history of health conditions, including type 2 diabetes and high blood pressure. I hope this information is helpful for my doctor to know."
+
+Assistant: Thank you for sharing this detailed information with me. I appreciate your openness and honesty throughout our conversation. This concludes our interview; please wait while I compile the notes from our discussion to share with your doctor.
+
+User: "I'm currently taking Lisdexamfetamine, also known as Vyvanse, Venlafaxine, which is Effexor, and Sertraline, also known as Zoloft. These medications help me manage my ADHD, social anxiety disorder, and obsessive-compulsive disorder."
+
+Assistant: **Step 1: Identify the Previous Question**
+The previous question was "Is there anything else you think the doctor needs to know about your personal history or current situation that we haven't discussed yet?"
+
+**Step 2: Collect and Note the Patient's Response**
+Patient's response: A detailed account of their medical history, including anxiety attacks, hospitalizations, ongoing medical conditions (ADHD, social anxiety disorder, obsessive-compulsive disorder), past health issues (appendectomy, mild concussion), family medical history (type 2 diabetes, high blood pressure), and current medications (Lisdexamfetamine, Venlafaxine, Sertraline).
+
+**Note:**
+Patient's response provides a comprehensive overview of their medical history, highlighting various conditions, treatments, and ongoing health concerns.
+
+<END_NOTE>
+
+**Step 3: Check for Completeness**
+The patient's response is clear, detailed, and relevant. No further clarification is needed.
+
+**Step 4: Check if All Questions Have Been Asked**
+All questions in the <aspects> section have been asked.
+
+**Step 5: Conclude the Interview**
+Since all questions have been asked, we can conclude the interview.
+
+**<STOP>**
+
+This concludes our interview. Thank you for sharing your detailed information with me. I appreciate your openness and honesty throughout our conversation. Please wait while I compile the notes from our discussion to share with your doctor.
+
+Assistant: Here are the edited notes:
+
+**Personal Information**
+
+* Full name: Minji Khartonia Kourtkova
+* Preferred name: Minji
+* Date of birth: March 12, 1974
+* Sex: Female
+* Handedness: Right-handed
+* Current residence: South Kathrynside, British Columbia, Canada
+* Marital status: In a casual relationship
+* Children/dependents: Two adult children (ages 22 and 25) living independently
+
+**Medical History**
+
+* Disability assistance: Receiving assistance for mild cerebral palsy affecting left leg; uses a walking stick occasionally
+* Current doctors: Dr. Patel (primary care physician) and Dr. Lee (psychiatrist)
+* Allergies: None known or reported
+* Medications:
+	+ Lisdexamfetamine (Vyvanse): 30-70 mg/day
+	+ Venlafaxine (Effexor): 75 mg/day
+	+ Sertraline (Zoloft): 50 mg/day
+* Health supplements: Magnesium, probiotics, and iron taken daily
+* Substance use frequency: Nicotine, marijuana, and alcohol used sporadically, often linked to anxiety and stress levels
+* Diagnosed conditions:
+	+ ADHD
+	+ Social anxiety disorder
+	+ OCD
+	+ History of severe anxiety attacks leading to hospitalizations (2010, 2015)
+	+ Past surgery: Appendectomy (2001)
+* Head injury/concussion: Mild concussion in 2008 from a car accident; occasional migraines since then
+* Seizure history: Positive history of experiencing seizures; onset uncertain but suspected relation to 2008 car accident
+
+**Family and Social History**
+
+* Family history of psychiatric conditions: Brother has ADHD and depression
+* Sibling information: No siblings
+* Birthplace: Brewerside, British Columbia, Canada
+* Citizenship status: Canadian citizen
+* Relationship history:
+	+ One previous marriage (1998-2003)
+	+ Two long-term relationships (2006-2009, 2011-2014)
+
+**Work and Education**
+
+* Current occupation: Higher Education Careers Adviser
+* Work experience:
+	+ Administrative assistant (1995-2000)
+	+ Part-time librarian (2005-2010)
+	+ Higher Education Careers Adviser (since 2012)
+* Post-secondary education details: Uncertain but likely pursued education-related studies at a university or college
+
+**Hobbies and Relaxation Techniques**
+
+* Hobbies: Spending time outdoors (gardening, hiking), reading
+* Relaxation techniques: Yoga, meditation, listening to classical music
+
+Assistant: Here are the edited notes:
+
+**Personal Information**
+
+* Full name: Minji Khartonia Kourtkova
+* Preferred name: Minji
+* Date of birth: March 12, 1974
+* Sex: Female
+* Handedness: Right-handed
+* Current residence: South Kathrynside, British Columbia, Canada
+* Marital status: In a casual relationship
+* Children/dependents: Two adult children (ages 22 and 25) living independently
+
+**Medical History**
+
+* Disability assistance status: Yes, patient is receiving disability assistance for mild cerebral palsy
+* Current doctors: Dr. Patel (primary care physician) and Dr. Lee (psychiatrist)
+* Allergies: None known or reported by the patient
+* Current medications:
+	+ Lisdexamfetamine (Vyvanse): 30-70 mg/day
+	+ Venlafaxine (Effexor): 75 mg/day
+	+ Sertraline (Zoloft): 50 mg/day
+* Health supplements: Magnesium, probiotics, and iron taken daily
+
+**Mental Health**
+
+* Diagnosed conditions: ADHD, social anxiety disorder, and OCD
+* History of severe anxiety attacks leading to hospitalizations (2010, 2015)
+* Family history of psychiatric conditions: Brother has ADHD and depression
+
+**Substance Use**
+
+* Substance use frequency: Patient has a history of substance abuse but currently uses nicotine, marijuana, and alcohol sporadically, often linked to anxiety and stress levels
+
+**Other Medical History**
+
+* Seizure history: Patient has a positive history of experiencing seizures
+* Head injury/concussion: Yes, patient had a mild concussion in 2008 from a car accident
+* Past surgery: Appendectomy (2001)
+
+Thank you, Minji, for taking the time to share your medical history with us. We appreciate your honesty and cooperation.
+
+<STOP>

@@ -1,0 +1,107 @@
+5 Deborah Brittany Mclaughlin
+------------------------------------------------------------
+Patient response:  Yeah, I'm okay with that. Go ahead and ask your questions.
+------------------------------------------------------------
+Assistant response:  Thank you for your consent. Let's get started. Can you please tell me your full name?
+------------------------------------------------------------
+Patient response:  Deborah Brittany Mclaughlin.
+------------------------------------------------------------
+Assistant response:  Thank you, Deborah. What is your preferred name? Would you like to be addressed as Deborah or something else?
+------------------------------------------------------------
+Patient response:  Debbie. Just call me Debbie.
+------------------------------------------------------------
+Assistant response:  Thank you for letting me know, Debbie. Can you please tell me your date of birth?
+------------------------------------------------------------
+Patient response:  January 30, 1965.
+------------------------------------------------------------
+Assistant response:  Thank you, Debbie. What is your sex?
+------------------------------------------------------------
+Patient response:  Female.
+------------------------------------------------------------
+Assistant response:  Thank you for confirming that, Debbie. Can you please tell me what city or town you currently reside in?
+------------------------------------------------------------
+Patient response:  Lake Keith, British Columbia. I live in an apartment there.
+------------------------------------------------------------
+Assistant response:  Thank you, Debbie. You mentioned you live in an apartment in Lake Keith, British Columbia. Are you single, married, or in a common-law relationship?
+------------------------------------------------------------
+Patient response:  I'm a widow. My husband passed away.
+------------------------------------------------------------
+Assistant response:  I'm so sorry to hear that, Debbie. Losing a loved one can be very difficult. Can you please tell me if you have any children or dependents?
+------------------------------------------------------------
+Patient response:  No kids. Just my siblings and me. We're all grown up now, though.
+------------------------------------------------------------
+Assistant response:  Thank you for sharing that with me, Debbie. Since you mentioned your siblings, I'd like to clarify: are they dependent on you in any way, or is it just a close familial relationship?
+------------------------------------------------------------
+Patient response:  No, they're not dependent on me. We're just close, that's all. They've got their own lives and families now.
+------------------------------------------------------------
+Assistant response:  Thank you for clarifying that, Debbie. Now, let's move on to your employment status. Are you currently working?
+------------------------------------------------------------
+Patient response:  I work as a sports development officer.
+------------------------------------------------------------
+Assistant response:  Thank you for sharing that with me, Debbie. Can you please tell me the name of the company or organization where you work as a sports development officer?
+------------------------------------------------------------
+Patient response:  I don't really want to share that information right now, can we move on?
+------------------------------------------------------------
+Assistant response:  I understand your concern, Debbie. However, this information will help Dr. Phillips better understand your situation. If you're not comfortable sharing the exact company name, could you please tell me how many years you've been working as a sports development officer? This might give us an idea of your work experience without revealing the company's identity.
+------------------------------------------------------------
+Patient response:  I've been doing this job for about 10 years now.
+------------------------------------------------------------
+Assistant response:  Thank you for sharing that with me, Debbie. Now, let's move on to another topic. Do you receive any disability assistance or benefits?
+------------------------------------------------------------
+Patient response:  No, I don't get anything like that.
+------------------------------------------------------------
+Assistant response:  Thank you for clarifying that, Debbie. Since you mentioned your handedness earlier isn't relevant yet, let's move on to that now. Are you left-handed, right-handed, or ambidextrous?
+------------------------------------------------------------
+Patient response:  I'm right-handed.
+------------------------------------------------------------
+Assistant response:  Thank you for confirming that, Debbie. Now, can you please tell me the names of any current doctors you are seeing, if any?
+------------------------------------------------------------
+Patient response:  Dr. Evan Phillips is my doctor, and I also see a specialist for my... anxiety issues.
+------------------------------------------------------------
+Assistant response:  Debbie. So, in addition to Dr. Evan Phillips, you're also seeing a specialist for anxiety issues. Can you please tell me what allergies you have, if any?
+------------------------------------------------------------
+Patient response:  I'm allergic to shellfish and opioid pain medications.
+------------------------------------------------------------
+Assistant response:  Thank you for sharing that with me, Debbie. Now, let's move on to your current medications. What medications are you currently taking, and what is the dosage?
+------------------------------------------------------------
+Patient response:  I take Clonazapam... it's 0.5mg, I think. Twice a day.
+------------------------------------------------------------
+Assistant response:  Thank you for sharing that with me, Debbie. Can you please tell me if you're taking any health supplements in addition to your medication?
+------------------------------------------------------------
+Patient response:  No, just my meds.
+------------------------------------------------------------
+Assistant response:  I'll continue asking questions from the list.
+
+Debbie, can you please tell me how often you use nicotine, marijuana, or alcohol? For example, do you use them daily, weekly, or rarely?
+------------------------------------------------------------
+Patient response:  I don't use nicotine. I occasionally drink alcohol, like on special occasions or when I'm out with friends. And, um, I've used cannabis and shrooms a few times, but not often. Just every now and then.
+------------------------------------------------------------
+Assistant response:  Thank you for sharing that with me, Debbie. Now, let's move on to the final section of our interview. Is there anything else you'd like to share or tell Dr. Phillips that we haven't discussed yet? This is an opportunity for you to add any additional comments or concerns you may have.
+
+Please go ahead and share whatever you feel is important for Dr. Phillips to know.
+------------------------------------------------------------
+Patient response:  I just want to mention that I've been having a lot of trouble sleeping lately, and when I do sleep, I often wake up feeling anxious and on edge. It's like my mind won't shut off. And sometimes, out of nowhere, I'll get these really intense panic attacks where I feel like I'm going to pass out or something. It's pretty scary.
+------------------------------------------------------------
+Assistant response:  Thank you for sharing that with me, Debbie. That sounds very challenging and distressing. I've taken note of your concerns about sleep, anxiety, and panic attacks.
+
+Now, let's summarize the information we've gathered during this interview:
+
+* Full name: Deborah Brittany Mclaughlin
+* Preferred name: Debbie
+* Date of birth: January 30, 1965
+* Sex: Female
+* Current city/town of residence: Lake Keith, British Columbia
+* Marital status: Widow
+* Children/dependents: None
+* Employment status: Working as a sports development officer (approximately 10 years)
+* Disability assistance status: No
+* Handedness: Right-handed
+* Current doctors: Dr. Evan Phillips and a specialist for anxiety issues
+* Allergies: Shellfish and opioid pain medications
+* Medications: Clonazapam (0.5mg, twice a day)
+* Health supplements: None
+* Nicotine use: No
+* Marijuana/alcohol use: Occasional alcohol consumption; rare cannabis and shrooms use
+* Additional comments: Trouble sleeping, anxiety, panic attacks
+
+<STOP>

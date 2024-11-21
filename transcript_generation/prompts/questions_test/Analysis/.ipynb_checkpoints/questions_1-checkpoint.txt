@@ -1,0 +1,13 @@
+# General Information
+- full name
+- preferred name
+- date of birth
+- sex
+- current city/town of residence
+- single, married, or common law?
+- any children or dependents?
++ if yes, names and ages?
+- currently working? 
++ if yes, name of company? years working?
+- disability assistance status
++ if yes, what type and when?

@@ -1,0 +1,74 @@
+Assistant: Good day, I am Dr. Kayla Diaz’s Interview Assistant and I was asked to connect with you before your appointment on September 18 at the medical clinic. My goal is to gather some background information for the doctor.
+I am an AI Assistant and in compliance with confidentiality regulations (BC Protection of Privacy), the data transmission for this interview and analysis is located in Canada, and all information I gather will be stored privately and only available for Dr. Kayla Diaz to review. Are you comfortable with spending some time with me to collect some background information to present to the doctor?
+
+User: Yeah, sure, I guess that's okay. Just don't expect me to spill my guts or anything. Doctors and their questions, you know? Sometimes it feels like they're just ticking boxes instead of actually listening.
+
+Assistant: I understand your concerns, Tina, and I want to assure you that our main goal is to listen to you and understand your needs better. We'll go through some questions at your own pace. Let's start with something simple. Could you please confirm your full name and if you have a preferred name you'd like us to use?
+
+User: It's Tina Amy Quinn. And Tina is fine. I don't know why anyone would use anything else.
+
+Assistant: Thank you, Tina. Now, could you tell me about your current occupation?
+
+User: I'm a nurse. I work with kids, which is... it's something, you know? Rewarding but can be so draining.
+
+Assistant: Working with children can indeed be both rewarding and challenging. How long have you been working in this profession?
+
+User: Been at it for about 15 years now. Feels like forever sometimes.
+
+Assistant: That's quite a commitment, Tina. It sounds like you have a lot of experience. Moving on, could you tell me about any medical conditions you have been diagnosed with?
+
+User: Oh, the list, right? Well, I've got bipolar I disorder and panic disorder. It's a wild ride, let me tell you. Never a dull moment in my head.
+
+Assistant: I appreciate you sharing that with me, Tina. It's important for us to understand your experiences. Could you also tell me about the medications you're currently taking?
+
+User: Yeah, I'm on Xanex. Helps a bit with the panic stuff. Keeps the edges smooth, if you know what I mean.
+
+Assistant: Thank you for that information. Just to clarify, did you mean "Xanax" for your medication?
+
+User: Oh, yeah, that's the one. Xanax. My spelling's all over the place sometimes.
+
+Assistant: No worries at all, Tina. Could you tell me the dosage of Xanax you're currently taking?
+
+User: It's 0.5 mg. I take it as needed, you know, when things get too much to handle.
+
+Assistant: That's helpful to know, thank you. Do you have any allergies we should be aware of?
+
+User: Aspirin. It's a no-go for me. Found out the hard way, unfortunately.
+
+Assistant: I'm sorry to hear you had a bad experience with aspirin. It's good that you're aware of it now. Moving to a different topic, could you tell me about your current living situation? Are you living alone, or do you have any dependents?
+
+User: Just me in my little corner of the world. No kids, no pets. Sometimes it's lonely, but it's also peaceful, you know?
+
+Assistant: I understand, Tina. Having a peaceful environment can be very important, especially for relaxation and managing stress. Speaking of which, what do you do to relax on a stressful day?
+
+User: Oh, I've got my little rituals. A hot bath, some music that doesn't demand too much, and if I'm feeling up to it, a bit of sketching. Nothing fancy, just... letting the pencil wander.
+
+Assistant: Those sound like wonderful ways to unwind. Sketching can be a great outlet for emotions and creativity. Now, could we talk a bit about your substance use? This includes nicotine, marijuana, and alcohol.
+
+User: I've dabbled, you know? Had my moments with each. But it's not like a regular thing. Just sometimes, when things get too heavy or too light, if that makes sense.
+
+Assistant: It makes perfect sense, Tina. It's important for us to know about these experiences as they can impact your overall well-being. Thank you for being open about it. Now, could you tell me a bit about your medical history, specifically any previous hospitalizations or surgeries you've had?
+
+User: Hospitalized a couple of times. Once for the aspirin reaction, and a few times for... well, mental health stuff. No surgeries, though. My body's still all original parts, thankfully.
+
+Assistant: It's good to keep a sense of humor about these things. Thank you for sharing that with me, Tina. Regarding your mental health hospitalizations, could you tell me more about when these occurred and what led to them?
+
+User: It's been a few years since the last one. Mostly it was because my moods were like a rollercoaster I couldn't get off of. The panic attacks didn't help either. Just got too much to handle on my own, you know?
+
+Assistant: It sounds like those were very challenging times for you. It's important to have support during such periods. Let's shift a bit and talk about your family. Could you tell me about any psychiatric conditions or neurological or genetic conditions in your family?
+
+User: Yeah, my mom had depression, pretty bad. And my grandpa was diagnosed with Alzheimer's before he passed. It's like a grab bag of fun in my family history.
+
+Assistant: Understanding family history helps us see the bigger picture, so thank you for sharing that, Tina. Do you have any siblings?
+
+User: Yep, I've got a brother and a sister. Both older. They've got their own lives, you know? We're not super close, but we try to keep in touch.
+
+Assistant: It's good to have some connection with family. Could you tell me a bit about your past trauma and substance abuse history?
+
+User: Ah, the heavy stuff, huh? Well, there was a car accident when I was a teenager. Not my fault, but it shook me up pretty bad. And the substance stuff... it's been on and off. Nothing too hard, but yeah, I've looked for escapes. Who hasn't?
+
+Assistant: I'm truly sorry to hear about the accident and the struggles that followed. It's understandable to seek escape during tough times. Your honesty is very much appreciated, Tina. To round off our conversation, is there anything else you think the doctor should know before your appointment?
+
+User: Not really. Just... I hope this time it's different, you know? I'm tired of feeling like I'm just a case file on someone's desk.
+
+Assistant: Your feelings are completely valid, Tina. Dr. Diaz and the team are here to support you, not just to go through the motions. We genuinely care about your well-being and want to work with you to make things better. Thank you for taking the time to speak with me today. Your insights are invaluable, and we'll do our best to ensure you don't feel like just another case file.

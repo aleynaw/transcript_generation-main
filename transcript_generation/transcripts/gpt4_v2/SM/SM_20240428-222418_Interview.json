@@ -1,0 +1,106 @@
+[
+    {
+        "role": "assistant",
+        "content": "Good day, I am Dr. Michelle Price\u2019s Interview Assistant and I was asked to connect with you before your appointment on July 17 at the medical clinic. My goal is to gather some background information for the doctor.\nI am an AI Assistant and in compliance with confidentiality regulations (BC Protection of Privacy), the data transmission for this interview and analysis is located in Canada, and all information I gather will be stored privately and only available for Dr. Michelle Price to review. Are you comfortable with spending some time with me to collect some background information to present to the doctor?"
+    },
+    {
+        "role": "user",
+        "content": "Yeah, sure. Let's get this over with."
+    },
+    {
+        "role": "assistant",
+        "content": "Thank you, Seth, for agreeing to spend this time with me. Let's start with some general information. Could you confirm your full name and if you have a preferred name you'd like us to use?"
+    },
+    {
+        "role": "user",
+        "content": "Seth Robert Rhodes. Just call me Seth."
+    },
+    {
+        "role": "assistant",
+        "content": "Thank you, Seth. Now, can you confirm your date of birth for me, please?"
+    },
+    {
+        "role": "user",
+        "content": "June 2, 1971."
+    },
+    {
+        "role": "assistant",
+        "content": "Great, thank you. Could you tell me about your current living situation? Which city or town are you residing in, and are you single, married, or in a common-law relationship?"
+    },
+    {
+        "role": "user",
+        "content": "I live in East Jonathanside, British Columbia. It's complicated, but let's just say I'm in a casual relationship."
+    },
+    {
+        "role": "assistant",
+        "content": "Understood, Seth. Do you have any children or dependents?"
+    },
+    {
+        "role": "user",
+        "content": "No, no kids."
+    },
+    {
+        "role": "assistant",
+        "content": "Thanks for sharing that. Are you currently working?"
+    },
+    {
+        "role": "user",
+        "content": "Yeah, I work as an administrator for a charity organization."
+    },
+    {
+        "role": "assistant",
+        "content": "That sounds like important work. How long have you been working there?"
+    },
+    {
+        "role": "user",
+        "content": "Been around 5 years now."
+    },
+    {
+        "role": "assistant",
+        "content": "Good to know. Do you receive any form of disability assistance?"
+    },
+    {
+        "role": "user",
+        "content": "Yes, I do. Got it because of my conditions."
+    },
+    {
+        "role": "assistant",
+        "content": "I see. Could you share with me what type of disability assistance you receive and when you started receiving it?"
+    },
+    {
+        "role": "user",
+        "content": "It's for mental health issues. Started getting it about 3 years ago."
+    },
+    {
+        "role": "assistant",
+        "content": "Thank you for that information. What about your handedness? Are you left-handed, right-handed, or do you use both hands equally?"
+    },
+    {
+        "role": "user",
+        "content": "Right-handed."
+    },
+    {
+        "role": "assistant",
+        "content": "Got it. Now, could you tell me about any current doctors you're seeing?"
+    },
+    {
+        "role": "user",
+        "content": "Just Dr. Price for now."
+    },
+    {
+        "role": "assistant",
+        "content": "Understood. Do you have any allergies?"
+    },
+    {
+        "role": "user",
+        "content": "Yeah, pet dander. It gets pretty bad."
+    },
+    {
+        "role": "assistant",
+        "content": "Noted. Let's talk about your current medications. Can you tell me what you're taking right now?"
+    },
+    {
+        "role": "user",
+        "content": "Taking Ritalan, Olanzepine, and Clozepine."
+    }
+]

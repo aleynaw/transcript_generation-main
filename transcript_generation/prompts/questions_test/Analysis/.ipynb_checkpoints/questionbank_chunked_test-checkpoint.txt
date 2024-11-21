@@ -1,0 +1,21 @@
+## General Information ##
+# Personal Information
+- full name
+- preferred name
+- date of birth
+- sex
+- handedness: left, right, both
+
+# Residence and Marital Status
+- current city/town of residence
+- single, married, or common law?
+- any children or dependents?
++ if yes, names and ages?
+
+# Employment and Financial Status
+- currently working?
++ if yes, name of company? years working?
+- disability assistance status
++ if yes, what type and when?
+
+# End of interview

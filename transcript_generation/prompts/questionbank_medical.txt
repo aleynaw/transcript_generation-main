@@ -1,0 +1,11 @@
+# Medical History
+- health conditions/diagnoses and details such as when you were diagnosed?
+- previous hospitalizations, surgeries
+- history of head injuries/concussions
++ if yes, when and how?
+- history of seizures
++ if yes, when it started?
+- history of rehab or substance counselling 
++ if yes, where? when?
+- other medical professionals seen 
++ if yes, who/when/why?

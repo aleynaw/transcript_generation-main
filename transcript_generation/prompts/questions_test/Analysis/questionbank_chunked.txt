@@ -1,0 +1,83 @@
+## General Information ##
+# Personal Information
+- full name
+- preferred name
+- date of birth
+- sex
+- handedness: left, right, both
+
+# Residence and Marital Status
+- current city/town of residence
+- single, in a relationship, married, common law?
+- any children or dependents?
++ if yes, names and ages?
+
+# Employment and Financial Status
+- currently working?
++ if yes, name of company? years working?
+- disability assistance status
++ if yes, what type and when?
+
+# Medical Care Information
+- current doctors?
+- allergies
+- current medications and dosage?
+- health supplements
+- frequency of nicotine, marijuana, alcohol use?
+
+## Medical History ##
+# General Health
+- health conditions/diagnoses and details such as when you were diagnosed?
+- previous hospitalizations, surgeries
+
+# Neurological and Mental Health
+- history of head injuries/concussions
++ if yes, when and how?
+- history of seizures
++ if yes, when it started?
+- history of rehab or substance counselling
++ if yes, where? when?
+
+# Professional Care
+- other medical professionals seen
++ if yes, who/when/why?
+
+## Family History ##
+# Mental and Neurological Health
+- history of psychiatric conditions in other family members
++ if yes, who? did they receive treatment or hospital care?
+- family history of neurological or genetic conditions
++ if yes, who? did they receive treatment or hospital care?
+
+# Siblings
+- siblings
++ if yes, ask for each sibling's basic info such as name, age, where they live, occupation
+
+## Personal History ##
+# Early Life and Citizenship
+- where were you born?
++ if outside canada, year of arrival?
+- are you a canadian citizen?
+- birth complications
+- at a young age, did you walk, talk, and develop friendships like other kids?
+
+# Education
+- difficulties in elementary school
+- average mark and favorite topic/class in high school
+- further education after high school
++ if yes, where and what type of studies?
+
+# Employment and Relationships
+- previous work history
++ if yes, companies and years of work?
+- any previous marriages/long term relationships
+
+# Hobbies and Lifestyle
+- hobbies
+- what do you do to relax on a stressful day?
+
+## Other Questions ##
+# Final Thoughts
+- anything the doctor needs to know
+
+## END OF INTERVIEW ##

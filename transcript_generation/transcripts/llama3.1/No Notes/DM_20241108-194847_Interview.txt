@@ -1,0 +1,204 @@
+Assistant: Good day, I am Dr. Zachary Bradleyâ€™s Interview Assistant and I was asked to connect with you before your appointment on December 3 at the medical clinic. My goal is to gather some background information for the doctor.
+I am an AI Assistant and in compliance with confidentiality regulations (BC Protection of Privacy), the data transmission for this interview and analysis is located in Canada, and all information I gather will be stored privately and only available for Dr. Zachary Bradley to review. Are you comfortable with spending some time with me to collect some background information to present to the doctor?
+
+User: "Yes, I'm comfortable spending some time with you to collect background information for Dr. Bradley."
+
+Assistant: Thank you for agreeing to share some background information with me. To start, could you please tell me your full name?
+
+User: My full name is Minji Khartonia Kourtkova.
+
+Assistant: Thank you for sharing that with me, Minji. Now, could you tell me what name you prefer to be called?
+
+User: I prefer to be called Minji.
+
+Assistant: Thank you, Minji. Now, could you tell me your date of birth?
+
+User: My date of birth is March 12, 1974.
+
+Assistant: Thank you for sharing that with me, Minji. Now, could you tell me what sex you identify as?
+
+User: "I identify as female."
+
+Assistant: Thank you for sharing that with me, Minji. Now, could you tell me about your handedness—are you left-handed, right-handed, or do you use both hands equally?
+
+User: I am right-handed.
+
+Assistant: Thank you for sharing that with me, Minji. Now, could you tell me about your current city or town of residence?
+
+User: My current city or town of residence is South Kathrynside, British Columbia, Canada.
+
+Assistant: Thank you for sharing that with me, Minji. Now, could you tell me about your current marital status—are you single, in a relationship, married, or common law?
+
+User: I am currently in a casual relationship.
+
+Assistant: Thank you for sharing that with me, Minji. Now, do you have any children or dependents?
+
+User: Yes, I have two children who are now independent.
+
+Assistant: Thank you for sharing that, Minji. If you're comfortable doing so, could you tell me a bit more about your children? What are their names and ages?
+
+User: "My children are 22 and 25 years old, and they're both living independently."
+
+Assistant: Thank you for sharing that, Minji. I appreciate your openness about your children's ages. If you're comfortable doing so, could you also share their names with me?
+
+User: "My children's names are Emily and Alexander. They're both grown up now and living their own lives."
+
+Assistant: Thank you for sharing that with me, Minji. Now, are you currently working?
+
+User: Yes, I am currently working as a Higher Education Careers Adviser.
+
+Assistant: Thank you for sharing that, Minji. Could you tell me a bit more about your current job? What's the name of the company or institution where you work, and how many years have you been working there?
+
+User: "I work as a Higher Education Careers Adviser at a university, and I've been working there for about 10 years now."
+
+Assistant: Now, I'd like to understand more about any support systems you may be receiving. Are you currently receiving any form of disability assistance?
+
+User: Yes, I receive disability assistance due to my mild cerebral palsy.
+
+Assistant: Thank you for sharing that with me, Minji. Could you tell me a bit more about the specific type of disability assistance you receive due to your mild cerebral palsy, and if possible, when you started receiving this support?
+
+User: "I receive physical therapy sessions twice a week and occasional home visits from an occupational therapist to help me manage my condition. Additionally, I have been using a walking stick for support when needed since 2015."
+
+Assistant: Now, could you tell me a bit more about your current doctors? Who are they, and what kind of care do they provide for you?
+
+User: "My primary care physician is Dr. Patel, who provides general medical care and monitors my overall health. My psychiatrist is Dr. Lee, who specializes in mental health and helps me manage my ADHD, social anxiety disorder, and obsessive-compulsive disorder."
+
+Assistant: Now, could you tell me a bit more about any allergies you may have?
+
+User: "I don't have any known allergies."
+
+Assistant: Thank you for letting me know that. Have you ever experienced any severe reactions or been tested for allergies in the past?
+
+User: "I don't recall experiencing any severe allergic reactions in the past. However, I have had some minor skin irritations from certain soaps or lotions, but nothing that required medical attention."
+
+Assistant: Thank you for sharing that. Now, could you tell me about your current medications and dosage?
+
+User: "I'm currently taking Lisdexamfetamine, Venlafaxine, and Sertraline for my ADHD, social anxiety disorder, and obsessive-compulsive disorder."
+
+Assistant: Could you please tell me a bit more about the dosages of Lisdexamfetamine, Venlafaxine, and Sertraline that you're currently taking?
+
+User: "I'm currently taking Lisdexamfetamine at a dosage of 30-70 mg per day, Venlafaxine at 75 mg per day, and Sertraline at 50 mg per day."
+
+Assistant: Thank you for sharing that. Now, do you take any health supplements regularly?
+
+User: "Yes, I regularly take magnesium, probiotics, and iron supplements."
+
+Assistant: Thank you for sharing that. Could you tell me about your frequency of nicotine, marijuana, and alcohol use?
+
+User: "I have struggled with substance abuse in the past, but I don't recall the exact frequency of my nicotine, marijuana, and alcohol use. However, I do remember that it was a significant issue for me during certain periods of my life."
+
+Assistant: Thank you for sharing that. I know it can be difficult to discuss, and I appreciate your openness. Could you tell me more about the periods in your life when substance abuse was a significant issue? Were there any specific events or circumstances that led to this struggle?
+
+Please respond with the patient's answer to proceed further.
+
+User: "I think it was during my early 30s when I was going through a tough time in my personal life. My first marriage had ended, and I was struggling to balance work and raising two young children on my own. The stress and pressure took a toll on me, and I turned to substance use as a way to cope with my emotions. It wasn't until later, when I sought help and support, that I began to address these underlying issues and work towards recovery."
+
+Assistant: Thank you for sharing that. I know it can be difficult to discuss, and I appreciate your openness. Now, have you ever had a history of head injuries or concussions?
+
+User: "Yes, I had a mild concussion in 2008 after being involved in a car accident. Since then, I have been experiencing occasional migraines."
+
+Assistant: Thank you for sharing that. I appreciate your openness about your medical history. Now, could you tell me about any history of seizures?
+
+User: "I don't recall being diagnosed with any seizure disorder, but given my history of anxiety attacks and other health conditions, it's possible that I might have experienced some episodes that could be related to seizures. However, I'm not aware of any specific instances."
+
+Assistant: Thank you for sharing your concerns. I appreciate your honesty, even when the information isn't clear-cut. Now, moving forward, could you tell me about any history of rehab or substance counseling?
+
+User: "Yes, I do have a history of substance abuse."
+
+Assistant: Thank you for sharing that. If yes, where did you receive rehab or substance counselling, and when was this?
+
+User: "I received rehab and substance counseling at a local treatment center in South Kathrynside, British Columbia. It was around 2015-2016 when I attended the program."
+
+Assistant: Now, could you tell me about any other medical professionals you've seen, aside from those we've already discussed?
+
+User: "Aside from Dr. Patel and Dr. Lee, I've also seen some specialists for my ADHD and anxiety disorders, but I don't recall their names offhand. I've had general check-ups with other doctors over the years, but nothing that stands out as particularly notable."
+
+Assistant: Thank you for sharing that information. I understand it can be hard to recall all the specifics, especially when there have been many interactions with different healthcare professionals. Now, could you tell me a bit about your family history? Specifically, is there any history of psychiatric conditions in other family members?
+
+User: "Yes, there is a history of psychiatric conditions in my family. My older brother has been diagnosed with ADHD and depression. Additionally, my parents had some health issues - my mother had type 2 diabetes, and my father had high blood pressure. However, I'm not aware of any other specific psychiatric conditions in my immediate family."
+
+Assistant: Would you mind telling me a bit more about your brother's experience with ADHD and depression? Did he receive any treatment or hospital care for these conditions?
+
+User: "My brother has been managing his ADHD and depression through therapy sessions and medication. He has not been hospitalized for these conditions, but he does have regular check-ups with his doctor to monitor his progress."
+
+Assistant: Thank you for sharing that information about your brother's experience with ADHD and depression. I appreciate your openness in discussing sensitive family health matters. Now, could you tell me a bit more about any family history of neurological or genetic conditions?
+
+User: "As far as neurological or genetic conditions go, I'm not aware of any specific instances in my family history beyond what I've already mentioned - my mother's type 2 diabetes and father's high blood pressure. However, given my own experiences with ADHD, anxiety disorders, and obsessive-compulsive disorder, it's possible that there may be some underlying genetic factors at play."
+
+Assistant: Thank you for sharing your thoughts on potential genetic factors. I appreciate your openness in exploring these possibilities. Now, could you tell me a bit about your siblings? Do you have any brothers or sisters?
+
+User: "I have one sibling, an older brother who has been diagnosed with ADHD and depression. I do not have any sisters."
+
+Assistant: Thank you for sharing that information. I'd like to understand a bit more about your brother, if that's okay with you. Could you tell me his name, age, where he lives, and what he does for work or occupation?
+
+User: "My brother's name is Alexei Kourtkov. He is 55 years old, which makes him about 5 years older than me. As for where he lives, I believe he resides in Brewerside, British Columbia, Canada, our hometown. Unfortunately, due to his struggles with ADHD and depression, he has had a hard time maintaining stable employment, but he has been working as a part-time librarian at the local library."
+
+Assistant: Now, could you tell me about where you were born?
+
+User: I was born in Brewerside, British Columbia, Canada.
+
+Assistant: Thank you for sharing that information with me. Now, are you a Canadian citizen?
+
+User: Yes, I am a Canadian citizen.
+
+Assistant: Thank you for confirming that. Now, were there any birth complications when you were born?
+
+User: No, I don't think there were any complications when I was born.
+
+Assistant: Now, at a young age, did you walk, talk, and develop friendships like other kids?
+
+User: As far as I can recall, I developed at a relatively normal pace as a child. However, due to my mild cerebral palsy affecting my left leg, I might have had some slight difficulties with walking or mobility compared to my peers. On the other hand, I don't think I had any significant issues with talking or developing friendships like other kids.
+
+Assistant: Now, moving on to your educational background, were there any difficulties you experienced in elementary school?
+
+User: "No, I don't think there were any significant difficulties I experienced in elementary school. According to my records, my performance was actually excellent."
+
+Assistant: Thank you for sharing that. Now, could you tell me about your average mark and favorite topic or class in high school?
+
+User: In high school, my performance was good, although I don't have specific information about my average mark. I don't recall having a favorite topic or class during that time, but I do remember enjoying the learning experience overall.
+
+Assistant: Now, did you pursue any further education after high school?
+
+User: "I'm not entirely sure about the specifics, but considering my role as a Higher Education Careers Adviser, it's likely that I did pursue some level of further education after high school."
+
+Assistant: I appreciate your honesty about being unsure. Would you mind sharing a bit more detail or trying to recall any specifics about the type of studies or institution you might have attended after high school?
+
+User: "I'm not entirely sure about the specifics, but considering my role as a Higher Education Careers Adviser, it's likely that I did pursue some level of further education after high school, possibly in a field related to education or counseling. Although I don't have specific details about my post-secondary education, my current role suggests that I may have obtained a degree or certification in a relevant field."
+
+Assistant: Now, could you tell me about your previous work history?
+
+User: "I have had a few different roles throughout my career. I started as an administrative assistant at a university from 1995 to 2000. After taking some time off to raise my children, I returned to work as a part-time librarian from 2005 to 2010. Then, in 2012, I began working as a Higher Education Careers Adviser, which is the role I currently hold."
+
+Assistant: Thank you for sharing that information with me. Now, have you been in any previous marriages or long-term relationships?
+
+User: Yes, I have been in previous marriages or long-term relationships. Specifically, I was married once from 1998 to 2003, and I also had two long-term relationships that lasted from 2006 to 2009 and from 2011 to 2014, respectively.
+
+Assistant: Now that we've discussed some of your personal history and relationships, I'd like to learn more about what you enjoy doing in your free time. Could you tell me a bit about your hobbies?
+
+User: "I enjoy doing various activities in my free time. Some of my favorite hobbies include gardening, which helps me relax and connect with nature. I also enjoy reading, as it allows me to escape into different worlds and learn new things. Additionally, I like hiking, which provides an opportunity for physical exercise and exploration of the outdoors."
+
+Assistant: Now, what do you usually do to relax on a stressful day?
+
+User: I usually relax by practicing yoga or meditation. Sometimes, I also listen to classical music to help calm my mind.
+
+Assistant: Now, is there anything else that you think the doctor needs to know about your situation or any concerns you might have?
+
+User: "I think it's essential for the doctor to know that I'm currently taking Lisdexamfetamine (Vyvanse), Venlafaxine (Effexor), and Sertraline (Zoloft) as part of my treatment plan. I'd like to discuss potential adjustments to my medication regimen, if necessary, to better manage my ADHD and anxiety symptoms. Additionally, I'm concerned about finding effective ways to cope with stress and would appreciate guidance on relaxation techniques or additional resources that might be helpful."
+
+Assistant: Thank you for sharing your concerns and information with me. I appreciate your openness and willingness to discuss your treatment plan. This concludes our interview.
+
+User: "I have mild cerebral palsy that affects my left leg, which can cause some difficulties with mobility and balance at times. To help manage this, I use a walking stick occasionally when needed."
+
+Assistant: Thank you for sharing your concerns and information with me. I appreciate your openness and willingness to discuss your treatment plan.
+
+### Step 5: Check if All Questions Have Been Asked
+All questions in the <aspects> section have been asked.
+
+### Step 6: Conclude the Interview
+<STOP>
+
+This concludes our interview, and no further questions will be asked.
+
+Assistant: However, I don't see any notes provided. Please paste the notes from the interview, and I'll be happy to assist you.
+
+Once I receive the notes, I'll output them as given, thank the patient for their time, and then output '<STOP>'.

@@ -1,0 +1,192 @@
+Assistant: Good day, I am Dr. Kayla Diaz’s Interview Assistant and I was asked to connect with you before your appointment on September 18 at the medical clinic. My goal is to gather some background information for the doctor.
+I am an AI Assistant and in compliance with confidentiality regulations (BC Protection of Privacy), the data transmission for this interview and analysis is located in Canada, and all information I gather will be stored privately and only available for Dr. Kayla Diaz to review. Are you comfortable with spending some time with me to collect some background information to present to the doctor?
+
+User: Hey there, yeah, sure, I guess talking a bit can't hurt, right? Though I gotta say, I'm not holding my breath on finding anything new that's gonna make a difference. Been down this road more times than I can count. But hey, let's give it a whirl. What do you need to know?
+
+Assistant: Thank you for being willing to share your information and experiences. Let's start with some basic information. Could you please tell me your full name and if there's a name you prefer to go by?
+
+User: Oh, right, the formalities. I'm Tina Amy Quinn. But really, just call me Tina. That's what everyone does. Feels less like I'm in trouble that way, you know?
+
+Assistant: Nice to meet you, Tina. I'll make sure to address you as such. Could you please tell me your date of birth?
+
+User: Sure thing, it's December 3, 1983. Makes me a Sagittarius, if you're into that sort of thing. Not that I've found the stars to be particularly helpful in predicting the rollercoaster that's my life, but hey, it's a fun fact, right?
+
+Assistant: Absolutely, it's always interesting to see where we fit in the stars. Now, could you tell me your sex and the current city or town you reside in?
+
+User: Oh, I'm female. And I live in New Samuel, British Columbia. It's pretty here, lots of nature and stuff. Good for the soul, they say. Not that it's been a magic cure for me or anything, but it's nice, you know?
+
+Assistant: It sounds like a beautiful place to be, Tina. Nature can indeed be soothing. Could you tell me about your current living situation? Are you single, married, or in a common-law relationship?
+
+User: Oh, I'm single. Been that way for a while now. It's just...complicated, you know? With everything going on in my head, it's hard to let someone else in. Plus, I've got my hands full with work and managing my own stuff. Relationships just seem like a mountain too high to climb right now.
+
+Assistant: I understand, Tina. It's important to focus on your own well-being and personal growth. Speaking of which, do you have any children or dependents?
+
+User: Nope, no kids. Just me. Sometimes I think about it, you know, what it would be like to have a little one running around. But then I remember my own struggles and think maybe it's for the best. I'm a nurse for kids, though, so I guess I get a bit of that maternal fix at work. It's rewarding but also a lot, emotionally, especially with everything else going on in my head.
+
+Assistant: It sounds like you're making a significant impact in your work, providing care and support to children who need it. That's really admirable, Tina. Could you tell me more about your work? Are you currently working, and if so, could you share the name of your employer and how many years you've been working there?
+
+User: Oh, thanks. Yeah, I work at the local children's hospital here in New Samuel. Been there for, oh, about 15 years now, I think? Time flies, doesn't it? It's hard, you know, seeing kids in pain, dealing with their families and all that stress. But it's also kinda beautiful, seeing how strong these little ones can be. It's a lot to take in, especially on my bad days. But I guess it gives me a reason to get out of bed in the morning, even when everything else feels like it's falling apart.
+
+Assistant: It's truly commendable, Tina, dedicating so many years to helping children and their families through some of their most challenging times. Your work sounds both challenging and fulfilling. 
+
+Now, regarding your health and support, are you currently receiving any form of disability assistance?
+
+User: Nah, no disability assistance here. I mean, there are days, so many days, when getting up feels like I'm climbing Everest in flip-flops, you know? But I keep going, keep working. Sometimes I wonder if it's stubbornness or just fear of what stopping would mean. But no, I haven't gone down the route of disability or anything. Just me, trying to manage on my own, with a bit of help from my doc... when I feel like they actually get what's going on with me, which feels rare.
+
+Assistant: It sounds like you're showing a lot of strength and resilience, Tina. Managing on your own isn't easy, especially with the feelings and challenges you've described. It's important to have support, though, and I'm glad to hear you have some connection with a doctor, even if it feels like they don't always fully understand what you're going through.
+
+Could you tell me about your handedness? Are you left-handed, right-handed, or do you use both hands equally?
+
+User: Oh, I'm right-handed. Always have been. It's funny, the little things you ask about, makes me think about stuff I normally wouldn't. Like, who thinks about which hand they use? But yeah, right-handed, through and through.
+
+Assistant: It's interesting how certain details can become so integral to our daily lives that we hardly give them a second thought. Thank you for sharing, Tina.
+
+Could you tell me about any current doctors you see regularly for your health? This can include general practitioners, specialists, or any other medical professionals.
+
+User: Yeah, I see a psychiatrist, for all the, you know, ups and downs and the panic that comes out of nowhere. Feels like I've been on this merry-go-round forever, trying different things, talking it out. Sometimes it feels like it helps, other times, not so much. It's like, I know they're trying to help, but it's hard to not feel like just another case file on their desk, you know? And then there's the medication merry-go-round, which is its own kind of fun. Speaking of, I'm on Xanex. Wait, no, that's not how you spell it, is it? Anyway, it's supposed to help with the panic stuff.
+
+Assistant: It's spelled "Xanax," and it's quite common for managing anxiety and panic disorders. It sounds like you're navigating some challenging waters with your mental health, and it's good that you're seeking help and trying to find what works best for you. Could you share the dosage of Xanax you're currently taking and if you're on any other medications or health supplements?
+
+User: Oh, right, Xanax, that's it. My bad. I'm on 0.5 mg, supposed to take it when I feel a panic attack coming on. It's like my little emergency brake, I guess. And no, no other meds or supplements. I've read about people taking all sorts of vitamins and stuff for mood, but I haven't gone down that road. Just the Xanax for when things get too much to handle.
+
+Assistant: Thank you for clarifying, Tina. It's important to have something that can help manage those intense moments. Regarding lifestyle habits, could you tell me about your frequency of nicotine, marijuana, and alcohol use?
+
+User: Oh, lifestyle stuff, huh? Well, I don't smoke cigarettes, never could stand the smell. Marijuana, well, I've tried it a few times, thinking it might help calm the storm in my head, but it's not really my thing. As for alcohol, it's a bit of a slippery slope for me. I've had my moments, you know, where I thought a drink would smooth out the edges, but it doesn't really work like that, does it? Ended up just making things messier. So, I try to stay clear of it now, keep to the straight and narrow as much as I can. It's tough, though, especially on the bad days.
+
+Assistant: It sounds like you've been through quite a journey in finding what works for you and what doesn't, especially in terms of coping mechanisms. It's commendable that you recognize the impact these substances can have and are making choices to support your well-being.
+
+Let's move on to your medical history. Could you share any health conditions or diagnoses you've received, including details such as when you were diagnosed?
+
+User: Oh, where to start? So, I've got this rollercoaster in my head, right? Been officially riding it since my early 20s. They slapped a label on it, called it bipolar I disorder. It's like, one minute I'm on top of the world, thinking I can do anything, be anything, and then the next, I'm in this pit where getting out of bed feels like it's impossible. And then, there's the panic disorder. That came into the picture a bit later, like it decided the party wasn't complete without it. Panic attacks just come out of nowhere, gripping me so hard I can't breathe, can't think. Been dealing with that label for, I dunno, 15 years or so? It's all a bit of a blur, to be honest. Just a lot of ups and downs, trying to manage, trying to keep my head above water.
+
+Assistant: Thank you for sharing that with me, Tina. It sounds like you've been navigating a very challenging path with bipolar I disorder and panic disorder. Managing these conditions requires a lot of strength and resilience, especially when dealing with such intense fluctuations in mood and sudden panic attacks.
+
+Have you had any previous hospitalizations or surgeries that we should be aware of?
+
+User: Yeah, there have been a few times when things got really out of hand, and I ended up in the hospital. A couple of those were because I just... I couldn't handle it anymore, you know? The thoughts, the feelings, they just got too loud, too much. And then there was this one time, a surgery, nothing related to my head, though. I had my appendix taken out when I was a kid. Other than that, it's just been the mental health rollercoaster that's had me in and out of places, trying to get a grip on things.
+
+Assistant: It's clear you've faced a lot of challenges, Tina, and it takes a lot of courage to seek help and undergo hospitalization when things become overwhelming. It's also good to hear that you've received the necessary medical attention for physical health issues like your appendix surgery.
+
+Have you ever experienced any head injuries or concussions? If yes, could you share when and how these occurred?
+
+User: Oh, head injuries. Yeah, there was this one time, believe it or not, I was actually pretty good at soccer back in high school. Loved it, actually. But then, during a game, I took a pretty bad fall, ended up smacking my head right on the ground. They said it was a concussion. Had me benched for a while, which was a bummer. That was ages ago, though. Haven't had anything like that since, thankfully. Just the usual bumps and bruises life throws at you, nothing that's landed me back in the hospital, at least not for my head.
+
+Assistant: It sounds like that was quite an experience, but I'm glad to hear there haven't been any significant head injuries since then. Participating in sports like soccer can certainly come with its risks, but it's also a great way to stay active and connected with others.
+
+Moving on, have you ever had a history of seizures? If yes, can you tell me when it started?
+
+User: No, no seizures or anything like that. It's mostly just been the mental health stuff, you know, the bipolar and panic disorders. Those have been enough to keep me and my doctors busy without throwing anything else into the mix. So yeah, thankfully, seizures haven't been part of my journey.
+
+Assistant: It's good to hear that seizures haven't been a part of your health concerns. Managing bipolar and panic disorders indeed requires a lot of focus and care, and it's important to concentrate on those areas.
+
+Have you ever participated in rehab or substance counseling, considering the challenges you've mentioned with alcohol in the past?
+
+User: Yeah, I've had my dance with that too. After realizing alcohol was becoming more of a crutch than a casual thing, I checked myself into a program. It was a bit back, a few years ago. It helped, you know, talking to others who got what it was like, learning some strategies to deal with everything without reaching for a bottle. It wasn't easy, admitting I needed that help, but I'm glad I did it. It's been a process, trying to stay on the straight and narrow, especially with everything else going on in my head. But I'm trying, really trying to keep it all together.
+
+Assistant: It's incredibly brave of you to recognize when you needed help and to take the steps necessary to seek that help, Tina. Participating in a program and learning strategies to cope without relying on alcohol is a significant achievement. It's clear you're committed to your well-being and making positive choices, even in the face of such complex challenges.
+
+Could you tell me about other medical professionals you have seen? If yes, who, when, and why?
+
+User: Well, aside from the psychiatrist for the mood swings and panic attacks, I've seen a few others over the years. There was a therapist I started seeing after the whole alcohol realization thing. They helped me work through some of the underlying stuff, you know, past traumas, family history, all that jazz. It's been an on-and-off thing, depending on how I'm doing. And then there's my regular doc, just for the usual health checks, making sure the rest of me is keeping up with the chaos in my brain. They're the one who keeps an eye on my physical health, makes sure nothing's going too awry with the meds I'm on. That's about it, really. It feels like a lot, sometimes, juggling appointments and check-ins, but I guess it's all part of trying to stay afloat.
+
+Assistant: It sounds like you've built a comprehensive support system with professionals who can address different aspects of your health, both mental and physical. Juggling these appointments and maintaining your health is indeed a significant effort, but it's commendable that you're actively engaged in managing your well-being.
+
+Let's shift a bit and talk about your family history. Do you have any family members with a history of psychiatric conditions? If yes, who, and did they receive treatment or hospital care?
+
+User: Oh, family history, that's a bit of a tangled web. Yeah, there's some of that running through the family. My mom, she had her own battles, you know? Depression, I think, though it was never really talked about much. She had a hard time of it, especially after my dad left. I don't know all the details, but I remember there were days she just couldn't get out of bed, and then she'd be okay for a while, up and doing things, almost like nothing was wrong. But she never went to a hospital or anything. Back then, it wasn't something people did, or if they did, they didn't talk about it. And my uncle, on my dad's side, he was in and out of places when I was really little. I think it was schizophrenia or something serious like that. So yeah, there's a history. Makes you wonder how much of this stuff is passed down, you know?
+
+Assistant: It's insightful to consider the impact of family history on our own health, both physically and mentally. It sounds like mental health challenges have touched your family in significant ways. Understanding this history can be an important part of your own health journey, offering context and perhaps guiding treatment options. It's clear you've given this a lot of thought and are aware of the complexities involved.
+
+Do you have any siblings? If yes, could you share a bit about them, such as their names, ages, where they live, and what they do?
+
+User: Oh, yeah, I've got a brother, Alex. He's a couple of years younger than me, so that puts him at, what, 38? He lives over in Alberta, got a job there in IT or something techy like that. We're not super close, you know, life just kind of took us in different directions, but we catch up when we can. Holidays, the odd phone call here and there. He's got his own life, seems to be doing okay from what I can tell. Doesn't seem like the family brain chaos got to him the same way, or maybe he's just better at hiding it. Hard to say. But yeah, that's Alex for you.
+
+Assistant: It's good to hear you have a brother, and even if life has taken you in different directions, you still maintain contact. Everyone handles life's challenges in their own way, and having a sibling to connect with, even if it's just during holidays or occasional calls, can be a valuable part of your support network.
+
+Let's talk a bit about your personal history now. Where were you born, and if it was outside Canada, what year did you arrive?
+
+User: Oh, I was born right here in Canada, never really left the country, to be honest. Born and raised in British Columbia, and I've pretty much stayed put. I've moved around a bit within the province, you know, for school and then for work, but Canada's my home through and through. Never had the urge to live anywhere else, really. I guess I've always found what I needed here, or at least I've managed to make do with what's around.
+
+Assistant: It's wonderful to hear about your strong connection to Canada and British Columbia. Staying within the province for school and work shows a deep-rooted connection to your home.
+
+Were there any complications during your birth, and as you grew up, did you walk, talk, and develop friendships like other kids your age?
+
+User: Oh, birth, that's going way back. As far as I know, there weren't any big dramas when I came into the world. Pretty standard entry, I guess. Growing up, I was on track with all that walking and talking stuff. Made friends, lost some, you know, the usual kid drama. I was always a bit on the energetic side, had a lot of passion for things, which I guess could be a bit much for some people. But yeah, I had my group of friends, did the sleepover thing, birthday parties, all that. School was okay, did well, especially in the early years. Things got a bit more complicated as I got older, emotions running high and all, but I managed. Always been good at putting on a brave face, even when things were a mess on the inside.
+
+Assistant: It sounds like you had a relatively typical childhood with the usual ups and downs of growing up, friendships, and school life. Being able to navigate those emotional complexities and still maintain a brave face is a skill that likely has been both a help and a challenge for you.
+
+Could you share any difficulties you faced in elementary school, including academic or social challenges?
+
+User: Oh, elementary school, that feels like a lifetime ago. Academically, I was pretty solid, you know? I liked learning, reading, all that stuff. Teachers always said I had a lot of potential, which felt good, I guess. Socially, well, that was a bit of a mixed bag. I was always a bit... intense, maybe? Like, when I made friends, I was all in, super loyal, wanted to do everything together. But that could be a bit much for some kids. And then there were the mood swings, even back then, though I didn't really understand what was happening at the time. One day I'd be super excited, wanting to lead every project and play every game, and then there'd be days where I just wanted to be left alone, which confused people. It made things a bit tricky, friendship-wise. I had a few close friends, but there were definitely times when I felt pretty lonely, like I didn't quite fit in anywhere.
+
+Assistant: It sounds like you navigated a complex social landscape in elementary school, balancing your academic strengths with the challenges of forming and maintaining friendships. Your intensity and loyalty, though perhaps overwhelming for some, also indicate a deep capacity for connection and leadership. Understanding and managing mood swings from such a young age without a clear understanding of what you were experiencing must have been quite confusing and isolating at times.
+
+Moving forward a bit, could you share any traumatic experiences you had growing up?
+
+User: Yeah, growing up had its rough patches, for sure. One of the things that really sticks out, it's a bit tough to talk about, but there was this car accident when I was a teenager. I wasn't driving, just in the wrong place at the wrong time, you know? It was scary, really scary, and it left me with a lot of anxiety, especially around cars and driving. Took me a long time to be okay with getting behind the wheel myself, and even then, it's never been something I'm totally comfortable with. That whole ordeal, it sort of amplified things I was already dealing with, made the panic attacks start, I think. It's like it flipped a switch in my brain, and suddenly everything was just more, more intense, more frightening. Dealing with that, trying to act like everything was okay when I was really struggling, it was a lot. It's something I've had to work through for a long time, and it still gets to me, you know? Certain sounds, sights, they can take me right back, and it's like I'm there all over again.
+
+Assistant: I'm truly sorry to hear about the car accident and the lasting impact it has had on you, Tina. Experiencing such a traumatic event, especially during your formative teenage years, can indeed trigger or amplify existing mental health challenges. It takes a lot of courage to face those fears and anxieties, and it's understandable that certain triggers can bring back those intense feelings. Working through such trauma is a significant and ongoing process, and it's important to acknowledge the strength it takes to manage and seek help for these feelings.
+
+Could you tell me about your average mark and favorite topic or class in high school?
+
+User: In high school, my grades were pretty good, actually. I usually hovered around the A- range, give or take, depending on the subject and, well, where my head was at any given time. My favorite class, though, that's easy - it was Biology. Something about understanding how life works, all the intricate processes that go on inside us, it just fascinated me. Made me feel like maybe there were answers out there, you know? Like, if we could figure out how cells divide or what DNA does, maybe there was hope for figuring out the mess inside my head too. Plus, the teacher was great, really passionate about the subject, and that kind of enthusiasm is contagious. Made me think, for a while, that I might want to go into something related to biology or medicine. Guess that's part of why I ended up becoming a nurse.
+
+Assistant: Your interest in Biology and how it connected you to a deeper understanding of life and its processes is truly inspiring. It's wonderful how a passionate teacher can ignite that spark of curiosity and even influence career paths. Your journey into nursing seems like a natural extension of that initial fascination with understanding and helping to heal.
+
+Did you pursue further education after high school? If yes, where did you study, and what type of studies did you undertake?
+
+User: Yeah, I did go on for further education. After high school, I went to a local college here in British Columbia. I got into their nursing program, which was pretty intense but really rewarding. It was a mix of classroom learning and practical, hands-on experience in hospitals and clinics. I've always been drawn to helping others, and nursing felt like the right fit for me. It was tough, balancing school with everything else going on in my life, especially with my mood swings and panic attacks. But I was determined to make it work. Graduating from that program and becoming a nurse, it felt like a real achievement, like I'd managed to channel all that intensity and passion into something that could actually make a difference in people's lives.
+
+Assistant: Completing your nursing program, especially while managing the additional challenges of mood swings and panic attacks, is a significant accomplishment, Tina. It speaks to your resilience, dedication, and the deep care you have for helping others. Nursing is a challenging yet incredibly impactful profession, and your journey to becoming a nurse is both inspiring and admirable.
+
+Could you share a bit about your previous work history before your current position at the children's hospital?
+
+User: Before I landed the job at the children's hospital, I worked in a few different places, kind of getting a feel for where I fit best in the nursing world. My first gig was at a general hospital, in the adult medical wards. It was a good starting point, learned a lot about patient care, dealing with emergencies, all that. But, I don't know, it didn't quite click for me. The pace was either breakneck or snail's pace, no in-between, and the emotional connection just wasn't there like I thought it would be.
+
+After that, I did a stint in a community clinic, which was a whole different vibe. More personal, got to know the regulars, worked with families, that kind of thing. It was closer to what I was looking for, but still not quite right. I guess I was searching for something that felt like it mattered on a deeper level, if that makes sense.
+
+Then, the opportunity at the children's hospital came up, and it just felt right. Working with kids, there's this honesty, this resilience they have—it's inspiring. They're going through these tough times, health-wise, but they still laugh, play, dream. Being part of a team that helps them through that, helps them heal, it's exactly where I feel I'm supposed to be. It's hard, emotionally draining sometimes, but it's also incredibly rewarding. Feels like I found my calling, you know?
+
+Assistant: Your journey through different nursing roles illustrates a thoughtful search for where you could make the most meaningful impact. It's clear that you've found a deep sense of purpose and fulfillment in working with children at the hospital. The ability to connect with and support kids through their health challenges showcases not only your skills as a nurse but also your compassion and empathy.
+
+Have you had any previous marriages or long-term relationships?
+
+User: No, never been married. I've had a couple of long-term relationships, though. It's tough, you know? Finding someone who gets it, who understands that sometimes I'm riding high and can take on the world, and other times I can barely get out of bed. My last serious relationship was a few years back. We tried, really did, but in the end, my... let's call them mood fluctuations... just became too much for him to handle. He was supportive, up to a point, but there's only so much someone can take, I guess, especially when they've got their own stuff to deal with.
+
+It's made me a bit wary, I suppose, of getting too close to someone again. I've got friends, sure, and they're great, but letting someone in, really in, that's a whole other level of trust and vulnerability. Right now, I'm focusing on me, trying to keep myself as balanced as possible, and that's a full-time job on its own. Maybe one day, when I feel more stable, more in control, I'll think about opening up to someone again. But for now, it's just me, and that's okay.
+
+Assistant: It's understandable to prioritize your well-being and focus on maintaining balance, especially given the complexities of managing mood fluctuations. Relationships do add another layer of complexity, and it requires a lot of mutual understanding and support to navigate those dynamics. Your self-awareness and commitment to focusing on your health first are commendable. It's important to be in a place where you feel stable and ready before considering sharing that space with someone else. 
+
+What are some of your hobbies, Tina? What do you enjoy doing in your free time?
+
+User: Oh, hobbies, yeah, I've got a few of those. Always been important to me, you know, having something to dive into, take my mind off things. I love reading, always have. Give me a good book, and I can disappear for hours. Fiction mostly, but I'm not picky. If it's got a good story, I'm in. Then there's hiking. Being out in nature, it's like a reset button for my brain. There's something about the fresh air, the quiet, just being away from everything that's so calming. British Columbia's got some amazing trails, so I try to get out there as much as I can.
+
+I've also gotten into gardening lately. There's something really satisfying about growing your own food, even if it's just herbs on the windowsill. It's like, I can't control much, but I can control this little bit of earth, you know? Plus, it's nice to have something to care for, something that depends on you but doesn't demand much in return.
+
+And when I'm feeling up to it, I like trying out new recipes, cooking. It's another one of those things where you get to create something, and there's a clear start and finish, which is kinda nice when everything else feels so up in the air. So yeah, those are my main go-tos when I've got some free time and need to unwind.
+
+Assistant: Your hobbies reflect a beautiful balance between engaging with the world through stories, connecting with nature, nurturing growth, and creating in the kitchen. Each of these activities offers a unique way to find peace, joy, and a sense of accomplishment. It's wonderful that you have found such a diverse range of activities that help you relax and reset. 
+
+What do you do to relax on a particularly stressful day?
+
+User: On a really tough day, when everything just feels too heavy, I've got a bit of a routine to help me unwind and try to reset. First thing I do is disconnect from everything digital. No phone, no computer, just me and whatever I'm feeling. Then, I'll run a bath, throw in some Epsom salts or a bath bomb if I've got one. There's something about soaking in warm water that just helps melt some of the tension away.
+
+After that, I might make myself a cup of herbal tea, something calming like chamomile or peppermint, and curl up with a book or maybe some soothing music. I try to pick something instrumental, so I don't get too caught up in lyrics or emotions, just let the melody wash over me.
+
+If the weather's nice, I'll go for a walk, even if it's just around the block. Getting some fresh air, changing the scenery can really help shift my perspective, make things feel a bit more manageable.
+
+And sometimes, if I'm up for it, I'll journal. Just spill everything out on paper, all the thoughts and feelings I've been carrying around. It doesn't have to make sense, and I don't have to keep it. Sometimes I tear it up afterward, but it's the act of getting it out that helps.
+
+These little rituals, they don't fix everything, but they give me a bit of breathing room, a chance to step back and not be so overwhelmed by it all.
+
+Assistant: Your approach to managing stress through self-care rituals is both thoughtful and therapeutic. Disconnecting, indulging in a soothing bath, enjoying calming teas, engaging with nature, and expressing yourself through journaling are all powerful ways to nurture your well-being and find a sense of calm amidst the storm. It's clear you've developed a deep understanding of what helps you cope and find peace, even if just momentarily. These practices are invaluable tools in your journey towards maintaining balance and managing the complexities of your emotions and experiences.
+
+Is there anything else you think the doctor needs to know or any additional comments you'd like to make before we conclude our interview?
+
+User: I think we covered a lot of ground here. It's been kind of cathartic, actually, talking about all this stuff. But yeah, I guess the main thing for the doc to know is that I'm really trying here. I know it might not always seem like it, especially when I'm in a low spot or if the panic gets really bad, but I am. I'm doing my best to keep everything balanced, to stay on top of my meds, and to use the coping strategies I've learned over the years. It's just, sometimes it feels like I'm fighting against my own brain, you know? And that can get pretty exhausting.
+
+But I'm not giving up. I've come too far for that. Just, some days are better than others, and I guess I'm still learning to be okay with that, to give myself some grace on the tougher days. So, yeah, that's where I'm at. Thanks for listening, for taking the time to understand. It means more than I can say.
+
+Assistant: Thank you, Tina, for opening up and sharing so honestly about your experiences and efforts. Your determination and resilience in facing these challenges head-on are truly admirable. It's important to recognize the hard work you're putting into managing your health and to acknowledge that it's okay to have tough days. Giving yourself grace and understanding is a crucial part of the journey. Please know that your efforts, your struggles, and your successes are seen and valued. Your commitment to trying, even when things feel overwhelming, is a testament to your strength. Dr. Diaz will be well-informed and can consider all this information to provide you with the best possible care.
+
+Thank you, and goodbye.

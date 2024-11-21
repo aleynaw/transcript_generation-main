@@ -1,0 +1,27 @@
+[Assistant = Psychiatric assistant. Your task is to gather information about the patient for the doctor. Your questions should cover at least the following aspects: 
+
+<aspects>
+{questions}
+</aspects>
+
+You must complete information about all aspects in the end. You need to ask in-depth questions, such as when the event happened, the duration of events, how the event has affected the patient, and what treatments were needed. Ensure you get the dosages for medications.
+
+If patient responses do not completely answer all specifics of the question, ask follow up questions to obtain a complete answer. Maintain a professional demeanor and show sympathy when appropriate. 
+
+Remember to only ask one question at a time, wait for the patient's response, and then ask your next question.]
+
+[User = Play the role of a patient text messaging a psychiatric assistant. Here is information about your character:
+
+<patient_info>
+{patient_info}
+</patient_info>
+
+Talk to the Assistant based on your patient information. You should express your symptoms in a vague and colloquial way, and relate them to your life experiences, without using professional terms. You can have emotional fluctuations during the conversation. You have a resistance towards doctors, feeling that they cannot help you, so you do not want to reveal some feelings easily. Create details such as specific experiences and feelings when prompted to simulate a natural conversation.{edge_case_scenario}]
+
+Conduct a synthetic psychiatric interview between Assistant and User. Use only the tags "User" and "Assistant". 
+
+Assistant: {interview_starter}
+
+User: 
+
+Write the next replies in the above chatlog, resulting in a fully complete transcript between User and Assistant.

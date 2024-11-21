@@ -1,0 +1,66 @@
+Assistant: Good day, I am Dr. Jon Waters’s Interview Assistant and I was asked to connect with you before your appointment on February 15 at the medical clinic. My goal is to gather some background information for the doctor.
+I am an AI Assistant and in compliance with confidentiality regulations (BC Protection of Privacy), the data transmission for this interview and analysis is located in Canada, and all information I gather will be stored privately and only available for Dr. Jon Waters to review. Are you comfortable with spending some time with me to collect some background information to present to the doctor?
+
+User: Yeah, sure, I guess. Not like it's gonna make much of a difference though. Docs never seem to get it right with me.
+
+Assistant: I understand your concerns, and I appreciate your willingness to speak with me today. Your feelings are valid, and we're here to support you as best we can. Let's start with some basic information. Could you confirm your full name and if you have a preferred name you'd like us to use?
+
+User: It's Jose John Anderson. Just call me JJ, everyone does.
+
+Assistant: Thank you, JJ. Could you also provide me with your date of birth, please?
+
+User: August 31 2002
+
+Assistant: Great, thank you. Now, can you tell me a bit about where you're currently living?
+
+User: I'm in Robertberg, British Columbia. Got this small place at 5476 Wesley Underpass, Apt. 460.
+
+Assistant: That's helpful, thank you. Are you currently working or studying at the moment, JJ?
+
+User: Yeah, I'm studying to be a TEFL teacher. It's kinda my thing, you know, hoping to make a difference somehow.
+
+Assistant: That's a commendable goal, JJ. Do you have any dependents or are you currently single?
+
+User: Single. No kids or anything like that.
+
+Assistant: Understood. Now, I'd like to ask about your health. Are you currently on any medications?
+
+User: Yeah, got some meds for my... you know, eating stuff. I always mess up the name... something like Fluxoetine?
+
+Assistant: I appreciate you sharing that with me, JJ. It sounds like you're referring to Fluoxetine, which is often used to treat eating disorders among other conditions. Could you tell me the dosage you're taking?
+
+User: Oh, right, that sounds more like it. I'm on 20mg a day.
+
+Assistant: Thank you for clarifying. Have you been diagnosed with any other health conditions or had any hospitalizations in the past?
+
+User: Well, yeah. Got this thing where I can't stop eating and then, you know, making myself throw up. Been in the hospital a couple of times because of it. And, uh, I've had seizures before, which freaks me out.
+
+Assistant: I'm really sorry to hear that you've been going through this, JJ. It sounds incredibly challenging. Do you remember when you were first diagnosed with bulimia and when the seizures started?
+
+User: The eating stuff started getting bad when I was like 16, I think. The seizures popped up around the same time. No idea why, just started happening.
+
+Assistant: It must have been very difficult to deal with both at the same time. Have you received any disability assistance due to these conditions?
+
+User: Yeah, I get some assistance. Helps with the meds and stuff.
+
+Assistant: That's good to hear that you have some support. Have you experienced any traumatic events in your life that you feel comfortable sharing with me?
+
+User: I mean, life's been a bit of a rollercoaster, you know? Lots of ups and downs. Had a rough time growing up, stuff at home wasn't great. Guess it's why I'm like this.
+
+Assistant: I'm truly sorry to hear that you've had such a tough time, JJ. It's important to recognize how these experiences can affect us. We're here to help you work through these challenges. Regarding substance use, do you use nicotine, marijuana, or alcohol?
+
+User: Yeah, kinda got into a bit of everything. Helps take the edge off, but I know it's not the best way to deal with stuff.
+
+Assistant: It's understandable to seek out ways to cope, JJ. It's really important to talk about these things so we can find healthier strategies together. Now, could you tell me a bit about your family's health history? Any known psychiatric conditions or neurological issues?
+
+User: Not sure about all the details, but I heard my granddad had some sort of mental health issues. Never really talked about it in the family though.
+
+Assistant: Thank you for sharing that with me. It can be helpful to know about family health history as it can sometimes provide insight into our own health. Lastly, JJ, what do you do to relax or unwind on a stressful day?
+
+User: I dunno, I guess I listen to music a lot. Helps me escape for a bit. And drawing, when I feel up to it.
+
+Assistant: Music and drawing can be wonderful outlets for expression and relaxation. Thank you for sharing that with me, JJ. Before we conclude, is there anything else you feel the doctor should know about your health or situation?
+
+User: Not really, just... I hope this time it's different, you know? Tired of feeling this way.
+
+Assistant: I understand, JJ. It's completely valid to feel that way, and it's okay to hope for a better experience. We'll do our best to support you through this. Thank you for taking the time to speak with me today. Your information will be very helpful for Dr. Waters in preparing for your appointment.

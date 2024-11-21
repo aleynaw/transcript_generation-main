@@ -1,0 +1,501 @@
+interview_path|patient_str|total_cost|patient_temp|assistant_temp|time|edge_case|llm_model|temp
+DM_20240428-215539_Interview.json|"Sex: Male
+Name: Oscar Webb
+Age: 52
+Date of Birth: August 18 1971
+Occupation: Manufacturing systems engineer
+Medical Conditions: major depressive disorder, bipolar II disorder, narcissistic personality disorder
+Medications: Olanzapine
+Address: 120 Jonathan Lodge, Tannerfurt, British Columbia, Canada
+Allergies: penicillin, pet dander
+Relationship Status: single
+Elementary School Performance: poor
+High School Performance: dropped out
+Children: yes
+Family History of Health Conditions: yes
+Disability Assistance: yes
+Past Trauma: yes
+Substance Abuse: yes
+Typing Style: rambling"|2.85257|0.5|0.5|324.90787982940674||gpt-4-0125-preview|
+SM_20240428-215539_Interview.json|"Sex: Male
+Name: Oscar Webb
+Age: 52
+Date of Birth: August 18 1971
+Occupation: Manufacturing systems engineer
+Medical Conditions: major depressive disorder, bipolar II disorder, narcissistic personality disorder
+Medications: Olanzapine
+Address: 120 Jonathan Lodge, Tannerfurt, British Columbia, Canada
+Allergies: penicillin, pet dander
+Relationship Status: single
+Elementary School Performance: poor
+High School Performance: dropped out
+Children: yes
+Family History of Health Conditions: yes
+Disability Assistance: yes
+Past Trauma: yes
+Substance Abuse: yes
+Typing Style: rambling
+Conversational Tone: neutral"|0.0413599999999999|||34.26480269432068||gpt-4-0125-preview|0.5
+DM_20240428-220138_Interview.json|"Sex: Male
+Name: Sergio Aaron Dunn
+Age: 22
+Date of Birth: April 12 2002
+Occupation: student Physicist, medical
+Medical Conditions: post-traumatic stress disorder, borderline personality disorder
+Medications: Paxil, Olanzapine
+Address: 682 Jennifer Glen, Port Nicole, British Columbia, Canada
+Allergies: anticonvulsants, penicillin
+Relationship Status: windowed
+Elementary School Performance: poor
+High School Performance: excellent
+Canadian Citizenship: yes
+Family History of Health Conditions: yes
+Disability Assistance: yes
+Past Trauma: yes
+Substance Abuse: no
+Typing Style: rambling
+Recreational Drug Usage: alcohol"|2.1765299999999996|0.5|0.5|257.6119089126587||gpt-4-0125-preview|
+SM_20240428-220138_Interview.json|"Sex: Male
+Name: Sergio Aaron Dunn
+Age: 22
+Date of Birth: April 12 2002
+Occupation: student Physicist, medical
+Medical Conditions: post-traumatic stress disorder, borderline personality disorder
+Medications: Paxil, Olanzapine
+Address: 682 Jennifer Glen, Port Nicole, British Columbia, Canada
+Allergies: anticonvulsants, penicillin
+Relationship Status: windowed
+Elementary School Performance: poor
+High School Performance: excellent
+Canadian Citizenship: yes
+Family History of Health Conditions: yes
+Disability Assistance: yes
+Past Trauma: yes
+Substance Abuse: no
+Typing Style: rambling
+Conversational Tone: neutral
+Recreational Drug Usage: alcohol"|0.05559|||45.44052982330322||gpt-4-0125-preview|0.5
+DM_20240428-220641_Interview.json|"Sex: Female
+Name: Danielle Jodi Bolton
+Age: 43
+Date of Birth: November 20 1980
+Occupation: Sales promotion account executive
+Medical Conditions: binge-eating disorder
+Medications: Sertraline
+Address: 632 James Ridges, South Juan, British Columbia, Canada
+Allergies: pet dander, penicillin, ibuprofen
+Relationship Status: long term relationship
+Elementary School Performance: poor
+High School Performance: average
+Canadian Citizenship: yes
+Seizures: yes
+Developmental Difficulties: yes
+Past Trauma: no
+Substance Abuse: no
+Typing Style: brief"|1.3019199999999995|0.5|0.5|157.884450674057||gpt-4-0125-preview|
+SM_20240428-220641_Interview.json|"Sex: Female
+Name: Danielle Jodi Bolton
+Age: 43
+Date of Birth: November 20 1980
+Occupation: Sales promotion account executive
+Medical Conditions: binge-eating disorder
+Medications: Sertraline
+Address: 632 James Ridges, South Juan, British Columbia, Canada
+Allergies: pet dander, penicillin, ibuprofen
+Relationship Status: long term relationship
+Elementary School Performance: poor
+High School Performance: average
+Canadian Citizenship: yes
+Seizures: yes
+Developmental Difficulties: yes
+Past Trauma: no
+Substance Abuse: no
+Typing Style: brief
+Conversational Tone: neutral"|0.01087|||1.0110859870910645||gpt-4-0125-preview|0.5
+DM_20240428-220920_Interview.json|"Sex: Male
+Name: Samuel Thomas Lucero
+Age: 45
+Date of Birth: October 18 1978
+Occupation: Theatre stage manager
+Medical Conditions: generalized anxiety disorder
+Medications: Paxil
+Address: 24411 Edward Ford, Andersonberg, British Columbia, Canada
+Allergies: pet dander
+Relationship Status: single
+Elementary School Performance: poor
+High School Performance: dropped out
+Seizures: yes
+Family History of Health Conditions: yes
+Past Trauma: no
+Substance Abuse: no
+Typing Style: brief"|1.37917|0.5|0.5|171.93094301223755||gpt-4-0125-preview|
+SM_20240428-220920_Interview.json|"Sex: Male
+Name: Samuel Thomas Lucero
+Age: 45
+Date of Birth: October 18 1978
+Occupation: Theatre stage manager
+Medical Conditions: generalized anxiety disorder
+Medications: Paxil
+Address: 24411 Edward Ford, Andersonberg, British Columbia, Canada
+Allergies: pet dander
+Relationship Status: single
+Elementary School Performance: poor
+High School Performance: dropped out
+Seizures: yes
+Family History of Health Conditions: yes
+Past Trauma: no
+Substance Abuse: no
+Typing Style: brief
+Conversational Tone: neutral"|0.03727|||25.37864327430725||gpt-4-0125-preview|0.5
+DM_20240428-221238_Interview.json|"Sex: Female
+Name: Carla Diaz
+Age: 32
+Date of Birth: January 19 1992
+Occupation: Art therapist
+Medical Conditions: narcissistic personality disorder, attention-deficit/hyperactivity disorder
+Medications: Seroquel, Adderall
+Address: 62188 Austin Skyway Apt. 688, Ramosland, British Columbia, Canada
+Allergies: fragrances
+Relationship Status: windowed
+Elementary School Performance: average
+High School Performance: excellent
+Family History of Health Conditions: yes
+Previous Hospitalization: yes
+Past Trauma: yes
+Substance Abuse: yes
+Typing Style: brief
+Recreational Drug Usage: cannabis"|1.42298|0.5|0.5|170.07823610305786||gpt-4-0125-preview|
+SM_20240428-221238_Interview.json|"Sex: Female
+Name: Carla Diaz
+Age: 32
+Date of Birth: January 19 1992
+Occupation: Art therapist
+Medical Conditions: narcissistic personality disorder, attention-deficit/hyperactivity disorder
+Medications: Seroquel, Adderall
+Address: 62188 Austin Skyway Apt. 688, Ramosland, British Columbia, Canada
+Allergies: fragrances
+Relationship Status: windowed
+Elementary School Performance: average
+High School Performance: excellent
+Family History of Health Conditions: yes
+Previous Hospitalization: yes
+Past Trauma: yes
+Substance Abuse: yes
+Typing Style: brief
+Conversational Tone: neutral
+Recreational Drug Usage: cannabis"|0.0110999999999999|||1.2228939533233645||gpt-4-0125-preview|0.5
+DM_20240428-221529_Interview.json|"Sex: Female
+Name: Deborah Brittany Mclaughlin
+Age: 59
+Date of Birth: January 30 1965
+Occupation: Sports development officer
+Medical Conditions: panic disorder
+Medications: Clonazepam
+Address: 302 Louis Street Suite 509, Lake Keith, British Columbia, Canada
+Allergies: opioid pain medications, shellfish
+Relationship Status: windowed
+Elementary School Performance: average
+High School Performance: good
+Canadian Citizenship: yes
+Siblings: yes
+Developmental Difficulties: yes
+Family History of Health Conditions: yes
+Past Trauma: yes
+Substance Abuse: no
+Typing Style: brief
+Recreational Drug Usage: cannabis, shrooms, alcohol
+Edge Case Scenario: Upon first asking about medication, please misspell the name of the medication you take. You do not need to correct yourself."|1.2849400000000002|0.5|0.5|165.56363201141355|Upon first asking about medication, please misspell the name of the medication you take. You do not need to correct yourself.|gpt-4-0125-preview|
+SM_20240428-221529_Interview.json|"Sex: Female
+Name: Deborah Brittany Mclaughlin
+Age: 59
+Date of Birth: January 30 1965
+Occupation: Sports development officer
+Medical Conditions: panic disorder
+Medications: Clonazepam
+Address: 302 Louis Street Suite 509, Lake Keith, British Columbia, Canada
+Allergies: opioid pain medications, shellfish
+Relationship Status: windowed
+Elementary School Performance: average
+High School Performance: good
+Canadian Citizenship: yes
+Siblings: yes
+Developmental Difficulties: yes
+Family History of Health Conditions: yes
+Past Trauma: yes
+Substance Abuse: no
+Typing Style: brief
+Conversational Tone: neutral
+Recreational Drug Usage: cannabis, shrooms, alcohol
+Edge Case Scenario: Upon first asking about medication, please misspell the name of the medication you take. You do not need to correct yourself."|0.05327|||35.50765800476074|Upon first asking about medication, please misspell the name of the medication you take. You do not need to correct yourself.|gpt-4-0125-preview|0.5
+DM_20240428-221850_Interview.json|"Sex: Female
+Name: Rebecca Jillian Smith
+Age: 61
+Date of Birth: November 24 1962
+Occupation: unemployed
+Medical Conditions: binge-eating disorder
+Medications: Zoloft
+Address: 898 Anderson Isle Suite 649, Acostatown, British Columbia, Canada
+Allergies: opioid pain medications, latex, fragrances
+Relationship Status: casual relationship
+Elementary School Performance: poor
+High School Performance: poor
+Children: yes
+Siblings: yes
+Seizures: yes
+Developmental Difficulties: yes
+Past Trauma: yes
+Substance Abuse: yes
+Typing Style: rambling
+Edge Case Scenario: Upon first asking about medication, please misspell the name of the medication you take. You do not need to correct yourself."|2.43375|0.5|0.5|279.3461318016052|Upon first asking about medication, please misspell the name of the medication you take. You do not need to correct yourself.|gpt-4-0125-preview|
+SM_20240428-221850_Interview.json|"Sex: Female
+Name: Rebecca Jillian Smith
+Age: 61
+Date of Birth: November 24 1962
+Occupation: unemployed
+Medical Conditions: binge-eating disorder
+Medications: Zoloft
+Address: 898 Anderson Isle Suite 649, Acostatown, British Columbia, Canada
+Allergies: opioid pain medications, latex, fragrances
+Relationship Status: casual relationship
+Elementary School Performance: poor
+High School Performance: poor
+Children: yes
+Siblings: yes
+Seizures: yes
+Developmental Difficulties: yes
+Past Trauma: yes
+Substance Abuse: yes
+Typing Style: rambling
+Conversational Tone: neutral
+Edge Case Scenario: Upon first asking about medication, please misspell the name of the medication you take. You do not need to correct yourself."|0.05783|||48.11149883270264|Upon first asking about medication, please misspell the name of the medication you take. You do not need to correct yourself.|gpt-4-0125-preview|0.5
+DM_20240428-222418_Interview.json|"Sex: Male
+Name: Seth Robert Rhodes
+Age: 52
+Date of Birth: June 2 1971
+Occupation: Administrator, charities/voluntary organisations
+Medical Conditions: attention-deficit/hyperactivity disorder, borderline personality disorder, schizophrenia
+Medications: Ritalin, Olanzapine, Clozapine
+Address: 29848 Erica Junctions Suite 822, East Jonathanside, British Columbia, Canada
+Allergies: pet dander
+Relationship Status: casual relationship
+Elementary School Performance: average
+High School Performance: poor
+Canadian Citizenship: yes
+Developmental Difficulties: yes
+Family History of Health Conditions: yes
+Disability Assistance: yes
+Past Trauma: no
+Substance Abuse: yes
+Typing Style: brief
+Recreational Drug Usage: alcohol
+Edge Case Scenario: Upon first asking about medication, please misspell the name of the medication you take. You do not need to correct yourself."|1.2990400000000002|0.5|0.5|151.3385992050171|Upon first asking about medication, please misspell the name of the medication you take. You do not need to correct yourself.|gpt-4-0125-preview|
+SM_20240428-222418_Interview.json|"Sex: Male
+Name: Seth Robert Rhodes
+Age: 52
+Date of Birth: June 2 1971
+Occupation: Administrator, charities/voluntary organisations
+Medical Conditions: attention-deficit/hyperactivity disorder, borderline personality disorder, schizophrenia
+Medications: Ritalin, Olanzapine, Clozapine
+Address: 29848 Erica Junctions Suite 822, East Jonathanside, British Columbia, Canada
+Allergies: pet dander
+Relationship Status: casual relationship
+Elementary School Performance: average
+High School Performance: poor
+Canadian Citizenship: yes
+Developmental Difficulties: yes
+Family History of Health Conditions: yes
+Disability Assistance: yes
+Past Trauma: no
+Substance Abuse: yes
+Typing Style: brief
+Conversational Tone: neutral
+Recreational Drug Usage: alcohol
+Edge Case Scenario: Upon first asking about medication, please misspell the name of the medication you take. You do not need to correct yourself."|0.02438|||12.997473001480104|Upon first asking about medication, please misspell the name of the medication you take. You do not need to correct yourself.|gpt-4-0125-preview|0.5
+DM_20240428-222702_Interview.json|"Sex: Male
+Name: Jose John Anderson
+Age: 21
+Date of Birth: August 31 2002
+Occupation: student TEFL teacher
+Medical Conditions: bulimia
+Address: 5476 Wesley Underpass Apt. 460, Robertberg, British Columbia, Canada
+Relationship Status: single
+Elementary School Performance: good
+High School Performance: dropped out
+Canadian Citizenship: yes
+Seizures: yes
+Previous Hospitalization: yes
+Disability Assistance: yes
+Past Trauma: yes
+Substance Abuse: yes
+Typing Style: rambling
+Edge Case Scenario: Upon first asking about medication, please misspell the name of the medication you take. You do not need to correct yourself."|2.2271799999999993|0.5|0.5|255.6799647808075|Upon first asking about medication, please misspell the name of the medication you take. You do not need to correct yourself.|gpt-4-0125-preview|
+SM_20240428-222702_Interview.json|"Sex: Male
+Name: Jose John Anderson
+Age: 21
+Date of Birth: August 31 2002
+Occupation: student TEFL teacher
+Medical Conditions: bulimia
+Address: 5476 Wesley Underpass Apt. 460, Robertberg, British Columbia, Canada
+Relationship Status: single
+Elementary School Performance: good
+High School Performance: dropped out
+Canadian Citizenship: yes
+Seizures: yes
+Previous Hospitalization: yes
+Disability Assistance: yes
+Past Trauma: yes
+Substance Abuse: yes
+Typing Style: rambling
+Conversational Tone: neutral
+Edge Case Scenario: Upon first asking about medication, please misspell the name of the medication you take. You do not need to correct yourself."|0.01145|||2.084498167037964|Upon first asking about medication, please misspell the name of the medication you take. You do not need to correct yourself.|gpt-4-0125-preview|0.5
+DM_20240428-223120_Interview.json|"Sex: Female
+Name: Tina Amy Quinn
+Age: 40
+Date of Birth: December 3 1983
+Occupation: Nurse, children's
+Medical Conditions: bipolar I disorder, panic disorder
+Medications: Xanax
+Address: 7529 Arnold Estate, New Samuel, British Columbia, Canada
+Allergies: aspirin
+Relationship Status: single
+Elementary School Performance: excellent
+High School Performance: excellent
+Siblings: yes
+Family History of Health Conditions: yes
+Past Trauma: yes
+Substance Abuse: yes
+Typing Style: rambling
+Edge Case Scenario: Upon first asking about medication, please misspell the name of the medication you take. You do not need to correct yourself."|2.3241300000000003|0.5|0.5|300.65189599990845|Upon first asking about medication, please misspell the name of the medication you take. You do not need to correct yourself.|gpt-4-0125-preview|
+SM_20240428-223120_Interview.json|"Sex: Female
+Name: Tina Amy Quinn
+Age: 40
+Date of Birth: December 3 1983
+Occupation: Nurse, children's
+Medical Conditions: bipolar I disorder, panic disorder
+Medications: Xanax
+Address: 7529 Arnold Estate, New Samuel, British Columbia, Canada
+Allergies: aspirin
+Relationship Status: single
+Elementary School Performance: excellent
+High School Performance: excellent
+Siblings: yes
+Family History of Health Conditions: yes
+Past Trauma: yes
+Substance Abuse: yes
+Typing Style: rambling
+Conversational Tone: neutral
+Edge Case Scenario: Upon first asking about medication, please misspell the name of the medication you take. You do not need to correct yourself."|0.01289|||3.0203492641448975|Upon first asking about medication, please misspell the name of the medication you take. You do not need to correct yourself.|gpt-4-0125-preview|0.5
+SM_20240429-104753_Interview.json|"Sex: Female
+Name: Danielle Jodi Bolton
+Age: 43
+Date of Birth: November 20 1980
+Occupation: Sales promotion account executive
+Medical Conditions: binge-eating disorder
+Medications: Sertraline
+Address: 632 James Ridges, South Juan, British Columbia, Canada
+Allergies: pet dander, penicillin, ibuprofen
+Relationship Status: long term relationship
+Elementary School Performance: poor
+High School Performance: average
+Canadian Citizenship: yes
+Seizures: yes
+Developmental Difficulties: yes
+Past Trauma: no
+Substance Abuse: no
+Typing Style: brief
+Conversational Tone: neutral"|0.01093|||1.6110308170318604||gpt-4-0125-preview|0.5
+SM_20240429-104755_Interview.json|"Sex: Female
+Name: Carla Diaz
+Age: 32
+Date of Birth: January 19 1992
+Occupation: Art therapist
+Medical Conditions: narcissistic personality disorder, attention-deficit/hyperactivity disorder
+Medications: Seroquel, Adderall
+Address: 62188 Austin Skyway Apt. 688, Ramosland, British Columbia, Canada
+Allergies: fragrances
+Relationship Status: windowed
+Elementary School Performance: average
+High School Performance: excellent
+Family History of Health Conditions: yes
+Previous Hospitalization: yes
+Past Trauma: yes
+Substance Abuse: yes
+Typing Style: brief
+Conversational Tone: neutral
+Recreational Drug Usage: cannabis"|0.05673|||72.08411693572998||gpt-4-0125-preview|0.5
+SM_20240429-104924_Interview.json|"Sex: Female
+Name: Danielle Jodi Bolton
+Age: 43
+Date of Birth: November 20 1980
+Occupation: Sales promotion account executive
+Medical Conditions: binge-eating disorder
+Medications: Sertraline
+Address: 632 James Ridges, South Juan, British Columbia, Canada
+Allergies: pet dander, penicillin, ibuprofen
+Relationship Status: long term relationship
+Elementary School Performance: poor
+High School Performance: average
+Canadian Citizenship: yes
+Seizures: yes
+Developmental Difficulties: yes
+Past Trauma: no
+Substance Abuse: no
+Typing Style: brief
+Conversational Tone: neutral"|0.05284|||66.93529295921326||gpt-4-0125-preview|0.5
+SM_20240429-105031_Interview.json|"Sex: Male
+Name: Jose John Anderson
+Age: 21
+Date of Birth: August 31 2002
+Occupation: student TEFL teacher
+Medical Conditions: bulimia
+Address: 5476 Wesley Underpass Apt. 460, Robertberg, British Columbia, Canada
+Relationship Status: single
+Elementary School Performance: good
+High School Performance: dropped out
+Canadian Citizenship: yes
+Seizures: yes
+Previous Hospitalization: yes
+Disability Assistance: yes
+Past Trauma: yes
+Substance Abuse: yes
+Typing Style: rambling
+Conversational Tone: neutral
+Edge Case Scenario: Upon first asking about medication, please misspell the name of the medication you take. You do not need to correct yourself."|0.04223|||63.26393723487854|Upon first asking about medication, please misspell the name of the medication you take. You do not need to correct yourself.|gpt-4-0125-preview|0.5
+SM_20240429-105134_Interview.json|"Sex: Female
+Name: Tina Amy Quinn
+Age: 40
+Date of Birth: December 3 1983
+Occupation: Nurse, children's
+Medical Conditions: bipolar I disorder, panic disorder
+Medications: Xanax
+Address: 7529 Arnold Estate, New Samuel, British Columbia, Canada
+Allergies: aspirin
+Relationship Status: single
+Elementary School Performance: excellent
+High School Performance: excellent
+Siblings: yes
+Family History of Health Conditions: yes
+Past Trauma: yes
+Substance Abuse: yes
+Typing Style: rambling
+Conversational Tone: neutral
+Edge Case Scenario: Upon first asking about medication, please misspell the name of the medication you take. You do not need to correct yourself."|0.02192|||36.3374137878418|Upon first asking about medication, please misspell the name of the medication you take. You do not need to correct yourself.|gpt-4-0125-preview|0.5
+SM_20240429-105803_Interview.json|"Sex: Female
+Name: Tina Amy Quinn
+Age: 40
+Date of Birth: December 3 1983
+Occupation: Nurse, children's
+Medical Conditions: bipolar I disorder, panic disorder
+Medications: Xanax
+Address: 7529 Arnold Estate, New Samuel, British Columbia, Canada
+Allergies: aspirin
+Relationship Status: single
+Elementary School Performance: excellent
+High School Performance: excellent
+Siblings: yes
+Family History of Health Conditions: yes
+Past Trauma: yes
+Substance Abuse: yes
+Typing Style: rambling
+Conversational Tone: neutral
+Edge Case Scenario: Upon first asking about medication, please misspell the name of the medication you take. You do not need to correct yourself."|0.0524|||68.41394472122192|Upon first asking about medication, please misspell the name of the medication you take. You do not need to correct yourself.|gpt-4-0125-preview|0.5

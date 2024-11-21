@@ -1,0 +1,154 @@
+Assistant: Good day, I am Dr. Evan Phillips’s Interview Assistant and I was asked to connect with you before your appointment on February 4 at the medical clinic. My goal is to gather some background information for the doctor.
+I am an AI Assistant and in compliance with confidentiality regulations (BC Protection of Privacy), the data transmission for this interview and analysis is located in Canada, and all information I gather will be stored privately and only available for Dr. Evan Phillips to review. Are you comfortable with spending some time with me to collect some background information to present to the doctor?
+
+User: Yeah, sure. I guess it's okay to talk a bit. What do you need to know?
+
+Assistant: Thank you for your willingness to share, Deborah. Let's start with some general information. Could you please confirm your full name and if you have any preferred name or nickname?
+
+User: It's Deborah Brittany McLaughlin. But just call me Deb, everyone does.
+
+Assistant: Thank you, Deb. Can you also confirm your date of birth for our records?
+
+User: January 30, 1965.
+
+Assistant: Great, thanks. Now, could you tell me about your current city or town of residence?
+
+User: I live in Lake Keith, British Columbia.
+
+Assistant: Got it, Lake Keith, BC. Next, could you tell me about your relationship status? Are you single, married, in a common-law relationship, or perhaps widowed?
+
+User: I'm widowed.
+
+Assistant: I'm sorry to hear that, Deb. Do you have any children or dependents?
+
+User: No, it's just me.
+
+Assistant: Understood. Are you currently working?
+
+User: Yeah, I'm a sports development officer.
+
+Assistant: That sounds like an interesting job. How long have you been working in that role?
+
+User: About 10 years now.
+
+Assistant: Thank you for sharing that. Now, do you receive any form of disability assistance?
+
+User: No, nothing like that.
+
+Assistant: Alright. Could you tell me about your handedness? Are you left-handed, right-handed, or ambidextrous?
+
+User: I'm right-handed.
+
+Assistant: Noted. Could you list any current doctors you see regularly?
+
+User: Just my family doctor, Dr. Susan Kline.
+
+Assistant: Thank you, Deb. Do you have any known allergies?
+
+User: Yeah, opioid pain medications and shellfish.
+
+Assistant: It's important to have that noted. What about current medications and their dosage?
+
+User: I take Clonazapam for my nerves. But I'm not sure if I spelled that right.
+
+Assistant: That's okay, Deb. You're likely referring to Clonazepam. Do you know the dosage you're currently taking?
+
+User: It's 0.5 mg, I take it twice a day.
+
+Assistant: Got it, 0.5 mg twice a day. Do you take any health supplements?
+
+User: No, none.
+
+Assistant: How often do you use nicotine, marijuana, or alcohol?
+
+User: I don't smoke. I have a bit of weed now and then, and a drink maybe once a week.
+
+Assistant: Thank you for sharing that. Let's move on to your medical history. Can you tell me about any health conditions or diagnoses you have, including details such as when you were diagnosed?
+
+User: I was diagnosed with panic disorder, oh, must've been about 5 years ago now.
+
+Assistant: I see. Have you had any previous hospitalizations or surgeries?
+
+User: No, nothing like that.
+
+Assistant: Have you ever experienced any head injuries or concussions?
+
+User: No, luckily.
+
+Assistant: That's good to hear. What about a history of seizures?
+
+User: No seizures either.
+
+Assistant: Have you ever been in rehab or received substance counseling?
+
+User: Nope, never needed it.
+
+Assistant: Alright. Have you seen any other medical professionals for your health?
+
+User: Just a therapist for a bit when I was first diagnosed. Haven't been back in a while, though.
+
+Assistant: Thank you for sharing. Let's discuss your family history a bit. Is there a history of psychiatric conditions in other family members?
+
+User: Yeah, my mom had depression pretty bad. She was in and out of the hospital for it.
+
+Assistant: I'm sorry to hear that. Do you know of any family history of neurological or genetic conditions?
+
+User: Not that I know of, no.
+
+Assistant: Do you have any siblings?
+
+User: Yeah, two brothers.
+
+Assistant: Could you tell me a bit about them, such as their names, ages, where they live, and what they do for a living?
+
+User: Sure. Mike's 61, lives here in Lake Keith too, he's a mechanic. And then there's Joe, he's 56 and lives over in Vancouver, works in IT.
+
+Assistant: Thanks for sharing that, Deb. Now, moving on to your personal history. Where were you born?
+
+User: Right here in Lake Keith.
+
+Assistant: Since you were born in Canada, I'll skip the citizenship and arrival questions. Were there any complications during your birth?
+
+User: Not that I've been told, no.
+
+Assistant: As a young child, did you walk, talk, and develop friendships like other kids?
+
+User: Yeah, but I was always a bit shy, took me longer to make friends.
+
+Assistant: Did you face any difficulties in elementary school?
+
+User: Just the usual for a shy kid, I guess. Nothing major.
+
+Assistant: How about any traumatic experiences growing up?
+
+User: My dad passed away when I was pretty young. That was tough.
+
+Assistant: I'm very sorry to hear that. How did you perform in high school, and did you have a favorite subject or class?
+
+User: I did good, liked English the best.
+
+Assistant: Did you pursue any further education after high school?
+
+User: No, went straight into work.
+
+Assistant: Have you had any previous long-term relationships or marriages before becoming widowed?
+
+User: Yeah, I was married for a while. He passed away a few years back.
+
+Assistant: I'm truly sorry for your loss. What are some of your hobbies?
+
+User: I like hiking, reading, and sometimes painting.
+
+Assistant: Those sound like wonderful activities. What do you do to relax on a stressful day?
+
+User: A walk usually helps. Or just chilling with a book.
+
+Assistant: It's good to have those go-to activities for stress relief. Lastly, is there anything you believe the doctor should know that we haven't covered?
+
+User: I guess... just that sometimes I feel really down, and it's hard to shake it off. Not sure if it's related to my panic disorder or something else.
+
+Assistant: Thank you for sharing that with me, Deb. It's important for us to understand the full picture of your wellbeing. I'll make sure to note that for Dr. Phillips. This concludes our interview. Thank you for your time and for being open with me today. Your next step is to meet with Dr. Phillips on February 4. Do you have any questions or concerns before we end our conversation?
+
+User: No, I think that's everything. Thanks for being easy to talk to.
+
+Assistant: You're very welcome, Deb. If you have any questions or need to talk before your appointment, please don't hesitate to reach out. Take care, and I look forward to your visit with Dr. Phillips.

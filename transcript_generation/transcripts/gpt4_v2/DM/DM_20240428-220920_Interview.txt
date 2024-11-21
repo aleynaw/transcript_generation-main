@@ -1,0 +1,180 @@
+Assistant: Good day, I am Dr. Bonnie Le’s Interview Assistant and I was asked to connect with you before your appointment on October 16 at the medical clinic. My goal is to gather some background information for the doctor.
+I am an AI Assistant and in compliance with confidentiality regulations (BC Protection of Privacy), the data transmission for this interview and analysis is located in Canada, and all information I gather will be stored privately and only available for Dr. Bonnie Le to review. Are you comfortable with spending some time with me to collect some background information to present to the doctor?
+
+User: Yeah, sure, I guess. Let's get this over with.
+
+Assistant: Great, thank you for your willingness to participate. Let's begin with some general information. 
+
+Could you please tell me your full name?
+
+User: Samuel Thomas Lucero.
+
+Assistant: Thank you, Samuel. Do you have a preferred name you'd like us to use?
+
+User: Just Sam is fine.
+
+Assistant: Noted, Sam. Can you tell me your date of birth?
+
+User: October 18, 1978.
+
+Assistant: Thank you. And what is your sex?
+
+User: Male.
+
+Assistant: Got it. Could you tell me your current city or town of residence?
+
+User: Andersonberg, British Columbia.
+
+Assistant: Thank you, Sam. What is your current marital status? Are you single, married, or in a common-law relationship?
+
+User: Single.
+
+Assistant: Understood. Do you have any children or dependents?
+
+User: Nope, none.
+
+Assistant: Alright. Are you currently working? If yes, could you please provide the name of the company and how many years you've been working there?
+
+User: Yeah, I work as a theatre stage manager. Been in the game for about 20 years now.
+
+Assistant: That sounds like a fascinating career. Do you receive any form of disability assistance? If yes, could you specify what type and when it began?
+
+User: No, I don't get disability assistance.
+
+Assistant: Okay, noted. What about your handedness? Are you left-handed, right-handed, or do you use both hands equally?
+
+User: Right-handed.
+
+Assistant: Thank you for sharing that. Can you tell me about your current doctors? This could include general practitioners, specialists, or any other medical professionals you're seeing regularly.
+
+User: Not really seeing anyone regularly. Just got this appointment with Dr. Bonnie Le cause things have been... rough, I guess.
+
+Assistant: I understand, and I'm glad you're seeking support. It's important to address these concerns. Do you have any known allergies?
+
+User: Yeah, pet dander gets to me.
+
+Assistant: Noted, allergies to pet dander. Are you currently taking any medications or health supplements? If so, could you please specify what they are and the dosage?
+
+User: Just on Paxil. Not sure about the dosage, it's whatever is standard, I guess.
+
+Assistant: It's important for us to know the exact dosage of Paxil you're taking. Could you take a moment to check the dosage on your medication package?
+
+User: Alright, hold on... It's 20mg.
+
+Assistant: Thank you for checking that, Sam. How often do you take the 20mg of Paxil?
+
+User: Once a day, in the morning.
+
+Assistant: Got it, once daily in the morning. Could you tell me about your frequency of nicotine, marijuana, or alcohol use?
+
+User: Don't really mess with any of that. Never seemed like a good idea.
+
+Assistant: I appreciate your candor, Sam. Let's move on to your medical history. 
+
+Have you been diagnosed with any health conditions? If so, could you provide details such as when you were diagnosed?
+
+User: Yeah, got this generalized anxiety disorder label slapped on me a while back. Can't remember exactly when, feels like it's just always been there, you know?
+
+Assistant: I understand, it can feel like a constant presence. Even if you don't remember the exact date, would you say it was more than five years ago that you were diagnosed with generalized anxiety disorder?
+
+User: Yeah, definitely more than five years ago. Feels like forever, honestly.
+
+Assistant: Thank you for sharing that, Sam. It's important to acknowledge how these experiences feel. Have you had any previous hospitalizations or surgeries? If so, could you provide some details?
+
+User: No surgeries or anything like that. Been pretty lucky in that department, I guess.
+
+Assistant: That's good to hear. Have you ever experienced any head injuries or concussions? If yes, could you tell me when and how it happened?
+
+User: No head injuries or concussions. Been careful, or maybe just lucky.
+
+Assistant: It's good to know you've been safe from those kinds of injuries. Have you ever had a history of seizures? If yes, when did they start?
+
+User: Yeah, had a couple of seizures. Started a few years back. Not really sure what triggers them. It's not frequent, but it's happened.
+
+Assistant: I'm sorry to hear that, seizures can be quite concerning. Could you specify a bit more about when they first started? Would you say it was within the last five years?
+
+User: Yeah, within the last five years sounds about right.
+
+Assistant: Thank you for clarifying. Have you ever undergone rehabilitation or received substance counseling? If yes, could you tell me where and when?
+
+User: No, never needed rehab or counseling for substances. Never really went down that road.
+
+Assistant: It's good to hear you've managed to avoid those issues. Have you seen any other medical professionals for your health concerns? If yes, who were they, when did you see them, and why?
+
+User: Not really, no. Like I said, not big on doctors. Felt like they never really get what's going on with me. Saw a GP a few times over the years for the usual stuff, but nothing major.
+
+Assistant: I understand that it can sometimes feel like healthcare professionals don't fully grasp what you're going through. Let's move on to your family history.
+
+Is there a history of psychiatric conditions in other family members? If yes, who were they, and did they receive treatment or hospital care?
+
+User: Yeah, my mom had something going on, never talked much about it, but she was on meds for a long time. Think it was depression or something like that. No one else really talked about these things, so it's hard to say for sure.
+
+Assistant: It sounds like mental health wasn't openly discussed in your family, which is not uncommon. Thank you for sharing what you could. 
+
+Is there a family history of neurological or genetic conditions? If yes, who had them, and did they receive treatment or hospital care?
+
+User: Not that I know of. If there was, nobody talked about it. Family wasn't big on sharing health stuff, kept things to themselves mostly.
+
+Assistant: I see, it seems privacy about health matters was a norm in your family. How about siblings? Do you have any brothers or sisters? If yes, could you share a bit about them, such as their names, ages, where they live, and what they do?
+
+User: No siblings. Just me. Makes things simpler, I guess, but also kinda isolating at times.
+
+Assistant: Being an only child does have its unique set of experiences. Thank you for sharing that, Sam. Let's move on to your personal history.
+
+Where were you born? If it was outside Canada, could you tell me the year of your arrival?
+
+User: Born right here in Canada. Never lived anywhere else.
+
+Assistant: Thank you for that detail. Are you a Canadian citizen then?
+
+User: Yeah, born and raised. Canadian through and through.
+
+Assistant: Great, thank you for confirming. Were there any complications during your birth that you're aware of?
+
+User: Not that I know of. Never heard any stories about my birth being anything but normal.
+
+Assistant: That's good to know. At a young age, did you walk, talk, and develop friendships like other kids your age?
+
+User: I guess so. Never really stood out one way or the other. Had a few friends, but I was never the social butterfly. Always kind of on the edge of things, you know?
+
+Assistant: It sounds like you had a relatively typical childhood with a bit of an introverted streak. Did you experience any difficulties in elementary school, either academically or socially?
+
+User: Yeah, school was tough. Didn't do well, grades were poor. Just couldn't seem to focus or get the hang of it. Made it hard to fit in, too.
+
+Assistant: I'm sorry to hear that school was challenging. It's not uncommon for academic and social difficulties to impact each other. Moving forward, did you have any traumatic experiences growing up that you feel comfortable sharing?
+
+User: No, nothing traumatic. Just the usual ups and downs, but nothing that sticks out as trauma.
+
+Assistant: It's good to hear there weren't significant traumas. How about your performance in high school? Could you share your average mark and favorite subject or class?
+
+User: Didn't make it through high school. Dropped out. School just wasn't for me. Never had a favorite subject, was just trying to get through each day.
+
+Assistant: I see, school can indeed be challenging for many. Since you mentioned dropping out of high school, did you pursue any further education or training after leaving?
+
+User: No, jumped straight into work. Found my way into theatre work and just stuck with it. Learned everything on the job.
+
+Assistant: It's impressive how you've carved out a successful career for yourself in theatre work through on-the-job learning. Could you share a bit about your previous work history before settling into your current role as a theatre stage manager?
+
+User: Started off doing odd jobs around the theatre, you know, helping with sets, lighting, that sort of thing. Worked my way up slowly. Did a bit of everything before landing the stage manager gig. It's been a long road, but I like where I ended up.
+
+Assistant: Your journey sounds both interesting and rewarding, having gained a broad experience across different aspects of theatre production before becoming a stage manager. Have you had any previous marriages or long-term relationships?
+
+User: No, never married. Had a couple of long-term relationships, but nothing that stuck. Always found it hard to balance personal life with the demands of the job.
+
+Assistant: Balancing personal life with work, especially in a demanding field like theatre, can indeed be challenging. What are some of your hobbies or interests outside of work?
+
+User: Don't have a lot of free time, but when I do, I like to keep it simple. Reading, a bit of photography. Enjoy the quiet moments, you know? Helps to calm the mind a bit.
+
+Assistant: It sounds like you've found some peaceful activities that help you unwind. Reading and photography can be very soothing and fulfilling hobbies. On a stressful day, what do you usually do to relax?
+
+User: Usually just zone out with some music or go for a walk. Anything to get out of my head for a bit. Sometimes, I'll dive into a book if I can focus enough. Keeps the anxiety at bay, at least for a little while.
+
+Assistant: Finding those moments of peace and distraction can be very beneficial, especially when dealing with anxiety. Music, walks, and reading are great ways to manage stress. 
+
+Before we conclude, is there anything else you feel the doctor should know about your situation or health that we haven't covered?
+
+User: Not really sure what else to say. Just that, you know, some days are better than others. And I'm not big on talking about this stuff, feels like it doesn't change much. But guess I'm here trying, so there's that.
+
+Assistant: Your effort to seek help and willingness to try is a significant step, and it's important to acknowledge that. Everyone has their own pace and way of dealing with challenges, and it's okay to have mixed feelings about discussing personal matters. Dr. Le will be there to support and work with you through this process. Thank you, Sam, for taking the time to share this information with me today. Your openness is greatly appreciated, and this will be very helpful for your upcoming appointment. 
+
+If there's nothing else you wish to add, I believe we've covered everything necessary for now. Thank you, and goodbye.

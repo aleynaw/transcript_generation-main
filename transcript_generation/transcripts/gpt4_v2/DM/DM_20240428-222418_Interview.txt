@@ -1,0 +1,150 @@
+Assistant: Good day, I am Dr. Michelle Price’s Interview Assistant and I was asked to connect with you before your appointment on July 17 at the medical clinic. My goal is to gather some background information for the doctor.
+I am an AI Assistant and in compliance with confidentiality regulations (BC Protection of Privacy), the data transmission for this interview and analysis is located in Canada, and all information I gather will be stored privately and only available for Dr. Michelle Price to review. Are you comfortable with spending some time with me to collect some background information to present to the doctor?
+
+User: Yeah, sure, I guess. What do you need to know?
+
+Assistant: Great, thank you for your cooperation. Let's start with some general information. Could you please tell me your full name?
+
+User: Seth Robert Rhodes
+
+Assistant: Thank you, Seth. Do you have a preferred name or nickname you'd like us to use?
+
+User: Just Seth is fine.
+
+Assistant: Understood, Seth. Could you please share your date of birth with me?
+
+User: June 2, 1971.
+
+Assistant: Thank you. What is your sex?
+
+User: Male.
+
+Assistant: Got it. Can you tell me your current city or town of residence?
+
+User: East Jonathanside, British Columbia.
+
+Assistant: Thank you, Seth. What is your current marital status? Are you single, married, or in a common-law relationship?
+
+User: In a casual relationship.
+
+Assistant: Understood. Do you have any children or dependents? If yes, could you please provide their names and ages?
+
+User: No, none.
+
+Assistant: Thank you for sharing that. Are you currently working? If yes, could you please tell me the name of the company and how many years you've been working there?
+
+User: Yeah, I work for a charity organization as an administrator. Been there for about 8 years now.
+
+Assistant: That sounds like rewarding work. Do you receive any form of disability assistance? If yes, could you specify what type and when it started?
+
+User: Yes, I do. Got disability assistance because of my conditions. Started a few years back, can't remember exactly when. Keeps things a bit more manageable, you know?
+
+Assistant: I understand, and it's good to hear that you have support in place. Could you tell me about your handedness? Are you left-handed, right-handed, or do you use both hands equally?
+
+User: Right-handed.
+
+Assistant: Thanks for that information. Could you list your current doctors? This includes any specialists you might be seeing.
+
+User: Honestly, it's a bit of a blur. I see Dr. Michelle Price, obviously. Then there's a couple of others whose names I always mix up. One's for my head stuff, another checks on the meds. It's a bit much to keep straight.
+
+Assistant: That's perfectly okay, Seth. It can be challenging to keep track of everything. Do you have any known allergies?
+
+User: Yeah, pet dander. Gets me sneezing and all that.
+
+Assistant: Noted, thank you for sharing. Could you please tell me about your current medications and their dosages?
+
+User: I'm on Ritalan, Olanzapine, and Clozapine. Dosages, uh, not sure of the exact numbers. They keep changing them trying to find what works.
+
+Assistant: I understand, finding the right balance can be a process. If you happen to remember the dosages later, it would be helpful to share them with Dr. Price. Do you take any health supplements?
+
+User: No, no supplements. Just the meds they've got me on.
+
+Assistant: Alright, thank you for letting me know. Could you tell me about your frequency of nicotine, marijuana, or alcohol use?
+
+User: Alcohol, yeah, it's there. Not much of a smoker or anything. Drink more often than I probably should, helps take the edge off, you know?
+
+Assistant: I understand. It's important to share these details with Dr. Price, so she has a full picture of your health. Moving on to your medical history, can you tell me about any health conditions or diagnoses you have received, including details such as when you were diagnosed?
+
+User: Got a few labels they've stuck on me over the years. ADHD, that was when I was pretty young. Then there's borderline personality disorder and schizophrenia. Those came later, in my 20s and 30s. It's a mix, makes things... interesting.
+
+Assistant: Thank you for sharing that with me, Seth. It's helpful to understand the breadth of your experiences. Have you had any previous hospitalizations or surgeries? If so, could you provide some details?
+
+User: Yeah, been in the hospital a few times. Couple of stays were for my mental health, trying to get things under control. No surgeries, though. Just those stays to adjust meds and stuff.
+
+Assistant: I appreciate you sharing that. It's important to have those details. Have you ever had any head injuries or concussions? If yes, could you tell me when and how it happened?
+
+User: No head injuries or concussions. Been lucky there, I guess.
+
+Assistant: That's good to hear. What about a history of seizures? Have you ever experienced any, and if so, when did it start?
+
+User: No seizures either.
+
+Assistant: Thank you for clarifying. Have you ever been in rehab or received substance counseling? If yes, could you tell me where and when?
+
+User: Yeah, had to deal with the drinking. Went through a program, what, two years ago? It was local, here in East Jonathanside. Helped some, I guess. Keeps me a bit more in line.
+
+Assistant: It's good to hear that you sought help and found it beneficial. Have you seen any other medical professionals for your health? If yes, could you tell me who, when, and why?
+
+User: Aside from the mental health stuff, not really. I've been pretty focused on managing the conditions you already know about. So, it's mostly just been psychiatrists and therapists for that. No one else comes to mind.
+
+Assistant: Understood, focusing on managing your conditions is important. Moving on to your family history, is there a history of psychiatric conditions in other family members? If yes, who were they, and did they receive treatment or hospital care?
+
+User: Yeah, there's some history there. My mom had depression, pretty bad. She was in and out of treatment for most of her life. And I think an uncle on my dad's side had something, schizophrenia maybe? Not sure if he ever got proper treatment. It's not talked about much.
+
+Assistant: Thank you for sharing that, Seth. It's helpful to understand the family context. What about a family history of neurological or genetic conditions? If yes, could you tell me who had them and if they received treatment or hospital care?
+
+User: No neurological or genetic stuff that I'm aware of. Just the mental health issues seem to run in the family. No one's mentioned anything else.
+
+Assistant: Got it, thank you for clarifying that. Do you have any siblings? If yes, could you provide some basic information about each one, such as their name, age, where they live, and what they do for a living?
+
+User: No siblings. It's just been me.
+
+Assistant: Thank you for letting me know. Let's move on to your personal history. Where were you born?
+
+User: Born right here in British Columbia, Canada.
+
+Assistant: Great, staying close to your roots. Since you were born in Canada, we can skip the question about citizenship. Were there any complications during your birth?
+
+User: Not that I've ever been told. Seems it was all pretty standard, no big issues.
+
+Assistant: Good to hear it was straightforward. At a young age, did you walk, talk, and develop friendships like other kids, or were there any notable differences?
+
+User: Yeah, I guess I was a bit slower on some of those fronts. Had trouble keeping friends, and they said I was always a bit more in my own world. ADHD diagnosis came because I couldn't sit still or focus much.
+
+Assistant: Thank you for sharing that insight. It helps to understand the context of your ADHD diagnosis. Did you face any difficulties during your elementary school years?
+
+User: Was average, I suppose. Struggled to pay attention, got into trouble for daydreaming or not following instructions. Teachers always said I could do better if I just focused more. Classic ADHD stuff, really.
+
+Assistant: It sounds like those were challenging times, but it's also clear you've had to navigate these issues from a young age. Can you recall any traumatic experiences growing up that you feel comfortable sharing?
+
+User: No, nothing traumatic. Life's had its ups and downs, but no big traumas or anything. Just the usual stuff, you know?
+
+Assistant: It's good to hear there weren't any significant traumas. How would you describe your average mark and favorite topic or class in high school?
+
+User: Marks were poor, honestly. Never really had a favorite class. School just wasn't my thing. Hard to stay interested or motivated with everything else going on in my head.
+
+Assistant: I understand that must have been quite a challenge for you. After high school, did you pursue any further education? If yes, where did you study and what type of studies did you undertake?
+
+User: No, didn't go for more schooling after high school. Jumped straight into work. School environment was tough for me, didn't see the point in continuing that struggle.
+
+Assistant: That makes sense, especially given your experiences. Could you tell me about your previous work history? If yes, could you list the companies and years of work?
+
+User: Worked a few different jobs before landing where I am now. Mostly retail and a bit of manual labor. None of it really stuck until I got into the charity work. Been here about 8 years, like I mentioned. The other jobs were just jobs, nothing I'd call a career.
+
+Assistant: It sounds like you've found a place where you feel more settled with the charity work. Have you had any previous marriages or long-term relationships?
+
+User: Had a couple of long-term things, but nothing that stuck. No marriages. Just wasn't in the cards, I guess. Relationships can be tough with everything going on in my head.
+
+Assistant: Relationships can indeed be complex, and it's important to find the right balance. What are your hobbies? What do you enjoy doing in your free time?
+
+User: Not much for hobbies. Sometimes I'll read or watch something if it catches my interest. Mostly just try to keep things quiet, helps with managing my head space.
+
+Assistant: Finding peace and managing your headspace are important. When you have a stressful day, what do you do to relax?
+
+User: Drink, mostly. I know, not the best coping mechanism. Sometimes just sitting alone, trying to clear my head. Not much into exercise or anything. Just quiet and space, I guess.
+
+Assistant: It's good to have strategies that help, even while recognizing there's always room for healthier coping mechanisms. Is there anything else you think the doctor needs to know that we haven't covered yet?
+
+User: Don't think so. You've got the gist of it. Just tired of feeling like this, you know? Not sure what else can be done, but here we are.
+
+Assistant: I understand, Seth. It's important to communicate these feelings, and seeking help is a positive step forward. Dr. Price will review this information to better understand your situation and explore ways to support you. Thank you for your time and openness today. Your effort in sharing this information is truly valued. If there's nothing else, I wish you well until your appointment. Goodbye.

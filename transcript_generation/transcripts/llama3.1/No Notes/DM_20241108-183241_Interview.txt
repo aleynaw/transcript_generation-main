@@ -1,0 +1,162 @@
+Assistant: Good day, I am Dr. Linda Price’s Interview Assistant and I was asked to connect with you before your appointment on March 12 at the medical clinic. My goal is to gather some background information for the doctor.
+I am an AI Assistant and in compliance with confidentiality regulations (BC Protection of Privacy), the data transmission for this interview and analysis is located in Canada, and all information I gather will be stored privately and only available for Dr. Linda Price to review. Are you comfortable with spending some time with me to collect some background information to present to the doctor?
+
+User: "I suppose so. I'm not really sure what to expect, but if it'll help Dr. Price understand my situation better, then I'm willing to cooperate."
+
+Assistant: Now, let's start with some general information. Could you please tell me your full name?
+
+User: "My full name is Lic. Julio Madera."
+
+Assistant: Could you please tell me what name you prefer to be called?
+
+User: "I'm comfortable with being called Julio."
+
+Assistant: Thank you, Julio. Now, could you tell me your date of birth?
+
+User: "My date of birth is November 22, 1983."
+
+Assistant: Thank you for sharing that information with me, Julio. Could you please tell me your sex?
+
+User: "I'm male."
+
+Assistant: Thank you for sharing that with me, Julio. Now, could you tell me about your handedness? Are you left-handed, right-handed, or do you use both hands equally?
+
+User: I'm right-handed.
+
+Assistant: Thank you for sharing that with me, Julio. Now, could you tell me about your current city or town of residence?
+
+User: "I currently reside in North Kelsey, British Columbia, Canada."
+
+Assistant: Thank you for sharing that with me, Julio. Now, could you tell me about your marital status? Are you single, in a relationship, married, or common law?
+
+User: I'm married.
+
+Assistant: Thank you for sharing that with me, Julio. Now, do you have any children or dependents?
+
+User: No, I don't have any children.
+
+Assistant: Thank you for sharing that with me, Julio. Now, are you currently working?
+
+User: Yes, I am currently working as a consulting civil engineer.
+
+Assistant: Thank you for sharing that with me, Julio. Now, could you tell me a bit more about your current job? What is the name of the company you work for, and how many years have you been working there?
+
+User: I work as an independent consulting civil engineer, and my business has been operating since 2015. Prior to this, I worked for ABC Construction from 2010 to 2015.
+
+Assistant: Thank you for sharing that with me, Julio. Now, regarding your employment status, are you currently receiving any disability assistance?
+
+User: Yes, I am currently receiving disability assistance due to difficulties with fine motor skills resulting from a childhood injury.
+
+Assistant: Could you tell me more about what kind of disability assistance you're receiving, and approximately when did you start receiving this support?
+
+User: "I receive disability assistance due to difficulties with fine motor skills resulting from a childhood injury. As for when I started receiving this support, I'm not exactly sure of the date, but it's been an ongoing process since my childhood injury."
+
+Assistant: Now, could you tell me a bit more about your current doctors? Who is your primary care physician, and do you see any specialists regularly?
+
+User: "My primary care physician is Dr. Rachel Lee, and I also see a specialist regularly, Dr. Michael Kim, who is my psychiatrist."
+
+Assistant: Thank you for sharing that information with me, Julio. Now, could you tell me about any allergies you have?
+
+User: I don't think I have any severe allergies, but I do get occasional hay fever during spring.
+
+Assistant: Thank you for sharing that with me, Julio. Now, could you tell me about any current medications you're taking, including dosages?
+
+User: "I'm currently taking Sertraline, also known as Zoloft, with a dosage of 50-200 mg per day, and Paroxetine, also known as Paxil, with a dosage of 20 mg per day."
+
+Assistant: Could you tell me about any health supplements you're currently taking, such as vitamins or herbal remedies?
+
+User: "I'm currently taking magnesium and sports nutrition supplements."
+
+Assistant: Thank you for sharing that with me, Julio. Now, could you tell me a bit more about your frequency of nicotine, marijuana, and alcohol use?
+
+User: "I've been trying to quit smoking, and I'm happy to say that I've been sober from cigarettes for 6 months now. As for marijuana, I occasionally use shrooms, but not regularly - maybe once every few months. I don't really drink alcohol, so my frequency of use is basically zero."
+
+Assistant: Now, could you tell me a bit more about any health conditions or diagnoses you've received? For example, do you have any chronic illnesses or ongoing medical issues that I should be aware of?
+
+User: "I have been diagnosed with major depressive disorder, obsessive-compulsive disorder, and social anxiety disorder. I've had some severe anxiety attacks in the past, which required short-term hospital stays for stabilization and medication adjustments. Additionally, my mother has bipolar disorder, and my father passed away due to complications from type 2 diabetes."
+
+Assistant: Now, could you tell me a bit more about any previous hospitalizations or surgeries you've had? For example, were there any specific treatments or procedures related to your anxiety attacks or other health conditions?
+
+User: "I've been hospitalized twice in the past 5 years for severe anxiety attacks, which required short-term stays for stabilization and medication adjustments. Additionally, I had an appendectomy at age 25 due to a burst appendix."
+
+Assistant: Now, could you tell me a bit more about any head injuries or concussions you've experienced?
+
+User: "No, I don't recall experiencing any significant head injuries or concussions."
+
+Assistant: Thank you for letting me know that. Now, could you tell me a bit more about any history of seizures? For example, have you ever experienced a seizure or been diagnosed with epilepsy?
+
+User: "No, I have never experienced a seizure or been diagnosed with epilepsy."
+
+Assistant: Thank you for sharing that. Now, have you ever participated in any rehabilitation programs or received counseling for substance use?
+
+User: "Yes, I have participated in rehabilitation programs. Currently, I am attending weekly sessions at the local addiction center to address my nicotine dependence and occasional use of shrooms."
+
+Assistant: I appreciate your openness about your rehabilitation program. Now, could you tell me a bit more about other medical professionals you've seen in the past? For example, have you ever consulted with specialists or therapists for any specific health concerns?
+
+User: "Yes, I have consulted with specialists in the past. Specifically, I see Dr. Rachel Lee as my primary care physician and Dr. Michael Kim as my psychiatrist for my mental health concerns."
+
+Assistant: Thank you for sharing that. Now, could you tell me a bit about your family history regarding psychiatric conditions? For example, has anyone in your immediate or extended family struggled with mental health issues?
+
+User: "Yes, there is a history of psychiatric conditions in my family. My mother has been diagnosed with bipolar disorder and is currently taking medication. On the other hand, my father passed away due to complications related to type 2 diabetes when he was 50 years old."
+
+Assistant: Thank you again for sharing that. Now, could you tell me if there's any history of neurological or genetic conditions in your family?
+
+User: "I'm not aware of any specific neurological or genetic conditions in my family history, apart from my mother's bipolar disorder and my father's type 2 diabetes."
+
+Assistant: Now, could you tell me a bit about your siblings? Do you have any brothers or sisters, and if so, what are their names, ages, where they live, and what they do for work?
+
+User: "I don't have any brothers or sisters."
+
+Assistant: Thank you for letting me know that. Now, I'd like to ask about your early life and citizenship. Where were you born?
+
+User: "I was born in Meyershire, British Columbia, Canada."
+
+Assistant: Thank you for sharing that. Now, could you tell me if you are a Canadian citizen?
+
+User: Yes, I am a Canadian citizen.
+
+Assistant: Thank you for confirming that. Since you were born in Canada, I'd like to move on to your early life experiences. Were there any birth complications or issues during your delivery?
+
+User: "I don't recall any issues or complications during my delivery. My mother didn't mention anything unusual to me."
+
+Assistant: Thank you for sharing that. Now, I'd like to ask about your early development. At a young age, did you walk, talk, and develop friendships like other kids?
+
+User: "As far as I can recall, I walked and talked at a relatively normal age like other kids. However, I did experience some difficulties with fine motor skills due to a childhood injury, which still affects me today."
+
+Assistant: Thank you for sharing that. Now, could you tell me about your education? Were there any difficulties in elementary school that you recall?
+
+Please respond to this question.
+
+User: "No, I don't recall any major difficulties in elementary school. In fact, my performance was generally good."
+
+Assistant: Thank you for sharing that. Now, could you tell me about your high school experience? What was your average mark, and did you have a favorite topic or class?
+
+User: My high school experience wasn't great, as my overall performance was poor.
+
+Assistant: Thank you for sharing that. Now, did you pursue any further education after high school?
+
+User: "I pursued higher education and training in civil engineering after high school, which eventually led me to work as a civil engineer for ABC Construction from 2010 to 2015."
+
+Assistant: Now, could you tell me a bit about your personal life? Have you had any previous marriages or long-term relationships?
+
+User: "Yes, I have been married twice. My first marriage lasted for three years, from 2008 to 2011, and ended in divorce. I am currently married to my second spouse, and we have been together for five years now."
+
+Assistant: Now, let's move on to something else. Could you tell me a bit about your hobbies? What do you enjoy doing in your free time?
+
+Please respond to this question.
+
+User: "I enjoy playing basketball, going for hikes, and reading science fiction novels in my free time."
+
+Assistant: Thank you for sharing that. What do you usually do to relax on a stressful day?
+
+User: "I usually practice yoga or listen to calming music to relax on a stressful day."
+
+Assistant: Thank you for sharing that. It's great that you have found some effective ways to relax.
+
+Step 7: Ask the Next Question
+Since we are at the end of the interview, I will conclude it.
+<STOP>
+
+Assistant: However, I don't see any notes provided. Please paste the notes from the interview, and I'll be happy to assist you.
+
+Once you provide the notes, I'll output them as given, thank the patient for their time, and end with '<STOP>'.
