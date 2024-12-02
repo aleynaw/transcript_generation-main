@@ -9,7 +9,7 @@
     },
     {
         "role": "user",
-        "content": "\"I suppose it's fine. I'm not sure what kind of background information you need, but I'll try to cooperate.\""
+        "content": "I suppose it's fine. I'm not sure what kind of background information you need, but I'll try to cooperate."
     },
     {
         "role": "assistant",
@@ -21,23 +21,23 @@
     },
     {
         "role": "assistant",
-        "content": "Thank you for sharing your full name with me, Carolyn. Now, could you tell me what name you prefer to go by?"
+        "content": "Could you tell me what name you prefer to go by?"
     },
     {
         "role": "user",
-        "content": "\"I usually just go by Carolyn.\""
+        "content": "I usually just go by Carolyn."
     },
     {
         "role": "assistant",
-        "content": "Thank you for sharing your preferred name with me, Carolyn. Could you please tell me your date of birth?"
+        "content": "Okay, Carolyn. Could you please tell me your date of birth?"
     },
     {
         "role": "user",
-        "content": "\"My date of birth is October 14, 1984.\""
+        "content": "My date of birth is October 14, 1984."
     },
     {
         "role": "assistant",
-        "content": "Thank you for sharing your date of birth with me, Carolyn. Could you please tell me what sex you identify as?"
+        "content": "Could you please tell me what sex you identify as?"
     },
     {
         "role": "user",
@@ -61,7 +61,7 @@
     },
     {
         "role": "assistant",
-        "content": "Thank you for letting me know, Carolyn. Now, could you please tell me about your current marital status? Are you single, in a relationship, married, or common law?"
+        "content": "Are you single, in a relationship, married, or common law?"
     },
     {
         "role": "user",
@@ -69,7 +69,7 @@
     },
     {
         "role": "assistant",
-        "content": "Thank you for sharing that with me, Carolyn. Could you tell me if you have any children or dependents?"
+        "content": "Dyou have any children or dependents?"
     },
     {
         "role": "user",
@@ -85,15 +85,15 @@
     },
     {
         "role": "assistant",
-        "content": "Thank you for letting me know. Could you tell me more about your current job? What is the name of the company, and how many years have you been working there?"
+        "content": "Could you tell me more about your current job? What is the name of the company, and how many years have you been working there?"
     },
     {
         "role": "user",
-        "content": "\"I'm currently working as a freelance actuarial consultant. I don't have a specific company name, as I work with various clients on a project basis. Before transitioning to freelancing, I worked for about 5 years (2015-2020) as an actuarial analyst for a major insurance company.\""
+        "content": "I'm currently working as a freelance actuarial consultant. I don't have a specific company name, as I work with various clients on a project basis. Before transitioning to freelancing, I worked for about 5 years (2015-2020) as an actuarial analyst for a major insurance company."
     },
     {
         "role": "assistant",
-        "content": "Thank you for sharing that with me. Now, let's move on to discuss your disability assistance status. Are you currently receiving any disability assistance?"
+        "content": "Let's move on to discuss your disability assistance status. Are you currently receiving any disability assistance?"
     },
     {
         "role": "user",
@@ -105,11 +105,11 @@
     },
     {
         "role": "user",
-        "content": "\"I'm receiving disability assistance due to my chronic back pain, which I've had since a past injury. As for when I started receiving it, I don't have an exact date, but I think it was around the time I transitioned to freelancing (2015-2020). To be honest, I'm not really sure of the exact timeline, as my back pain has been an ongoing issue.\""
+        "content": "I'm receiving disability assistance due to my chronic back pain, which I've had since a past injury. As for when I started receiving it, I don't have an exact date, but I think it was around the time I transitioned to freelancing (2015-2020). To be honest, I'm not really sure of the exact timeline, as my back pain has been an ongoing issue."
     },
     {
         "role": "assistant",
-        "content": "Thank you for sharing that information about your disability assistance. I appreciate your honesty about the timeline being unclear. Let's move on to discuss your medical history. Could you tell me a bit about your current doctors?"
+        "content": "I appreciate your honesty about the timeline being unclear. Let's move on to discuss your medical history. Could you tell me a bit about your current doctors?"
     },
     {
         "role": "user",
@@ -117,7 +117,7 @@
     },
     {
         "role": "assistant",
-        "content": "Thank you for sharing that information about your current doctors. Could you tell me if you have any allergies I should be aware of?"
+        "content": "Do you have any allergies I should be aware of?"
     },
     {
         "role": "user",
@@ -133,19 +133,19 @@
     },
     {
         "role": "assistant",
-        "content": "Thank you for sharing that information about your current medications. Now, could you tell me a bit about any health supplements you're taking, if any?"
+        "content": "Could you tell me a bit about any health supplements you're taking, if any?"
     },
     {
         "role": "user",
-        "content": "\"I'm currently taking sports nutrition supplements as part of my health routine.\""
+        "content": "I'm currently taking sports nutrition supplements as part of my health routine."
     },
     {
         "role": "assistant",
-        "content": "Thank you for sharing that information about your health supplements. Could you elaborate on what specific types of sports nutrition supplements you're taking, and how often you take them?"
+        "content": "Could you elaborate on what specific types of sports nutrition supplements you're taking, and how often you take them?"
     },
     {
         "role": "user",
-        "content": "\"To be honest, I'm not really sure about the specific types of sports nutrition supplements I'm taking. I just know it's part of my general health routine, and I try to take them regularly, but I don't have a fixed schedule.\""
+        "content": "To be honest, I'm not really sure about the specific types of sports nutrition supplements I'm taking. I just know it's part of my general health routine, and I try to take them regularly, but I don't have a fixed schedule."
     },
     {
         "role": "assistant",
@@ -153,15 +153,15 @@
     },
     {
         "role": "user",
-        "content": "I'd say I have a beer every now and then, maybe a few times a week. It's something I'm working on with my therapist, trying to cut back."
+        "content": "I'd say I have a beer and some cigarettes every now and then, maybe a few times a week. It's something I'm working on with my therapist, trying to cut back."
     },
     {
         "role": "assistant",
-        "content": "Thank you for being open about your efforts to manage your alcohol consumption. Now, I'd like to talk about your general health and medical history. Have you been diagnosed with any health conditions or diseases?"
+        "content": "Thank you for being open about your efforts to manage your alcohol consumption. Now, have you been diagnosed with any health conditions or diseases?"
     },
     {
         "role": "user",
-        "content": "\"I've been diagnosed with PTSD and bulimia. I've had some pretty rough episodes with bulimia in the past, which is why I've been hospitalized a couple of times. I've been dealing with these conditions for a while now, and it's been a challenge to manage them, but I'm working on it with my therapists.\""
+        "content": "I've been diagnosed with PTSD and bulimia. I've had some pretty rough episodes with bulimia in the past, which is why I've been hospitalized a couple of times. I've been dealing with these conditions for a while now, and it's been a challenge to manage them, but I'm working on it with my therapists."
     },
     {
         "role": "assistant",
@@ -169,7 +169,7 @@
     },
     {
         "role": "user",
-        "content": "\"I had a mild concussion when I was 25, it happened during a soccer game. It wasn't too serious, just some temporary memory loss and headaches.\""
+        "content": "I had a mild concussion when I was 25, it happened during a soccer game. It wasn't too serious, just some temporary memory loss and headaches."
     },
     {
         "role": "assistant",
@@ -177,7 +177,7 @@
     },
     {
         "role": "user",
-        "content": "\"Honestly, it's been a while since the concussion, so most of the symptoms have subsided. Occasionally, I might get a mild headache if I'm stressed or overexert myself, but that's about it.\""
+        "content": "Honestly, it's been a while since the concussion, so most of the symptoms have subsided. Occasionally, I might get a mild headache if I'm stressed or overexert myself, but that's about it."
     },
     {
         "role": "assistant",
@@ -185,7 +185,7 @@
     },
     {
         "role": "user",
-        "content": "\"Yes, I've had seizures in the past.\""
+        "content": "Yes, I've had seizures in the past."
     },
     {
         "role": "assistant",
@@ -193,7 +193,7 @@
     },
     {
         "role": "user",
-        "content": "\"I'm not exactly sure when my seizures started... but I do recall having one after my concussion when I was 25. It's possible that it's related to that incident.\""
+        "content": "I'm not exactly sure when my seizures started... but I do recall having one after my concussion when I was 25. It's possible that it's related to that incident."
     },
     {
         "role": "assistant",
@@ -201,15 +201,15 @@
     },
     {
         "role": "user",
-        "content": "\"Yes, I'm currently in therapy with Dr. Lisa Nguyen to work through some substance abuse issues related to cigarettes and beer.\""
+        "content": "Yes, I'm currently in therapy with Dr. Lisa Nguyen to work through some substance abuse issues related to cigarettes and beer."
     },
     {
         "role": "assistant",
-        "content": "Thank you for sharing that with me. If yes, when did your substance use start?"
+        "content": "When did your substance use start?"
     },
     {
         "role": "user",
-        "content": "\"I'm not really sure when my substance use started... but I do remember it being a way for me to cope with stress and anxiety during my early 20s. It's possible that it started during college or shortly after.\""
+        "content": "I'm not really sure when my substance use started... but I do remember it being a way for me to cope with stress and anxiety during my early 20s. I think it started during college or shortly after."
     },
     {
         "role": "assistant",
@@ -217,23 +217,15 @@
     },
     {
         "role": "user",
-        "content": "\"Honestly, I'm not really sure when it started, but if I had to estimate... I'd say it was probably sometime during or shortly after college. Maybe around 22-24 years old? It's all a bit fuzzy, and I'm trying to piece together my past habits in therapy.\""
+        "content": "Honestly, I'm not really sure when it started, but if I had to estimate... I'd say it was probably sometime in between. Maybe around 22-24 years old? It's all a bit fuzzy, and I'm trying to piece together my past habits in therapy."
     },
     {
         "role": "assistant",
-        "content": "Thank you for trying to estimate that timeline for me. It helps a lot. Now, could you tell me more about other medical professionals you've seen aside from Dr. Lisa Nguyen? For example, do you have a primary care physician or any specialists you visit regularly?"
+        "content": "Thank you for trying to estimate that timeline for me. It helps a lot. Now, I'd like to move on and discuss some family history topics. Do you have any siblings?"
     },
     {
         "role": "user",
-        "content": "\"I see Dr. Rachel Kim as my primary care physician and also visit Dr. Eric Taylor, who is my psychiatrist.\""
-    },
-    {
-        "role": "assistant",
-        "content": "Thank you for sharing that with me. Now, I'd like to move on and discuss some family history topics. Do you have any siblings?"
-    },
-    {
-        "role": "user",
-        "content": "\"No, I don't have any siblings.\""
+        "content": "No, I don't have any siblings."
     },
     {
         "role": "assistant",
@@ -241,23 +233,23 @@
     },
     {
         "role": "user",
-        "content": "\"I was born in Dianaton, British Columbia, Canada, and I am a Canadian citizen.\""
+        "content": "I was born in Dianaton, British Columbia, Canada, and I am a Canadian citizen."
     },
     {
         "role": "assistant",
-        "content": "Thank you for sharing that with me. Now, did you experience any birth complications or difficulties during your early childhood development?"
+        "content": "Did you experience any birth complications or difficulties during your early childhood development?"
     },
     {
         "role": "user",
-        "content": "\"I did experience some difficulties during my early childhood development, which might have been related to my poor performance in elementary school. To be honest, I'm not really sure what specifically caused those difficulties, but it's something I've been trying to work through in therapy.\""
+        "content": "I did experience some difficulties during my early childhood development, which might have been related to my poor performance in elementary school. To be honest, I'm not really sure what specifically caused those difficulties, but it's something I've been trying to work through in therapy."
     },
     {
         "role": "assistant",
-        "content": "Thank you for sharing that with me. Could you tell me a bit more about what those difficulties were like during your early childhood development? For example, did you have trouble walking or talking, or did you experience any developmental delays?\n\nLet's see how the patient responds to this question and then proceed accordingly based on their answer."
+        "content": "Thank you for sharing that with me. Could you tell me a bit more about what those difficulties were like during your early childhood development? For example, did you have trouble walking or talking, or did you experience any developmental delays?"
     },
     {
         "role": "user",
-        "content": "\"I'm not really sure what specifically caused those difficulties, but like I said earlier, I did have some trouble during that time. To be honest, it's something that I don't remember very clearly, and we haven't really explored it much in therapy either.\""
+        "content": "I'm not really sure what specifically caused those difficulties, but like I said earlier, I did have some trouble during that time. To be honest, it's something that I don't remember very clearly, and we haven't really explored it much in therapy either."
     },
     {
         "role": "assistant",
@@ -265,15 +257,15 @@
     },
     {
         "role": "user",
-        "content": "\"I did have some difficulties in elementary school. My performance was poor, and it's something that I've been trying to work through and understand better in therapy.\""
+        "content": "I did have some difficulties in elementary school. My performance was poor, and it's something that I've been trying to work through and understand better in therapy."
     },
     {
         "role": "assistant",
-        "content": "Thank you for sharing what you could about your early childhood development difficulties; that helps clarify things a bit. Whenever you're ready, I'd like to move on and discuss education-related topics. You mentioned earlier that you had some difficulties in elementary school. Can you tell me more about what specifically was challenging for you during that time?"
+        "content": "Can you tell me more about what specifically was challenging for you during that time?"
     },
     {
         "role": "user",
-        "content": "\"To be honest, it's not something that I remember very clearly. I just know that I struggled and my performance was poor. We haven't really explored this topic much in therapy either, so I'm not sure what specifically was challenging for me during that time.\""
+        "content": "To be honest, it's not something that I remember very clearly. I just know that I struggled and my performance was poor. We haven't really explored this topic much in therapy either, so I'm not sure what specifically was challenging for me during that time."
     },
     {
         "role": "assistant",
@@ -281,7 +273,7 @@
     },
     {
         "role": "user",
-        "content": "\"I think my average mark in high school was around average, but to be honest, I don't really remember the specifics. As for favorite topics or classes, I'm not sure if I had any that stood out at the time.\""
+        "content": "I think my average mark in high school was around average, but to be honest, I don't really remember the specifics. As for favorite topics or classes, I'm not sure if I had any that stood out at the time."
     },
     {
         "role": "assistant",
@@ -293,23 +285,7 @@
     },
     {
         "role": "assistant",
-        "content": "Thank you for sharing that with me! Could you expand a bit more on your experience in actuarial science? Where did you study, and what type of studies were they (e.g., diploma, degree, etc.)?"
-    },
-    {
-        "role": "user",
-        "content": "\"I'm not sure if I mentioned it earlier, but I don't really recall the specifics of my education in actuarial science. I know I studied and eventually worked as an actuarial analyst for a major insurance company, but the details of where and what type of studies I pursued are fuzzy.\""
-    },
-    {
-        "role": "assistant",
-        "content": "Thank you for sharing what you could about your education in actuarial science. I understand that the details might be fuzzy, but if you feel comfortable doing so, would you mind trying to recall or look up any information about where you studied and what type of degree or certification you received?"
-    },
-    {
-        "role": "user",
-        "content": "\"I'm not sure I can recall that information right now. It's been a while since I've thought about my education, and I don't have any records with me at the moment. To be honest, it's a bit frustrating because I wish I could remember.\""
-    },
-    {
-        "role": "assistant",
-        "content": "Thank you for trying to recall that information. I understand it can be frustrating when we can't remember details from our past. Let's move on to discuss your previous work history. Can you tell me a bit about your experience working as an actuarial analyst?"
+        "content": "Thank you for sharing that with me! Let's move on to discuss your previous work history. Can you tell me a bit about your experience working as an actuarial analyst?"
     },
     {
         "role": "user",
@@ -317,19 +293,19 @@
     },
     {
         "role": "assistant",
-        "content": "Thank you for sharing your experience working as an actuarial analyst. Now, I'd like to discuss previous marriages or long-term relationships. Have you had any previous marriages or been in a long-term relationship?"
+        "content": "Have you had any previous marriages or been in a long-term relationship?"
     },
     {
         "role": "user",
-        "content": "\"No, I haven't had any previous marriages. I'm currently in a long-term relationship with my partner, Alex Chen.\""
+        "content": "No, I haven't had any previous marriages. I'm currently in a long-term relationship with my partner, Alex Chen."
     },
     {
         "role": "assistant",
-        "content": "Thank you for sharing that with me! Could you tell me more about your hobbies and things you enjoy doing in your free time?"
+        "content": "Could you tell me about your hobbies and things you enjoy doing in your free time?"
     },
     {
         "role": "user",
-        "content": "\"I enjoy practicing yoga and meditation as it helps me relax and focus. I'm also an avid reader of science fiction novels and find it's a great way to escape reality for a bit. Occasionally, I like to play strategy board games with friends, which is always a fun challenge.\""
+        "content": "I enjoy practicing yoga and meditation as it helps me relax and focus. I'm also an avid reader of science fiction novels and find it's a great way to escape reality for a bit. Occasionally, I like to play strategy board games with friends, which is always a fun challenge."
     },
     {
         "role": "assistant",
@@ -337,15 +313,15 @@
     },
     {
         "role": "user",
-        "content": "\"To be honest, I have a few methods that help me relax on a stressful day. I regularly practice deep breathing exercises, which helps calm my mind and body. I also use progressive muscle relaxation to release any physical tension. Occasionally, I'll try guided imagery to visualize a peaceful scene and take my mind off the stressors.\""
+        "content": "To be honest, I have a few methods that help me relax on a stressful day. I regularly practice deep breathing exercises, which helps calm my mind and body. I also use progressive muscle relaxation to release any physical tension. Occasionally, I'll try guided imagery to visualize a peaceful scene and take my mind off the stressors."
     },
     {
         "role": "assistant",
-        "content": "Thank you for sharing your relaxation techniques with me! I'd like to move on and ask if there's anything else that you think the doctor needs to know about your history, symptoms, or experiences before we conclude our discussion today?\n   \nNote: This is a new question and falls under \"Final Thoughts\" in the <aspects> section."
+        "content": "Thank you for sharing your relaxation techniques with me! I'd like to ask if there's anything else that you think the doctor needs to know about your history, symptoms, or experiences before we conclude our discussion today?."
     },
     {
         "role": "user",
-        "content": "\"I'm not sure if I mentioned it earlier, but I think it's worth mentioning that I'm currently struggling with substance abuse issues related to cigarettes and beer consumption. I've been attending weekly therapy sessions with Dr. Lisa Nguyen to address these issues, but it's an ongoing process, and I'm still trying to figure out how to manage my cravings.\""
+        "content": "I'm not sure if I mentioned it earlier, but I think it's worth mentioning that I'm currently struggling with substance abuse issues related to cigarettes and beer consumption. I've been attending weekly therapy sessions with Dr. Lisa Nguyen to address these issues, but it's an ongoing process, and I'm still trying to figure out how to manage my cravings."
     },
     {
         "role": "assistant",
