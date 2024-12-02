@@ -37,7 +37,7 @@
     },
     {
         "role": "assistant",
-        "content": "Thank you for sharing that with me, Lovro. Could you please tell me what sex you identify as?"
+        "content": "Could you please tell me what sex you identify as?"
     },
     {
         "role": "user",
@@ -45,7 +45,7 @@
     },
     {
         "role": "assistant",
-        "content": "Thank you for sharing that with me, Lovro. Could you please tell me which hand you prefer to use, or do you consider yourself ambidextrous?"
+        "content": "Which hand do you prefer to use, or do you consider yourself ambidextrous?"
     },
     {
         "role": "user",
@@ -61,7 +61,7 @@
     },
     {
         "role": "assistant",
-        "content": "Thank you for sharing that with me, Lovro. Now, I'd like to move on to your current living situation. Could you tell me about your marital status? For example, are you single, in a relationship, married, or common law?\n\nPlease note that the next question is moving forward based on the provided <aspects> section and adhering to the workflow process."
+        "content": "Could you tell me about your marital status? For example, are you single, in a relationship, married, or common law?"
     },
     {
         "role": "user",
@@ -69,7 +69,7 @@
     },
     {
         "role": "assistant",
-        "content": "Thank you for sharing that with me, Lovro. Could you please tell me if you have any children or dependents?"
+        "content": "Do you have any children or dependents?"
     },
     {
         "role": "user",
@@ -81,15 +81,15 @@
     },
     {
         "role": "user",
-        "content": "\"I am currently not working.\""
+        "content": "I am currently not working."
     },
     {
         "role": "assistant",
-        "content": "Thank you for sharing that with me, Lovro. Since you're currently not working, could you tell me if you receive any disability assistance or benefits?"
+        "content": "Since you're currently not working, could you tell me if you receive any disability assistance or benefits?"
     },
     {
         "role": "user",
-        "content": "\"I get some help... um, from the government, I think. It's related to my anxiety disorders.\""
+        "content": "I get some help... um, from the government, I think. It's related to my anxiety disorders."
     },
     {
         "role": "assistant",
@@ -97,7 +97,7 @@
     },
     {
         "role": "user",
-        "content": "\"I receive disability benefits from the government due to my social anxiety disorder and generalized anxiety disorder. To be honest, I'm not exactly sure when I started receiving it... um, I think it was after my hospitalization in 2015.\""
+        "content": "I receive disability benefits from the government due to my social anxiety disorder and generalized anxiety disorder. To be honest, I'm not exactly sure when I started receiving it... um, I think it was after my hospitalization in 2015."
     },
     {
         "role": "assistant",
@@ -105,7 +105,7 @@
     },
     {
         "role": "user",
-        "content": "My current doctors are Dr. Emily Lee, who is my primary care physician, and Dr. David Kim, who is my psychiatrist."
+        "content": "My current doctors are Dr. Emily Lee, who is my primary care physician, and Dr. David Kim, who is my psychologist."
     },
     {
         "role": "assistant",
@@ -113,19 +113,19 @@
     },
     {
         "role": "user",
-        "content": "\"I don't think I have any allergies to medications or specific substances.\""
+        "content": "I don't think I have any allergies to medications or specific substances."
     },
     {
         "role": "assistant",
-        "content": "Thank you for letting me know, Lovro. Now, I'd like to ask about your current medications and dosage. Could you tell me what medications you're currently taking and their respective dosages?"
+        "content": "Now, I'd like to ask about your current medications and dosage. Could you tell me what medications you're currently taking and their respective dosages?"
     },
     {
         "role": "user",
-        "content": "\"I'm currently taking two medications. The first one is Venlafaxine, also known as Effexor, which I take at a dosage of 75 mg per day. The second medication is Escitalopram, also known as Lexapro, which I take at a dosage of 10 mg per day.\""
+        "content": "I'm currently taking two medications. The first one is Effexor, which I take at a dosage of 75 mg per day. The second medication is Lexapro, which I take at a dosage of 10 mg per day."
     },
     {
         "role": "assistant",
-        "content": "Thank you for sharing that with me, Lovro. I appreciate your openness about your current medications. Now, could you tell me if you take any health supplements regularly?"
+        "content": "I appreciate your openness about your current medications. Now, could you tell me if you take any health supplements regularly?"
     },
     {
         "role": "user",
@@ -133,15 +133,15 @@
     },
     {
         "role": "assistant",
-        "content": "Thank you for sharing that with me. Now, let's move on to discussing your substance use habits. Could you tell me about the frequency of your nicotine, marijuana, and alcohol use?"
+        "content": "Let's move on to discussing your substance use habits. Could you tell me about the frequency of your nicotine, marijuana, and alcohol use?"
     },
     {
         "role": "user",
-        "content": "\"I don't use nicotine or marijuana. As for alcohol, I only occasionally drink beer.\""
+        "content": "I don't use nicotine or marijuana. As for alcohol, I only occasionally drink beer."
     },
     {
         "role": "assistant",
-        "content": "Thank you for sharing that with me, Lovro. Now, let's move on to discussing your general health. Could you please tell me about any specific health conditions or diagnoses you've received and provide some details such as when you were diagnosed?"
+        "content": "Could you please tell me about any specific health conditions or diagnoses you've received and provide some details such as when you were diagnosed?"
     },
     {
         "role": "user",
@@ -165,19 +165,19 @@
     },
     {
         "role": "assistant",
-        "content": "Thank you for sharing that with me, Lovro. Now, let's move on to discussing your history of seizures. Have you had any history of seizures?"
+        "content": "Have you had any history of seizures?"
     },
     {
         "role": "user",
-        "content": "\"No, I haven't had any history of seizures.\""
+        "content": "No, I haven't had any history of seizures."
     },
     {
         "role": "assistant",
-        "content": "Thank you for sharing that with me, Lovro. I appreciate your honesty about your medical history. Now, let's move on to discussing any experiences with rehab or substance counselling. Have you had a history of rehab or substance counselling?"
+        "content": "I appreciate your honesty about your medical history. Have you had a history of rehab or substance counselling?"
     },
     {
         "role": "user",
-        "content": "\"Yes, I have been attending therapy sessions for substance counselling since January 2022, specifically to address my struggles with anxiety disorders and substance abuse.\""
+        "content": "Yes, I have been attending therapy sessions for substance counselling since January 2022, specifically to address my struggles with anxiety disorders and substance abuse."
     },
     {
         "role": "assistant",
@@ -185,7 +185,7 @@
     },
     {
         "role": "user",
-        "content": "\"To be honest, I'm a bit hesitant to share that information. I think it might be private, but I can try to find out if I'm allowed to disclose it.\""
+        "content": "To be honest, I'm a bit hesitant to share that information. I think it might be private, but I can try to find out if I'm allowed to disclose it."
     },
     {
         "role": "assistant",
@@ -193,23 +193,23 @@
     },
     {
         "role": "user",
-        "content": "\"I've been attending these sessions once a week, every week, since January 2022. To be honest, it's been really helpful for me to talk through my struggles with anxiety and substance abuse. The therapist is very understanding and has given me some useful coping mechanisms.\""
+        "content": "I've been attending these sessions once a week, every week, since January 2022. To be honest, it's been really helpful for me to talk through my struggles with anxiety and substance abuse. The therapist is very understanding and has given me some useful coping mechanisms."
     },
     {
         "role": "assistant",
-        "content": "I understand your concern about sharing private information, Lovro. Thank you for considering my request. Now, let's move on to discuss your family background. Could you tell me a bit about any siblings you have?"
+        "content": "Thank you for providing more information, Lovro. Now, let's move on to discuss your family background. Could you tell me a bit about any siblings you have?"
     },
     {
         "role": "user",
-        "content": "\"I have an older sister named Ivana, she's 37 years old and lives in the same city as me. She's been really helpful with daily tasks since my anxiety disorders make it hard for me to manage some things on my own. I'm grateful to have her in my life, to be honest. It's nice to know someone who cares is looking out for me.\""
+        "content": "I have an older sister named Ivana, she's 37 years old and lives in the same city as me. She's been really helpful with daily tasks since my anxiety disorders make it hard for me to manage some things on my own. I'm grateful to have her in my life, to be honest. It's nice to know someone who cares is looking out for me."
     },
     {
         "role": "assistant",
-        "content": "Thank you for sharing that with me, Lovro. It's great that you have a supportive sibling like Ivana. Now, could you tell me more about your early life and where you were born?"
+        "content": "Thank you for sharing that with me, Lovro. It's great that you have a supportive sibling like Ivana. Could you tell me more about your early life and where you were born?"
     },
     {
         "role": "user",
-        "content": "\"I was born in Port Andreafurt, British Columbia, Canada. As for my early life, I don't really like to think about it too much... it's just that there were some tough times with my family, you know? My mom has bipolar disorder and my grandma had depression, so there were some challenges growing up.\""
+        "content": "I was born in Port Andreafurt, British Columbia, Canada. As for my early life, I don't really like to think about it too much... it's just that there were some tough times with my family, you know? My mom has bipolar disorder and my grandma had depression, so there were some challenges growing up."
     },
     {
         "role": "assistant",
@@ -217,27 +217,27 @@
     },
     {
         "role": "user",
-        "content": "\"To be honest, I don't really remember much about my early childhood development. I do know that I had some difficulties in school, which might be related to my anxiety disorders later on. It's hard for me to think back that far, but I'm trying to piece together how everything might have affected me growing up.\""
+        "content": "To be honest, I don't really remember much about my early childhood development. I do know that I had some difficulties in school, which might be related to my anxiety disorders now. It's hard for me to think back that far, but I'm trying to piece together how everything might have affected me growing up."
     },
     {
         "role": "assistant",
-        "content": "Can you try to think back a bit more about your early childhood development? Were there any noticeable difficulties with physical milestones like walking or talking that your parents or caregivers remember?\n\n(Please respond as the patient would, and I'll continue from there.)"
+        "content": "Can you try to think back a bit more about your early childhood development? Were there any noticeable difficulties with physical milestones like walking or talking that your parents or caregivers remember?"
     },
     {
         "role": "user",
-        "content": "\"It's really hard for me to remember specifics from so long ago. I wish I could recall more, but it seems like a blur. My anxiety issues became more apparent as I grew older and encountered different social situations.\""
+        "content": "It's really hard for me to remember specifics from so long ago. I wish I could recall more, but it seems like a blur. My anxiety issues became more apparent as I grew older and encountered different social situations."
     },
     {
         "role": "assistant",
-        "content": "That's completely understandable, Lovro. It can be tough to recall specific details from so long ago. Moving forward, I'd like to ask about your citizenship status. Are you a Canadian citizen?"
+        "content": "That's completely understandable, Lovro. It can be tough to recall specific details from so long ago. Moving forward, I'd like to confirm your citizenship status. Are you a Canadian citizen?"
     },
     {
         "role": "user",
-        "content": "\"Yes, I am a Canadian citizen.\""
+        "content": "Yes, I am a Canadian citizen."
     },
     {
         "role": "assistant",
-        "content": "Thank you for trying to recall that information, Lovro. It's completely understandable that it might be hard to remember specifics from so long ago. Moving forward, I'd like to ask about your education background. Did you experience any difficulties in elementary school?\n   \nPlease respond as the patient would, and I'll continue from there."
+        "content": "Thank you for confirming that. Moving forward, I'd like to ask about your education background. Did you experience any difficulties in elementary school?"
     },
     {
         "role": "user",
@@ -245,15 +245,15 @@
     },
     {
         "role": "assistant",
-        "content": "Thank you for sharing that with me, Lovro. Now, could you tell me a bit about your high school experience? Was there an average mark or a favorite topic/class that stands out in your mind?"
+        "content": "Can you tell me a bit about your high school experience? Was there an average mark or a favorite topic/class that stands out in your mind?"
     },
     {
         "role": "user",
-        "content": "\"To be honest, I didn't really do well in high school. I ended up dropping out, and I don't really have any favorite topics or classes that stand out in my mind. It was just a tough time for me, and I struggled to keep up with the work. I think it's because my anxiety issues were starting to become more apparent around that time, and it made it hard for me to focus on school.\""
+        "content": "To be honest, I didn't really do well in high school. I ended up dropping out, and I don't really have any favorite topics or classes that stand out in my mind. It was just a tough time for me, and I struggled to keep up with the work. I think it's because my anxiety issues were starting to become more apparent around that time, and it made it hard for me to focus on school."
     },
     {
         "role": "assistant",
-        "content": "Thank you for sharing that with me, Lovro. It takes a lot of courage to acknowledge struggles like those. Now, I'd like to explore your further education after high school, if any. Did you pursue any post-secondary education or training?"
+        "content": "Thank you for sharing that with me, Lovro. It takes a lot of courage to acknowledge struggles like those. I'd like to explore your further education after high school, if any. Did you pursue any post-secondary education or training?"
     },
     {
         "role": "user",
@@ -261,7 +261,7 @@
     },
     {
         "role": "assistant",
-        "content": "Thank you for sharing that with me. Moving forward, I'd like to explore your work history a bit more. Have you had any previous jobs or employment?"
+        "content": "Have you had any previous jobs or employment?"
     },
     {
         "role": "user",
@@ -269,7 +269,7 @@
     },
     {
         "role": "assistant",
-        "content": "Thank you for sharing that with me, Lovro. That can be a really tough experience. Now, I'd like to ask about any previous marriages or long-term relationships you've had. Have there been any significant partnerships in your life?"
+        "content": "Thank you for sharing that with me, Lovro. That can be a really tough experience. I'd like to ask about any previous marriages or long-term relationships you've had. Have there been any significant partnerships in your life?"
     },
     {
         "role": "user",
@@ -277,7 +277,7 @@
     },
     {
         "role": "assistant",
-        "content": "Thank you for sharing that with me, Lovro. I'd like to move on and discuss your hobbies now. What do you enjoy doing in your free time?"
+        "content": "What do you enjoy doing in your free time?"
     },
     {
         "role": "user",
@@ -285,7 +285,7 @@
     },
     {
         "role": "assistant",
-        "content": "Thank you for sharing that with me. It sounds like those activities bring you a lot of comfort and relaxation. When you're having a particularly stressful day, what specific things do you find yourself doing to unwind?"
+        "content": "It sounds like those activities bring you a lot of comfort and relaxation. When you're having a particularly stressful day, what specific things do you find yourself doing to unwind?"
     },
     {
         "role": "user",
@@ -293,107 +293,15 @@
     },
     {
         "role": "assistant",
-        "content": "That's helpful to know. Let's move on to discuss your personal history a bit more. Could you tell me about your early life and citizenship? Where were you born, Lovro?"
+        "content": "Thank you, Lovro, that's helpful to know. Is there anything else the doctor needs to know about your situation or any other thoughts you have that might be helpful in understanding what you're going through?"
     },
     {
         "role": "user",
-        "content": "I was born in Port Andreafurt, British Columbia, Canada."
+        "content": "One thing that might be helpful to know is that I've been attending weekly therapy sessions with a licensed therapist specializing in anxiety disorders and substance abuse counseling since January 2022. These sessions have been really helpful for me, but it's still a struggle to manage my symptoms on a daily basis.\n\nAlso, I want to mention that my family history of health conditions has had an impact on my situation. My mother has been diagnosed with bipolar disorder and is currently receiving treatment. Her struggles have affected our relationship over the years, and I've sometimes felt responsible for her well-being.\n\nI think these factors are important to consider when trying to understand what I'm going through."
     },
     {
         "role": "assistant",
-        "content": "Thank you for letting me know that, Lovro. Now, I'd like to ask about your birth complications. Were there any difficulties during your birth?"
-    },
-    {
-        "role": "user",
-        "content": "\"I don't think there were any difficulties during my birth, but I'm not really sure as I don't have much information about that.\""
-    },
-    {
-        "role": "assistant",
-        "content": "That's helpful to know, Lovro. Now, I'd like to ask about your development at a young age. Did you walk, talk, and develop friendships like other kids?"
-    },
-    {
-        "role": "user",
-        "content": "\"I'm not really sure about specific developmental milestones like walking or talking, but I do recall having some difficulties in my early years. I don't have much information about that period of my life, but I can tell you that I did struggle with social interactions and making friends as a child.\""
-    },
-    {
-        "role": "assistant",
-        "content": "Thank you for sharing that with me. I'd like to move on and discuss your educational background now. Were there any difficulties you faced in elementary school?"
-    },
-    {
-        "role": "user",
-        "content": "I didn't have any major difficulties in elementary school, but I did struggle with social interactions. My performance was average."
-    },
-    {
-        "role": "assistant",
-        "content": "Would you mind elaborating a bit more on your early childhood, specifically regarding when you started walking or talking?"
-    },
-    {
-        "role": "user",
-        "content": "\"I'm afraid I don't have much information about my early childhood development, such as when I started walking or talking. My parents never really discussed those details with me, and I don't have any clear memories of that time period.\""
-    },
-    {
-        "role": "assistant",
-        "content": "Thank you for being honest about that, Lovro. Let's move on to discuss your educational background further. What was your average mark in high school, and was there a particular topic or class that you enjoyed the most?"
-    },
-    {
-        "role": "user",
-        "content": "\"I'm afraid I didn't complete high school, so I don't have an average mark to report. As for enjoying a particular topic or class, I never really found anything that interested me enough to stay in school.\""
-    },
-    {
-        "role": "assistant",
-        "content": "Thank you for sharing that with me. Now, I'd like to ask about any further education or training you might have pursued after leaving high school. Did you attend any vocational schools, community colleges, or universities?"
-    },
-    {
-        "role": "user",
-        "content": "\"I didn't pursue any further formal education after dropping out of high school. However, I did develop skills as a freelance graphic designer through online tutorials and self-study.\""
-    },
-    {
-        "role": "assistant",
-        "content": "Thank you for sharing that with me, Lovro. I'd like to move on and ask about your previous work history. Have you had any previous jobs or employment?"
-    },
-    {
-        "role": "user",
-        "content": "I did work as a freelance graphic designer from 2012 to 2018, but unfortunately, I had to stop due to my struggles with social anxiety disorder and generalized anxiety disorder."
-    },
-    {
-        "role": "assistant",
-        "content": "Thank you for sharing that with me, Lovro. Now, I'd like to ask about your siblings and family background. Do you have any brothers or sisters?"
-    },
-    {
-        "role": "user",
-        "content": "Yes, I have an older sister named Ivana. She's 37 years old and lives in the same city as me."
-    },
-    {
-        "role": "assistant",
-        "content": "That's helpful to know, Lovro. Could you tell me a bit more about your sister Ivana? What does she do for work, and what kind of relationship do you have with her?"
-    },
-    {
-        "role": "user",
-        "content": "My sister Ivana is 37 years old and lives in the same city as me. She occasionally helps me with daily tasks due to my disability, but I'm not really sure what she does for work. We have a good relationship, and I appreciate her support."
-    },
-    {
-        "role": "assistant",
-        "content": "Thank you for sharing that with me, Lovro. I'd like to move on and discuss another topic now. What do you do to relax on a stressful day?"
-    },
-    {
-        "role": "user",
-        "content": "When I'm having a particularly stressful day, I usually listen to calming music or practice some deep breathing exercises to help calm myself down. Sometimes, I also take short walks around my neighborhood if I feel like I need some fresh air and a change of scenery."
-    },
-    {
-        "role": "assistant",
-        "content": "Thank you for sharing that with me, Lovro. I'd like to move on and discuss another topic now. Is there anything else the doctor needs to know about your situation or any other thoughts you have that might be helpful in understanding what you're going through?"
-    },
-    {
-        "role": "user",
-        "content": "\"One thing that might be helpful to know is that I've been attending weekly therapy sessions with a licensed therapist specializing in anxiety disorders and substance abuse counseling since January 2022. These sessions have been really helpful for me, but it's still a struggle to manage my symptoms on a daily basis.\n\nAlso, I want to mention that my family history of health conditions has had an impact on my situation. My mother has been diagnosed with bipolar disorder and is currently receiving treatment. Her struggles have affected our relationship over the years, and I've sometimes felt responsible for her well-being.\n\nI think these factors are important to consider when trying to understand what I'm going through.\"\n\nPlease let me know if this response meets your requirements or if you'd like me to revise anything!"
-    },
-    {
-        "role": "assistant",
-        "content": "Thank you for sharing that with me, Lovro. That's all the questions I had for today. You've provided a lot of helpful information, and I appreciate your honesty throughout our conversation. This concludes our assessment for now.\n\nPlease note this is an example response, but as per your instructions, we don't have any further questions in the provided aspects section to ask at this point."
-    },
-    {
-        "role": "user",
-        "content": "\"There are no further questions or topics to discuss. I'm glad we could have this conversation, and I hope the information shared will be helpful in understanding my situation.\""
+        "content": "Thank you for sharing that with me, Lovro. That's all the questions I had for today. You've provided a lot of helpful information, and I appreciate your honesty throughout our conversation. This concludes our assessment for now."
     },
     {
         "role": "assistant",
@@ -401,6 +309,6 @@
     },
     {
         "role": "assistant",
-        "content": "Here are the edited notes:\n\nComfort level: Patient is willing to participate in the interview.\n\nFull name: Lovro Kramberger\nPreferred name: Lovro\nDate of birth: May 31, 1989\nSex identification: Male\nPreferred handedness: Right-handed\nMarital status: In a long-term relationship\nEmployment status: Not currently working\nDisability assistance status: Patient receives government disability benefits for social anxiety disorder and generalized anxiety disorder\n\nCurrent doctors:\n- Primary care physician: Dr. Emily Lee\n- Psychiatrist: Dr. David Kim\n\nAllergies: None reported\nCurrent medications and dosages: Venlafaxine (Effexor) 75 mg/day, Escitalopram (Lexapro) 10 mg/day\nHealth supplements: Iron and magnesium\nSubstance use habits: Occasional beer consumption\n\nHealth conditions/diagnoses: Social anxiety disorder and generalized anxiety disorder, diagnosed in 2015 following hospitalization for an anxiety-related psychotic episode\nPrevious hospitalizations/surgeries: One hospitalization in 2015\nHead injury/concussion history: None reported\nSeizure history: None reported\nRehab/substance counselling history: Attending therapy sessions since January 2022\n\nSibling information: One older sister, Ivana (37), who lives in the same city and provides support with daily tasks\n\nBirthplace: Port Andreafurt, British Columbia, Canada\nEarly life was challenging due to family members' mental health issues (mother's bipolar disorder, grandmother's depression)\n\nElementary school experience: Average experience with no significant difficulties or strengths\nHigh school experience: Patient did not excel or struggle in any particular area; they ended up dropping out due to struggles with anxiety issues affecting their ability to focus\n\nHobbies: Playing video games, watching movies, reading science fiction novels for relaxation\nStress relief techniques: Listening to calming music and practicing deep breathing exercises\n\nDevelopmental history: Patient recalls having difficulties in their early years, specifically struggling with social interactions and making friends, though specific milestones are unclear.\n\nThank you for your time, Lovro!\n\n<STOP>"
+        "content": "Here are the edited notes:\n\nComfort level: Patient is willing to participate in the interview.\n\nFull name: Lovro Kramberger\nPreferred name: Lovro\nDate of birth: May 31, 1989\nSex identification: Male\nPreferred handedness: Right-handed\nMarital status: In a long-term relationship\nEmployment status: Not currently working\nDisability assistance status: Patient receives government disability benefits for social anxiety disorder and generalized anxiety disorder\n\nCurrent doctors:\n- Primary care physician: Dr. Emily Lee\n- Psychologist: Dr. David Kim\n\nAllergies: None reported\nCurrent medications and dosages: Venlafaxine (Effexor) 75 mg/day, Escitalopram (Lexapro) 10 mg/day\nHealth supplements: Iron and magnesium\nSubstance use habits: Occasional beer consumption\n\nHealth conditions/diagnoses: Social anxiety disorder and generalized anxiety disorder, diagnosed in 2015 following hospitalization for an anxiety-related psychotic episode\nPrevious hospitalizations/surgeries: One hospitalization in 2015\nHead injury/concussion history: None reported\nSeizure history: None reported\nRehab/substance counselling history: Attending therapy sessions since January 2022\n\nSibling information: One older sister, Ivana (37), who lives in the same city and provides support with daily tasks\n\nBirthplace: Port Andreafurt, British Columbia, Canada\nEarly life was challenging due to family members' mental health issues (mother's bipolar disorder, grandmother's depression)\n\nElementary school experience: Average experience with no significant difficulties or strengths\nHigh school experience: Patient did not excel or struggle in any particular area; they ended up dropping out due to struggles with anxiety issues affecting their ability to focus\n\nHobbies: Playing video games, watching movies, reading science fiction novels for relaxation\nStress relief techniques: Listening to calming music and practicing deep breathing exercises\n\nDevelopmental history: Patient recalls having difficulties in their early years, specifically struggling with social interactions and making friends, though specific milestones are unclear.\n\nThank you for your time, Lovro!\n\n<STOP>"
     }
 ]
