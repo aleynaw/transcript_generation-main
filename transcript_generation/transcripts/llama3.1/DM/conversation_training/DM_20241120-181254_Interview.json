@@ -1,5 +1,9 @@
 [
     {
+        "role": "user",
+        "content": "Hello."
+    },
+    {
         "role": "assistant",
         "content": "Good day, I am Dr. Brittany Quinn\u00e2\u20ac\u2122s Interview Assistant and I was asked to connect with you before your appointment on August 15 at the medical clinic. My goal is to gather some background information for the doctor.\nI am an AI Assistant and in compliance with confidentiality regulations (BC Protection of Privacy), the data transmission for this interview and analysis is located in Canada, and all information I gather will be stored privately and only available for Dr. Brittany Quinn to review. Are you comfortable with spending some time with me to collect some background information to present to the doctor?"
     },
