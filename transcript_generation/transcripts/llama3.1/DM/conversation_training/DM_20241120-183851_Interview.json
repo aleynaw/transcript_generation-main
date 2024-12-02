@@ -9,7 +9,7 @@
     },
     {
         "role": "user",
-        "content": "\"Yes, I'm comfortable with it. Let's get on with it. I'm a bit short on time, but I'm happy to cooperate.\""
+        "content": "Yes, I'm comfortable with it. Let's get on with it. I'm a bit short on time, but I'm happy to cooperate."
     },
     {
         "role": "assistant",
@@ -25,7 +25,7 @@
     },
     {
         "role": "user",
-        "content": "\"I don't really have a preferred name, but people usually call me Sagar. That's what I'm used to.\""
+        "content": "I don't really have a preferred name, but people usually call me Sagar. That's what I'm used to."
     },
     {
         "role": "assistant",
@@ -33,7 +33,7 @@
     },
     {
         "role": "user",
-        "content": "\"I was born on December 4, 1988.\""
+        "content": "I was born on December 4, 1988."
     },
     {
         "role": "assistant",
