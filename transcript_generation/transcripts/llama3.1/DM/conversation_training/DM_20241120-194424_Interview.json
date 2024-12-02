@@ -9,7 +9,7 @@
     },
     {
         "role": "user",
-        "content": "\"Yes, I am comfortable spending time with you to collect background information for Dr. Jennifer Dixon. I'm willing to cooperate and provide any necessary details to help with my assessment.\""
+        "content": "Yes, I am comfortable spending time with you to collect background information for Dr. Jennifer Dixon. I'm willing to cooperate and provide any necessary details to help with my assessment."
     },
     {
         "role": "assistant",
@@ -21,35 +21,35 @@
     },
     {
         "role": "assistant",
-        "content": "Thank you for sharing your full name, Stig. What would you prefer to be called during our conversation?"
+        "content": "What would you prefer to be called during our conversation?"
     },
     {
         "role": "user",
-        "content": "\"I'm fine with being called Stig, it's what most people call me anyway.\""
+        "content": "I'm fine with being called Stig, it's what most people call me anyway."
     },
     {
         "role": "assistant",
-        "content": "Thank you for sharing that with me, Stig. Now, could you please tell me your date of birth?"
+        "content": "Now, could you please tell me your date of birth?"
     },
     {
         "role": "user",
-        "content": "\"December 28, 1978.\""
+        "content": "December 28, 1978."
     },
     {
         "role": "assistant",
-        "content": "Thank you for sharing your date of birth with me, Stig. Could you please tell me what sex you identify as?"
+        "content": "Could you please tell me what sex you identify as?"
     },
     {
         "role": "user",
-        "content": "\"I identify as male.\""
+        "content": "I identify as male."
     },
     {
         "role": "assistant",
-        "content": "Thank you for sharing that, Stig. Now, could you tell me about your handedness? Are you left-handed, right-handed, or do you use both hands equally?"
+        "content": "Are you left-handed, right-handed, or do you use both hands equally?"
     },
     {
         "role": "user",
-        "content": "\"I'm left-handed.\""
+        "content": "I'm left-handed."
     },
     {
         "role": "assistant",
@@ -57,19 +57,19 @@
     },
     {
         "role": "user",
-        "content": "\"I currently reside in Jasonport, British Columbia, Canada.\""
+        "content": "I currently reside in Jasonport, British Columbia, Canada."
     },
     {
         "role": "assistant",
-        "content": "Thank you for sharing that with me, Stig. Now, regarding your marital status, could you tell me if you're single, in a relationship, married, or common law?"
+        "content": "Now, regarding your marital status, could you tell me if you're single, in a relationship, married, or common law?"
     },
     {
         "role": "user",
-        "content": "\"I'm currently in a long-term relationship with my partner Emma.\""
+        "content": "I'm currently in a long-term relationship with my partner Emma."
     },
     {
         "role": "assistant",
-        "content": "Thank you for sharing that, Stig. Do you have any children or dependents?"
+        "content": "Do you have any children or dependents?"
     },
     {
         "role": "user",
@@ -81,15 +81,15 @@
     },
     {
         "role": "user",
-        "content": "\"I'm not currently employed. I've been struggling with my mental health issues and haven't had a steady job for some time now. I've been focusing on getting treatment and support for my conditions, which has made it challenging to hold down a job. I used to work as a freelance writer and had various part-time jobs in the past.\""
+        "content": "I'm not currently employed. I've been struggling with my mental health issues and haven't had a steady job for some time now. I've been focusing on getting treatment and support for my conditions, which has made it challenging to hold down a job. I used to work as a freelance writer and had various part-time jobs in the past."
     },
     {
         "role": "assistant",
-        "content": "Thank you for sharing that with me, Stig. Now, have you received or applied for any disability assistance due to your mental health conditions?"
+        "content": "Have you received or applied for any disability assistance due to your mental health conditions?"
     },
     {
         "role": "user",
-        "content": "\"No, I haven't received or applied for any disability assistance due to my mental health conditions.\""
+        "content": "No, I haven't received or applied for any disability assistance."
     },
     {
         "role": "assistant",
@@ -101,15 +101,15 @@
     },
     {
         "role": "assistant",
-        "content": "Thank you for letting me know, Stig. Now, do you have any allergies I should be aware of?"
+        "content": "Do you have any allergies I should be aware of?"
     },
     {
         "role": "user",
-        "content": "\"I'm not aware of any specific allergies that I have. However, I've had some reactions to certain medications in the past, but I don't recall if they were related to allergies or side effects.\""
+        "content": "I'm not aware of any specific allergies that I have. However, I've had some reactions to certain medications in the past, but I don't recall if they were related to allergies or side effects"
     },
     {
         "role": "assistant",
-        "content": "That's helpful to know, Stig. Thank you for sharing that information with me. Now, could you tell me about any medications or supplements you're currently taking? This includes prescription drugs, over-the-counter medications, and any vitamins or minerals you use regularly."
+        "content": "That's helpful to know, Stig. Could you tell me about any medications or supplements you're currently taking? This includes prescription drugs, over-the-counter medications, and any vitamins or minerals you use regularly."
     },
     {
         "role": "user",
@@ -117,19 +117,19 @@
     },
     {
         "role": "assistant",
-        "content": "Thank you for sharing that detailed information about your medications, Stig. That's very helpful. Now, could you tell me a bit about any health supplements you're taking regularly? For example, do you take vitamins or minerals daily?"
+        "content": "Thank you for sharing that detailed information about your medications, Stig. That's very helpful. Could you tell me a bit about any health supplements you're taking regularly? For example, do you take vitamins or minerals daily?"
     },
     {
         "role": "user",
-        "content": "\"No, I'm not currently taking any health supplements, such as vitamins or minerals.\""
+        "content": "No, I'm not currently taking any health supplements."
     },
     {
         "role": "assistant",
-        "content": "Thank you for letting me know that. Now, I'd like to ask about your habits regarding nicotine, marijuana, and alcohol use. Could you tell me how frequently you use these substances?"
+        "content": "Now, I'd like to ask about your habits regarding nicotine, marijuana, and alcohol use. Could you tell me how frequently you use these substances?"
     },
     {
         "role": "user",
-        "content": "\"I currently use nicotine through cigarettes. As for marijuana and alcohol, I've used them in the past, but I'm trying to stay away from them as part of my recovery. It's not easy for me to talk about this, but I'm trying to stay honest about my struggles with substance abuse.\""
+        "content": "I currently use nicotine through cigarettes. As for marijuana and alcohol, I've used them in the past, but I'm trying to stay away from them as part of my recovery. It's not easy for me to talk about this, but I'm trying to stay honest about my struggles with substance abuse."
     },
     {
         "role": "assistant",
@@ -137,15 +137,15 @@
     },
     {
         "role": "user",
-        "content": "\"I've had my share of struggles with mental health conditions. I've been diagnosed with bipolar I disorder, narcissistic personality disorder, and schizophrenia. Additionally, I've experienced seizures in the past and have a history of head injuries and concussions. I've also been hospitalized twice for psychotic episodes and underwent surgery for a broken collarbone at age 20. It's not easy for me to talk about these experiences, but I'm trying to be honest about my struggles with mental health.\""
+        "content": "I've had my share of struggles with mental health conditions. I've been diagnosed with bipolar I disorder, narcissistic personality disorder, and schizophrenia. Additionally, I've experienced seizures in the past and have a history of head injuries and concussions. I've also been hospitalized twice for psychotic episodes and underwent surgery for a broken collarbone at age 20. It's not easy for me to talk about these experiences, but I'm trying to be honest about my struggles with mental health."
     },
     {
         "role": "assistant",
-        "content": "Thank you for being so open with me about your health conditions, Stig. That helps a lot. Could you tell me more about when these diagnoses were made and how they've impacted your daily life? For example, are there any specific challenges you face due to these conditions?"
+        "content": "Thank you for being so open with me about your health conditions, Stig. Could you tell me more about when these diagnoses were made and how they've impacted your daily life? For example, are there any specific challenges you face due to these conditions?"
     },
     {
         "role": "user",
-        "content": "\"I've been living with these conditions for a while now. My bipolar disorder was diagnosed when I was in my mid-20s, and it's had a significant impact on my daily life. The manic episodes have made it challenging to maintain relationships and hold down jobs. My narcissistic personality disorder has also led to some difficulties in forming healthy connections with others. As for schizophrenia, the symptoms started appearing around 5 years ago, and it's been a challenge to manage the hallucinations and delusions. It's hard for me to pinpoint exactly when each diagnosis was made, but I know they've all had a significant impact on my life. The hospitalizations were particularly tough, as they forced me to confront the severity of my conditions.\""
+        "content": "I've been living with these conditions for a while now. My bipolar disorder was diagnosed when I was in my mid-20s, and it's had a significant impact on my daily life. The manic episodes have made it challenging to maintain relationships and hold down jobs. My narcissistic personality disorder has also led to some difficulties in forming healthy connections with others. As for schizophrenia, the symptoms started appearing around 5 years ago, and it's been a challenge to manage the hallucinations and delusions. It's hard for me to pinpoint exactly when each diagnosis was made, but I know they've all had a significant impact on my life. The hospitalizations were particularly tough, as they forced me to confront the severity of my conditions."
     },
     {
         "role": "assistant",
@@ -153,23 +153,23 @@
     },
     {
         "role": "user",
-        "content": "\"I suffered a concussion in a car accident when I was 28 years old. It was a pretty severe injury, and I experienced persistent headaches and dizziness for several months after the incident. It was a tough time for me, but I'm trying to be honest about my experiences.\""
+        "content": "I suffered a concussion in a car accident when I was 28 years old. It was a pretty severe injury, and I experienced persistent headaches and dizziness for several months after the incident. It was a tough time for me."
     },
     {
         "role": "assistant",
-        "content": "Thank you for being so open with me about your head injury and concussion experience. I'd like to move on to discuss another topic now. Can you tell me if you've ever experienced any seizures?"
+        "content": "Thank you for being so open with me about your head injury and concussion experience. Can you tell me if you've ever experienced any seizures?"
     },
     {
         "role": "user",
-        "content": "\"Yes, I have experienced seizures in the past. It's something that I've struggled with, and it's been a challenge to manage.\""
+        "content": "Yes, I have experienced seizures in the past. It's something that I've struggled with, and it's been a challenge to manage."
     },
     {
         "role": "assistant",
-        "content": "Thank you for sharing that with me. Could you tell me more about when your seizures started? Was there a specific incident or period in your life when they began?"
+        "content": "Could you tell me more about when your seizures started? Was there a specific incident or period in your life when they began?"
     },
     {
         "role": "user",
-        "content": "\"I'm not sure when exactly my seizures started. I've had them for as long as I can remember, but I don't have any specific recollection of when they began or if there was a particular incident that triggered them. My medical history does indicate that I've experienced seizures, but unfortunately, I don't have more detailed information about their onset.\""
+        "content": "I'm not sure when exactly my seizures started. I've had them for as long as I can remember, but I don't have any specific recollection of when they began or if there was a particular incident that triggered them. My medical history does indicate that I've experienced seizures, but unfortunately, I don't have more detailed information about their onset."
     },
     {
         "role": "assistant",
@@ -177,7 +177,7 @@
     },
     {
         "role": "user",
-        "content": "\"Yes, I have attended rehab and received substance counseling. In fact, I'm currently attending weekly sessions at the local addiction center. It's been helpful in maintaining my sobriety, which I've managed to do for the past 6 months.\""
+        "content": "Yes, I have attended rehab and received substance counseling. In fact, I'm currently attending weekly sessions at the local addiction center. It's been helpful in maintaining my sobriety, which I've managed to do for the past 6 months."
     },
     {
         "role": "assistant",
@@ -185,7 +185,7 @@
     },
     {
         "role": "user",
-        "content": "\"Yes, I have consulted with other medical professionals besides Dr. Evan Phillips. Currently, I see Dr. Rachel Kim, who is a psychiatrist, and Dr. Eric Taylor, who is my primary care physician.\""
+        "content": "Yes, I have consulted with other medical professionals besides Dr. Evan Phillips. Currently, I see Dr. Rachel Kim, who is a psychiatrist, and Dr. Eric Taylor, who is my primary care physician."
     },
     {
         "role": "assistant",
@@ -193,23 +193,23 @@
     },
     {
         "role": "user",
-        "content": "\"I see Dr. Rachel Kim and Dr. Eric Taylor for help with managing my mental health conditions. Specifically, Dr. Kim helps me with my bipolar disorder, schizophrenia, and narcissistic personality disorder, while Dr. Taylor provides general medical care and monitoring of my medications, such as Valproate, Lithium, and Clozapine.\""
+        "content": "I see Dr. Rachel Kim and Dr. Eric Taylor for help with managing my mental health conditions. Specifically, Dr. Kim helps me with my bipolar disorder, schizophrenia, and narcissistic personality disorder, while Dr. Taylor provides general medical care and monitoring of my medications, such as Valproate, Lithium, and Clozapine."
     },
     {
         "role": "assistant",
-        "content": "Thank you for being open about your mental health conditions and treatments. I'd like to move on to discussing family history. Have there been any instances of psychiatric conditions in other family members?"
+        "content": "I'd like to move on to discussing family history. Have there been any instances of psychiatric conditions in other family members?"
     },
     {
         "role": "user",
-        "content": "\"No, there haven't been any instances of psychiatric conditions in other family members.\""
+        "content": "No, there haven't been any instances of psychiatric conditions in other family members."
     },
     {
         "role": "assistant",
-        "content": "Thank you for sharing that with me. Now, I'd like to ask if there's a history of any neurological or genetic conditions in your family?"
+        "content": "Is there a history of any neurological or genetic conditions in your family?"
     },
     {
         "role": "user",
-        "content": "\"I'm not aware of any neurological or genetic conditions in my family... at least, none that I know of.\""
+        "content": "I'm not aware of any neurological or genetic conditions in my family... at least, none that I know of."
     },
     {
         "role": "assistant",
@@ -217,7 +217,7 @@
     },
     {
         "role": "user",
-        "content": "\"I guess what I meant by 'at least, none that I know of' is that my family hasn't really talked about these kinds of things openly. We don't really have a history of sharing medical issues or discussing genetic conditions. It's a bit uncomfortable to think about, but yeah... it's possible that there might be something that nobody has mentioned.\""
+        "content": "I guess what I meant by 'at least, none that I know of' is that my family hasn't really talked about these kinds of things openly. We don't really have a history of sharing medical issues or discussing genetic conditions. It's a bit uncomfortable to think about, but yeah... it's possible that there might be something that nobody has mentioned."
     },
     {
         "role": "assistant",
@@ -225,11 +225,11 @@
     },
     {
         "role": "user",
-        "content": "\"No, I don't have any brothers or sisters.\""
+        "content": "No, I don't have any brothers or sisters."
     },
     {
         "role": "assistant",
-        "content": "Thank you for sharing that with me. Now, could you tell me a bit about your early life? Where were you born?\n\n(Note: This question is from the <aspects> section, under # Personal History ## # Early Life and Citizenship)"
+        "content": "Thank you for sharing that with me. Now, could you tell me a bit about your early life? Where were you born?"
     },
     {
         "role": "user",
@@ -237,27 +237,19 @@
     },
     {
         "role": "assistant",
-        "content": "Thank you for sharing that with me. Now, I'd like to ask if you were born outside of Canada, but since that's not the case here, let's move on. Are you a Canadian citizen?"
+        "content": "Thank you for sharing that with me. Are you a Canadian citizen?"
     },
     {
         "role": "user",
-        "content": "\"No, I am not a Canadian citizen.\""
+        "content": "Yes, I am a Canadian citizen."
     },
     {
         "role": "assistant",
-        "content": "Thank you for sharing that with me. Since you mentioned you were born in Canada but said you're not a Canadian citizen, could you tell me more about your citizenship status? If outside of Canada, what year did you arrive?"
+        "content": "Thank you for sharing that with me. I'd like to move on and ask about your birth experience. Were there any complications during your birth?"
     },
     {
         "role": "user",
-        "content": "\"I'm not really sure why I'm not considered a Canadian citizen despite being born in Canada. To be honest, it's something that's always been a bit confusing for me. I don't have any information about when or how my citizenship status changed.\""
-    },
-    {
-        "role": "assistant",
-        "content": "Thank you for sharing that with me; it can be confusing when our understanding doesn't match official documents or expectations. I'd like to move on and ask about your birth experience. Were there any complications during your birth?\n\n(Note: This question is from the <aspects> section, under # Personal History ## # Early Life and Citizenship)"
-    },
-    {
-        "role": "user",
-        "content": "\"I don't have any information about complications during my birth, but I did experience some developmental difficulties growing up.\""
+        "content": "I don't have any information about complications during my birth, but I did experience some developmental difficulties growing up."
     },
     {
         "role": "assistant",
@@ -265,7 +257,7 @@
     },
     {
         "role": "user",
-        "content": "\"I did experience some developmental difficulties growing up, but I don't think it affected my ability to walk or talk at a young age. However, I'm not sure if I developed friendships like other kids. To be honest, I have some vague memories of struggling to connect with others when I was younger.\""
+        "content": "I did experience some developmental difficulties growing up, but I don't think it affected my ability to walk or talk at a young age. However, I'm not sure if I developed friendships like other kids. To be honest, I have some vague memories of struggling to connect with others when I was younger."
     },
     {
         "role": "assistant",
@@ -273,31 +265,31 @@
     },
     {
         "role": "user",
-        "content": "\"No, I don't recall experiencing any major difficulties in elementary school. In fact, I performed quite well academically, which was a source of pride for me at the time.\""
+        "content": "No, I don't recall experiencing any major difficulties in elementary school. In fact, I performed quite well academically, which was a source of pride for me at the time."
     },
     {
         "role": "assistant",
-        "content": "Thank you for sharing that. Moving on, what was your average mark in high school? Was there a particular subject or class that you found especially interesting or enjoyed more than others?"
+        "content": "What was your average mark in high school? Was there a particular subject or class that you found especially interesting or enjoyed more than others?"
     },
     {
         "role": "user",
-        "content": "\"I would say my average mark in high school was around average. As for enjoying particular subjects, I didn't really have one that stood out to me at the time.\""
+        "content": "I would say my average mark in high school was around average. As for enjoying particular subjects, I didn't really have one that stood out to me at the time."
     },
     {
         "role": "assistant",
-        "content": "Thank you for sharing that with me. Did you pursue any further education after high school? If so, where and what type of studies did you undertake?"
+        "content": "Did you pursue any further education after high school? If so, where and what type of studies did you undertake?"
     },
     {
         "role": "user",
-        "content": "\"I didn't pursue any further education after high school. Instead, I started working as a freelance writer and took on various part-time jobs to support myself.\""
+        "content": "I didn't pursue any further education after high school. Instead, I started working as a freelance writer and took on various part-time jobs to support myself."
     },
     {
         "role": "assistant",
-        "content": "Thank you for sharing that with me. Now, I'd like to talk about your work history. Can you tell me a bit about your previous work experience?"
+        "content": "Can you tell me a bit about your previous work experience?"
     },
     {
         "role": "user",
-        "content": "\"I worked as a freelance writer for about 5 years, which was a fulfilling experience for me. However, after that, I had to take on various part-time jobs to make ends meet while I struggled with some personal issues.\""
+        "content": "I worked as a freelance writer for about 5 years, which was a fulfilling experience for me. However, after that, I had to take on various part-time jobs to make ends meet while I struggled with some personal issues."
     },
     {
         "role": "assistant",
@@ -309,11 +301,11 @@
     },
     {
         "role": "assistant",
-        "content": "Thank you for sharing that with me. Could you tell me a bit about your hobbies? What do you enjoy doing in your free time?\n\nPlease respond accordingly."
+        "content": "Could you tell me a bit about your hobbies? What do you enjoy doing in your free time?"
     },
     {
         "role": "user",
-        "content": "\"I enjoy engaging in various activities during my free time. I find solace in reading, as it allows me to escape into different worlds and perspectives. I also appreciate the creative outlet that writing poetry provides, as it enables me to express myself in a unique way. Additionally, playing guitar is another hobby of mine that brings me joy and helps me unwind. Occasionally, I'll practice meditation or yoga to center myself, and listening to classical music often helps me relax.\""
+        "content": "I enjoy engaging in various activities during my free time. I find solace in reading, as it allows me to escape into different worlds and perspectives. I also appreciate the creative outlet that writing poetry provides, as it enables me to express myself in a unique way. Additionally, playing guitar is another hobby of mine that brings me joy and helps me unwind. Occasionally, I'll practice meditation or yoga to center myself, and listening to classical music often helps me relax."
     },
     {
         "role": "assistant",
@@ -321,27 +313,19 @@
     },
     {
         "role": "user",
-        "content": "\"I try to handle stress or overwhelming situations by reaching out to my support system, including my partner Emma and my therapist. I also engage in relaxation techniques such as meditation, yoga, and listening to classical music. However, in the past, I have struggled with impulsive behaviors and substance abuse when dealing with stress, which has led to negative consequences. I've been working on addressing these issues in therapy and have made progress in managing my stress and impulses more healthily.\""
+        "content": "I try to handle stress or overwhelming situations by reaching out to my support system, including my partner Emma and my therapist. I also engage in relaxation techniques such as meditation, yoga, and listening to classical music. However, in the past, I have struggled with impulsive behaviors and substance abuse when dealing with stress, which has led to negative consequences. I've been working on addressing these issues in therapy and have made progress in managing my stress and impulses more healthily."
     },
     {
         "role": "assistant",
-        "content": "Thank you for sharing that with me. Now, let's talk about your siblings if any. Do you have any brothers or sisters?"
+        "content": "Thank you for sharing that with me. Is there anything else you think is important for me to know about your personal history or current situation that might help inform our assessment and support. Is there anything specific you'd like to share or any concerns you have?"
     },
     {
         "role": "user",
-        "content": "\"No, I don't have any brothers or sisters.\""
+        "content": "Actually, yes. One concern I have is how my mental health struggles might impact my relationship with my partner Emma and my children. I've been working hard to manage my symptoms and impulses more healthily, but it's always in the back of my mind that I don't want my issues to affect them negatively. I guess what I'm trying to say is that I worry about being a good partner and parent, given my history with mental health issues and substance abuse. It's something that weighs on me, but I'm committed to doing the work necessary to be healthy for myself and those I care about."
     },
     {
         "role": "assistant",
-        "content": "Thank you for sharing that with me. Now, I'd like to discuss anything else you think is important for me to know about your personal history or current situation that might help inform our assessment and support. Is there anything specific you'd like to share or any concerns you have?"
-    },
-    {
-        "role": "user",
-        "content": "\"Actually, yes. One concern I have is how my mental health struggles might impact my relationship with my partner Emma and my children. I've been working hard to manage my symptoms and impulses more healthily, but it's always in the back of my mind that I don't want my issues to affect them negatively. I guess what I'm trying to say is that I worry about being a good partner and parent, given my history with mental health issues and substance abuse. It's something that weighs on me, but I'm committed to doing the work necessary to be healthy for myself and those I care about.\""
-    },
-    {
-        "role": "assistant",
-        "content": "<STOP>\n\n(This indicates that all questions have been asked and the interview is complete.)"
+        "content": "<STOP>"
     },
     {
         "role": "assistant",
