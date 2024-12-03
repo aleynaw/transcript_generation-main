@@ -37,7 +37,7 @@
     },
     {
         "role": "assistant",
-        "content": "Thank you for sharing your date of birth with me, Natasha. Now, could you please tell me about your sex and handedness? Are you male or female, and do you consider yourself left-handed, right-handed, or ambidextrous?"
+        "content": "Could you please tell me about your sex and handedness? Are you male or female, and do you consider yourself left-handed, right-handed, or ambidextrous?"
     },
     {
         "role": "user",
@@ -45,7 +45,7 @@
     },
     {
         "role": "assistant",
-        "content": "Thank you for sharing that with me, Natasha. I'd like to move on to discuss your personal relationships and other aspects of your life. Are you ready to proceed?"
+        "content": "I'd like to move on to discuss your personal relationships and other aspects of your life. Are you ready to proceed?"
     },
     {
         "role": "user",
@@ -53,7 +53,7 @@
     },
     {
         "role": "assistant",
-        "content": "Thank you for sharing that information, Natasha. Now, I'd like to ask about your current residence and marital status. Could you please tell me what city or town you currently reside in?"
+        "content": "Could you please tell me what city or town you currently reside in?"
     },
     {
         "role": "user",
@@ -61,7 +61,7 @@
     },
     {
         "role": "assistant",
-        "content": "Thank you for letting me know that, Natasha. Now, could you please tell me a bit about your marital status? Are you single, in a relationship, married, or in a common-law partnership?"
+        "content": "Could you please tell me a bit about your marital status? Are you single, in a relationship, married, or in a common-law partnership?"
     },
     {
         "role": "user",
@@ -69,7 +69,7 @@
     },
     {
         "role": "assistant",
-        "content": "Thank you for sharing that with me, Natasha. Now, I'd like to ask if you have any children or dependents?"
+        "content": "Thank you for sharing that with me, Natasha. Do you have any children or dependents?"
     },
     {
         "role": "user",
@@ -77,7 +77,7 @@
     },
     {
         "role": "assistant",
-        "content": "Thank you for sharing that with me, Natasha. I'd like to move on to discuss your current work situation. Could you please tell me if you are currently working?"
+        "content": "Thank you for sharing that with me, Natasha, I understand that can be tough. I'd like to move on to discuss your current work situation. Could you please tell me if you are currently working?"
     },
     {
         "role": "user",
@@ -117,7 +117,7 @@
     },
     {
         "role": "assistant",
-        "content": "Thank you for clarifying that, Natasha. Now, I'd like to move on and ask about your current disability assistance status. Are you receiving any disability assistance?"
+        "content": "Thank you for clarifying that, Natasha. I'd like to move on and ask about your current disability assistance status. Are you receiving any disability assistance?"
     },
     {
         "role": "user",
@@ -125,7 +125,7 @@
     },
     {
         "role": "assistant",
-        "content": "Thank you for sharing that information with me, Natasha. Now, I'd like to ask about your medical history. Could you please tell me who your current doctors are?"
+        "content": "Could you please tell me who your current doctors are?"
     },
     {
         "role": "user",
@@ -133,7 +133,7 @@
     },
     {
         "role": "assistant",
-        "content": "Thank you for sharing that with me, Natasha. Now, I'd like to ask about any allergies you may have. Do you have any known allergies?"
+        "content": "Do you have any known allergies?"
     },
     {
         "role": "user",
@@ -149,7 +149,7 @@
     },
     {
         "role": "assistant",
-        "content": "Thank you for sharing that with me, Natasha. Now, I'd like to ask about any health supplements you're currently taking. Could you tell me a bit more about them?"
+        "content": "I'd like to ask about any health supplements you're currently taking. Could you tell me a bit more about them?"
     },
     {
         "role": "user",
@@ -157,15 +157,15 @@
     },
     {
         "role": "assistant",
-        "content": "Thank you for sharing that with me. Now, I'd like to ask about your use of nicotine, marijuana, or alcohol. Could you tell me a bit about how frequently you use these substances?"
+        "content": "What about your use of nicotine, marijuana, or alcohol. Could you tell me a bit about how frequently you use these substances?"
     },
     {
         "role": "user",
-        "content": "\"I don't have any information to share about my use of nicotine, marijuana, or alcohol.\""
+        "content": "\"I don't use nicotine, marijuana, or alcohol.\""
     },
     {
         "role": "assistant",
-        "content": "Thank you for letting me know. Now, could you please tell me if you have any current or past health conditions or diagnoses?"
+        "content": "Thank you for letting me know. Could you please tell me if you have any current or past health conditions or diagnoses?"
     },
     {
         "role": "user",
@@ -181,7 +181,7 @@
     },
     {
         "role": "assistant",
-        "content": "Thank you for letting me know that. Now, I'd like to ask about your medical history. Have you ever had a head injury or concussion?"
+        "content": "Have you ever had a head injury or concussion?"
     },
     {
         "role": "user",
@@ -189,7 +189,7 @@
     },
     {
         "role": "assistant",
-        "content": "That's helpful to know, thank you. Now, let's talk about seizures since you mentioned experiencing them in the past. Could you tell me more about when your seizure condition started?"
+        "content": "Okay, let's talk about seizures since you mentioned experiencing them in the past. Could you tell me more about when your seizure condition started?"
     },
     {
         "role": "user",
@@ -201,7 +201,7 @@
     },
     {
         "role": "user",
-        "content": "\"I don't really know of any specific instances, but I think my mom had some health problems when I was growing up. Nothing was ever explicitly discussed, though. It's all a bit fuzzy, to be honest. We didn't really talk about that sort of thing in our household.\""
+        "content": "\"I don't really know of any specific instances, but I think my mom had some health problems when I was growing up. Nothing was ever explicitly discussed, though. We didn't really talk about that sort of thing in our household.\""
     },
     {
         "role": "assistant",
@@ -229,7 +229,7 @@
     },
     {
         "role": "assistant",
-        "content": "Thank you for sharing that with me. Moving on to your early life, were there any complications during your birth?"
+        "content": "Moving on to your early life, were there any complications during your birth?"
     },
     {
         "role": "user",
@@ -245,7 +245,7 @@
     },
     {
         "role": "assistant",
-        "content": "Thank you for being open about that. I'd like to discuss another topic. You mentioned earlier having some difficulties in elementary school. Could you elaborate on what specifically was challenging for you during that time?"
+        "content": "Thank you for being open about that. I'd like to discuss another topic. You mentioned having some difficulties in elementary school. Could you elaborate on what specifically was challenging for you during that time?"
     },
     {
         "role": "user",
@@ -257,11 +257,11 @@
     },
     {
         "role": "user",
-        "content": "\"I did fairly well in high school, and I think my average mark was around... um... let me see... *pauses* Oh dear, it's been so long ago! I'm not really sure about the exact grade, but I do remember that I enjoyed my time there. As for favorite topics or classes, I have to say that I loved reading and writing. It came easily to me, and I always felt a sense of accomplishment when I wrote a good essay.\""
+        "content": "\"I did fairly well in high school, and I think my average mark was around... um... let me see... Oh dear, it's been so long ago! I'm not really sure about the exact grade, but I do remember that I enjoyed my time there. As for favorite topics or classes, I have to say that I loved reading and writing. It came easily to me, and I always felt a sense of accomplishment when I wrote a good essay.\""
     },
     {
         "role": "assistant",
-        "content": "Thank you for sharing what you can recall about your high school experience. That's helpful to know, especially your interest in reading and writing. Did you pursue any further education after completing high school?"
+        "content": "That's helpful to know, especially your interest in reading and writing. Did you pursue any further education after completing high school?"
     },
     {
         "role": "user",
@@ -269,7 +269,7 @@
     },
     {
         "role": "assistant",
-        "content": "Thank you for sharing that information about your education in pediatric nursing. Could you elaborate a bit on which specific institutions you attended for your pediatric nursing education? Afterward, I'd like to explore another topic with you: What's been your previous work history before becoming an instructor at British Columbia Institute of Technology?"
+        "content": "Could you elaborate a bit on which specific institutions you attended for your pediatric nursing education? Afterward, I'd like to explore another topic with you: What's been your previous work history before becoming an instructor at British Columbia Institute of Technology?"
     },
     {
         "role": "user",
@@ -277,7 +277,7 @@
     },
     {
         "role": "assistant",
-        "content": "Thank you for sharing that about your work history. Now, could you tell me a bit about any previous marriages or long-term relationships?"
+        "content": "Could you tell me a bit about any previous marriages or long-term relationships?"
     },
     {
         "role": "user",
@@ -293,7 +293,7 @@
     },
     {
         "role": "assistant",
-        "content": "Thank you for sharing that with me. It's great to hear about your hobbies and relaxation techniques. Now, could you tell me a bit more about what you do on a stressful day to relax? Are there any specific activities or rituals that help calm you down?"
+        "content": "It's great to hear about your hobbies and relaxation techniques. Now, could you tell me a bit more about what you do on a stressful day to relax? Are there any specific activities or rituals that help calm you down?"
     },
     {
         "role": "user",
@@ -309,15 +309,7 @@
     },
     {
         "role": "assistant",
-        "content": "Thank you for taking the time to share this valuable information with me today. This concludes our interview, and I appreciate your cooperation throughout the process."
-    },
-    {
-        "role": "user",
-        "content": "\"I enjoy gardening and find it helps me feel calm and accomplished. I also like to read and play the piano in my free time. Additionally, I practice meditation, yoga, and listen to classical music to relax and unwind.\"\n\nPlease let me know when you're ready to proceed with a new question or scenario!"
-    },
-    {
-        "role": "assistant",
-        "content": "<STOP>"
+        "content": "Thank you for taking the time to share this valuable information with me today. This concludes our interview, and I appreciate your cooperation throughout the process. <STOP>"
     },
     {
         "role": "assistant",
