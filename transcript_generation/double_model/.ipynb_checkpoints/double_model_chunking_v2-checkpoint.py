@@ -293,7 +293,7 @@ def chat_between_models(message_list, asst_prompt, patient_prompt, starter):
         filtered_curr_chunk = [q for q in curr_chunk if not q.startswith('+')]
         curr_chunk_length = len(filtered_curr_chunk)
         
-        print("if turns == ", curr_chunk_length, " + ", total_chunk_lengths)
+        # print("if turns == ", curr_chunk_length, " + ", total_chunk_lengths)
         if turns == curr_chunk_length + total_chunk_lengths and questions_queue:
             
             # print("Next chunk: ", questions_queue[0])
@@ -311,7 +311,7 @@ def chat_between_models(message_list, asst_prompt, patient_prompt, starter):
                     
                 print("Saving and dumping previous messages..............................................")
                 i=0
-                print(message_list)
+                # print(message_list)
                 while i < prev_chunk_length*2:
                     # print("Saving ", message_list[0])
                     transcript.append(message_list[0])
@@ -358,14 +358,14 @@ def chat_between_models(message_list, asst_prompt, patient_prompt, starter):
     while not stop_condition:
 
         summarize = 1
-        print("SUMMARIZE NOW ACTIVE")
+        # print("SUMMARIZE NOW ACTIVE")
         print("Notes: ", notes)
         asst_response, notes = invoke_asst_model(message_list, asst_prompt_with_questions, notes, summarize)
         message_list = update_msg_list(message_list, is_assistant=True, content=asst_response)
         
         
         while message_list:
-                    print("Saving ", message_list[0])
+                    # print("Saving ", message_list[0])
                     transcript.append(message_list[0])
                     message_list.pop(0)
                     # print("Message_list length: ", len(message_list))

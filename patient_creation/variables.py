@@ -275,41 +275,128 @@ EDGE_CASE_SCENARIOS = [
     
 ]
 
-NAME_REGIONS = [
-    "bg_BG",  # Bulgarian (Bulgaria)
-    "cs_CZ",  # Czech (Czech Republic)
-    "de_DE",  # German (Germany)
-    "dk_DK",  # Danish (Denmark)
-    "el_GR",  # Greek (Greece)
-    "en_AU",  # English (Australia)
-    "en_CA",  # English (Canada)
-    "en_GB",  # English (Great Britain)
-    "en_US",  # English (United States)
-    "es_ES",  # Spanish (Spain)
-    "es_MX",  # Spanish (Mexico)
-    "fa_IR",  # Persian (Iran)
-    "fi_FI",  # Finnish (Finland)
-    "fr_FR",  # French (France)
-    "hi_IN",  # Hindi (India)
-    "hr_HR",  # Croatian (Croatia)
-    "it_IT",  # Italian (Italy)
-    "ja_JP",  # Japanese (Japan)
-    "ko_KR",  # Korean (South Korea)
-    "lt_LT",  # Lithuanian (Lithuania)
-    "lv_LV",  # Latvian (Latvia)
-    "ne_NP",  # Nepali (Nepal)
-    "nl_NL",  # Dutch (Netherlands)
-    "no_NO",  # Norwegian (Norway)
-    "pl_PL",  # Polish (Poland)
-    "pt_BR",  # Portuguese (Brazil)
-    "pt_PT",  # Portuguese (Portugal)
-    "ru_RU",  # Russian (Russia)
-    "sl_SI",  # Slovene (Slovenia)
-    "sv_SE",  # Swedish (Sweden)
-    "tr_TR",  # Turkish (Turkey)
-    "uk_UA",  # Ukrainian (Ukraine)
-    "zh_CN",  # Chinese (China)
-    "zh_TW"   # Chinese (Taiwan)
+# NAME_REGIONS = [
+#     "bg_BG",  # Bulgarian (Bulgaria)
+#     "cs_CZ",  # Czech (Czech Republic)
+#     "de_DE",  # German (Germany)
+#     "dk_DK",  # Danish (Denmark)
+#     "el_GR",  # Greek (Greece)
+#     "en_AU",  # English (Australia)
+#     "en_CA",  # English (Canada)
+#     "en_GB",  # English (Great Britain)
+#     "en_US",  # English (United States)
+#     "es_ES",  # Spanish (Spain)
+#     "es_MX",  # Spanish (Mexico)
+#     "fa_IR",  # Persian (Iran)
+#     "fi_FI",  # Finnish (Finland)
+#     "fr_FR",  # French (France)
+#     "hi_IN",  # Hindi (India)
+#     "hr_HR",  # Croatian (Croatia)
+#     "it_IT",  # Italian (Italy)
+#     "ja_JP",  # Japanese (Japan)
+#     "ko_KR",  # Korean (South Korea)
+#     "lt_LT",  # Lithuanian (Lithuania)
+#     "lv_LV",  # Latvian (Latvia)
+#     "ne_NP",  # Nepali (Nepal)
+#     "nl_NL",  # Dutch (Netherlands)
+#     "no_NO",  # Norwegian (Norway)
+#     "pl_PL",  # Polish (Poland)
+#     "pt_BR",  # Portuguese (Brazil)
+#     "pt_PT",  # Portuguese (Portugal)
+#     "ru_RU",  # Russian (Russia)
+#     "sl_SI",  # Slovene (Slovenia)
+#     "sv_SE",  # Swedish (Sweden)
+#     "tr_TR",  # Turkish (Turkey)
+#     "uk_UA",  # Ukrainian (Ukraine)
+#     "zh_CN",  # Chinese (China)
+#     "zh_TW"   # Chinese (Taiwan)
 
-
+# Middle Eastern Regions
+MIDDLE_EASTERN_REGIONS = [
+    "fa_IR",  # Persian - Iran
+    "he_IL"   # Hebrew - Israel
 ]
+# European Regions
+EUROPEAN_REGIONS = [
+    "cs_CZ",  # Czech - Czech Republic
+    "da_DK",  # Danish - Denmark
+    "de_AT",  # German - Austria
+    "de_CH",  # German - Switzerland
+    "de_DE",  # German - Germany
+    "el_GR",  # Greek - Greece
+    "en_CA",  # English - Canada
+    "en_US",   # English - United States
+    "en_GB",  # English - United Kingdom
+    "en_IE",  # English - Ireland
+    "es_ES",  # Spanish - Spain
+    "fi_FI",  # Finnish - Finland
+    "fr_CA",  # French - Canada (often linked to Europe)
+    "fr_CH",  # French - Switzerland
+    "fr_FR",  # French - France
+    "hr_HR",  # Croatian - Croatia
+    "hu_HU",  # Hungarian - Hungary
+    "hy_AM",  # Armenian - Armenia
+    "it_IT",  # Italian - Italy
+    "nl_BE",  # Dutch - Belgium
+    "nl_NL",  # Dutch - Netherlands
+    "no_NO",  # Norwegian - Norway
+    "pl_PL",  # Polish - Poland
+    "pt_PT",  # Portuguese - Portugal
+    "ro_RO",  # Romanian - Romania
+    "ru_RU",  # Russian - Russia
+    "sk_SK",  # Slovak - Slovakia
+    "sv_SE",  # Swedish - Sweden
+    "uk_UA"   # Ukrainian - Ukraine
+]
+
+# East Asian Regions
+EAST_ASIAN_REGIONS = [
+    "ja_JP",  # Japanese - Japan
+    "ko_KR",  # Korean - South Korea
+    "zh_CN",  # Chinese - China
+    "zh_TW"   # Chinese - Taiwan
+]
+
+# South Asian Regions
+SOUTH_ASIAN_REGIONS = [
+    "en_IN",  # English - India
+    "az_AZ",  # Azerbaijan
+    "en_BD",  # English - Bangladesh
+    "bn_BD",  # Bengali - Bangladesh
+    "hi_IN",  # Hindi - India
+    "ka_GE",  # Georgian - Georgia (sometimes culturally connected to South Asia)
+    "ne_NP",  # Nepali - Nepal
+    "ta_IN"   # Tamil - India
+]
+
+# Southeast Asian Regions
+SOUTHEAST_ASIAN_REGIONS = [
+    "en_MS",  # English - Malaysia
+    "en_PH",  # English - Philippines
+    "fil_PH", # Filipino - Philippines
+    "id_ID",  # Indonesian - Indonesia
+    "th_TH",  # Thai - Thailand
+    "tl_PH",  # Tagalog - Philippines
+    "vi_VN"   # Vietnamese - Vietnam
+]
+
+# Latin American Regions
+LATIN_AMERICAN_REGIONS = [
+    "es_AR",  # Spanish - Argentina
+    "es_CL",  # Spanish - Chile
+    "es_CO",  # Spanish - Colombia
+    "es_MX",  # Spanish - Mexico
+    "pt_BR"   # Portuguese - Brazil
+]
+
+# African Regions
+AFRICAN_REGIONS = [
+    "zu_ZA"   # Zulu - South Africa
+]
+
+# Other Regions (General or Multiple Locations)
+OTHER_REGIONS = [
+    "en_AU",  # English - Australia
+    "en_NZ",  # English - New Zealand
+]
+
