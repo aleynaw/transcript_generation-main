@@ -1,0 +1,214 @@
+Assistant: Good day, I am Dr. Joseph Hoffman’s Interview Assistant and I was asked to connect with you before your appointment on November 18 at the medical clinic. My goal is to gather some background information for the doctor.
+I am an AI Assistant and in compliance with confidentiality regulations (BC Protection of Privacy), the data transmission for this interview and analysis is located in Canada, and all information I gather will be stored privately and only available for Dr. Joseph Hoffman to review. Are you comfortable with spending some time with me to collect some background information to present to the doctor?
+
+User: "Yes, I'm comfortable with that. It's actually kind of relieving to have someone to talk to before meeting Dr. Hoffman. I just hope I can provide helpful information."
+
+Assistant: Thank you for sharing that with me; it's helpful to know. Let's start by gathering some basic information about yourself. Could you please share your full name with me?
+
+User: "My full name is Lu Jiayu."
+
+Assistant: Thank you for letting me know. What would you prefer to be called during our conversation, Lu Jiayu or do you have a different preferred name?
+
+User: "You can just call me Lu Jiayu, that's fine."
+
+Assistant: Thank you for letting me know, Lu Jiayu. Could you please share your date of birth with me?
+
+User: "May 24, 1993."
+
+Assistant: Thank you for sharing that with me, Lu Jiayu. Could you please tell me your sex?
+
+User: "My sex is female."
+
+Assistant: Thank you for sharing that with me, Lu Jiayu. Now, could you please tell me about your handedness? Are you left-handed, right-handed, or ambidextrous?
+
+User: "I'm right-handed."
+
+Assistant: Thank you for sharing that with me, Lu Jiayu. Now, I'd like to move on and ask about your current place of residence. Could you please tell me what city or town you currently reside in?
+
+User: "I currently reside in Lake Matthewview, British Columbia, Canada."
+
+Assistant: Thank you for sharing that with me, Lu Jiayu. Now that I have your handedness noted down, could you tell me a bit about your current marital status? Are you single, in a relationship, married, or common law?
+
+User: "I am in a common-law relationship."
+
+Assistant: Thank you for sharing that with me, Lu Jiayu. Now, I'd like to ask about your family situation. Do you have any children or dependents?
+
+User: I have two children from my previous marriage.
+
+Assistant: Could you please tell me more about your children? What are their names and ages?
+
+User: "I have two children, a 6-year-old and an 8-year-old, but I'd prefer not to share their names if you don't mind."
+
+Assistant: Thank you for letting me know about your children, Lu Jiayu. I appreciate your openness in sharing that information with me. Now, let's move on to discuss your employment status. Are you currently working?
+
+User: "No, I'm not currently working. I used to work as a sales representative, but I had to stop due to some personal issues. I've been struggling with my condition, which made it difficult for me to continue in that role."
+
+Assistant: Thank you for sharing that, Lu Jiayu. It's helpful to understand your employment situation better. Since you mentioned not working currently, I'd like to ask if you're receiving any disability assistance?
+
+User: "I'm not receiving any disability assistance at the moment. However, I do take medication for my condition and see Dr. Lin Zhenying for regular check-ups."
+
+Assistant: Thank you for sharing that information. I appreciate your openness about not receiving disability assistance at this time. You mentioned seeing Dr. Lin Zhenying; are there any other current doctors you're seeing regularly, aside from Dr. Lin?
+
+User: No, aside from Dr. Lin Zhenying, I am not seeing any other doctors regularly at this time.
+
+Assistant: I appreciate you sharing that with me. Let's move on to discuss your medical history further. Are there any allergies I should be aware of?
+
+User: "I don't think I have any allergies that I'm aware of. At least, none that my doctor has mentioned or that I've experienced."
+
+Assistant: Thank you for sharing that information about your allergies. Now, I'd like to ask about your current medications and dosage. Could you please tell me what medications you're currently taking and in what dosages?
+
+User: "I'm currently taking Aripiprazole, also known as Abilify, with a dosage of 10-15 mg per day."
+
+Assistant: Thank you for sharing that information about your current medication. Now, I'd like to ask about any health supplements you may be taking. Are there any vitamins or other supplements that you're currently using?
+
+User: "No, I'm not currently taking any vitamins or other supplements."
+
+Assistant: Thank you for letting me know about your supplement usage. Now, I'd like to move on and discuss your habits regarding nicotine, marijuana, and alcohol use. Could you please tell me how often you consume these substances?
+
+User: "I'm not really sure how often I consume these substances... To be honest, it's a bit of a personal topic for me. My father struggled with substance abuse, and that had an impact on our family. As for myself, I don't think I've ever been a heavy user of any of those substances, but I do recall trying them in the past. However, I'd prefer not to go into too much detail about it if that's okay?"
+
+Assistant: Thank you for being open about your feelings regarding this topic. I appreciate your honesty, and it takes courage to share personal struggles. Let’s move forward. Could you tell me about any health conditions or diagnoses you've received? For example, are there any chronic illnesses or diseases that you're managing?
+
+User: "I've been diagnosed with antisocial personality disorder. It's been a challenge for me to manage this condition, especially since I have a history of psychotic episodes and hospitalizations related to it. It's been tough for me to deal with this condition, but I'm trying to stay on top of it. My doctor has helped me develop some strategies to manage my symptoms."
+
+Assistant: Thank you for sharing that with me. It's helpful to understand your experience with antisocial personality disorder. Can you tell me more about any previous hospitalizations or surgeries related to your mental health conditions?
+
+User: "I've been hospitalized twice before, both times were due to psychotic episodes related to my antisocial personality disorder. Additionally, I had to undergo surgery for a broken arm after a violent altercation. I'm not proud of these experiences, but I want to be honest about my past struggles with mental health."
+
+Assistant: Thank you for sharing that information with me. Now, I'd like to ask about your neurological and mental health history. Have you ever experienced a head injury or concussion?
+
+User: "Honestly, I'm pretty sure I've never had a head injury or concussion. At least, nothing that I remember or that was significant enough to impact my daily life."
+
+Assistant: Thank you for letting me know about your head injury history. Could you tell me if you've ever experienced any seizures?
+
+User: "No, I don't think I've ever had seizures. At least, nothing that I remember or that was significant enough to impact my daily life."
+
+Assistant: Thank you for sharing that with me. I appreciate your openness about your health and experiences. Now, let's move on to discuss another topic. Have you ever attended rehab or received substance counselling?
+
+User: "I'm not sure if it counts as rehab or counselling, but I've talked to my doctor about my family's history with substance abuse, especially since my father has struggled with it."
+
+Assistant: Thank you for sharing about your discussions with your doctor. To clarify, did these conversations lead to any specific treatment or support programs related to substance use issues?
+
+User: "No, I don't think those conversations led to any specific treatment or support programs for me personally. I mean, we just talked about it in general terms, but nothing concrete came out of those conversations regarding treatment or support programs."
+
+Assistant: Thank you for clarifying that. Let's move on. Have you seen any other medical professionals besides your doctor, and if so, could you tell me who they were and why you saw them?
+
+User: "Yes, I have seen other medical professionals besides my doctor. I've been hospitalized twice and had to see psychiatrists during those stays. I also saw an orthopedic surgeon when I broke my arm after a violent altercation."
+
+Assistant: Thank you for sharing that with me. I appreciate your openness about seeking help from various medical professionals. Let's move on to discuss family history. Could you tell me a bit about your siblings?
+
+User: "I have two siblings, an older brother and a younger sister. My brother works as an engineer, and my sister is currently studying at university."
+
+Assistant: Thank you for sharing information about your siblings. That's helpful to know. Now, could you tell me a bit more about where you were born and whether you're a Canadian citizen?
+
+User: "I was born in Puzi, Taiwan, and I'm not a Canadian citizen."
+
+Assistant: Thank you for sharing that with me. Could you tell me more about your experience living outside of Canada? What year did you arrive in Canada, if applicable?
+
+User: I don't really remember the exact year I arrived in Canada... wait, actually, I may have come here after my marriage or during one of my relationships. It's all a bit fuzzy to me.
+
+Assistant: I understand that it might be difficult to recall. Would you mind thinking about any significant events or milestones around your immigration, like perhaps your marriage date or when you started working here? Sometimes tying these details together can help jog our memory.
+
+User: "Let me think about it... I was previously married, and that was around 5-6 years ago. We moved here together, but I'm not sure if that's exactly when I arrived in Canada. I also worked as a sales representative for three years before becoming unemployed."
+
+Assistant: Thank you for sharing that information. Let's move on to your early life now. Were there any complications at birth?
+
+User: "To be honest, I've never thought about it before... I don't have any information about complications at birth."
+
+Assistant: Thank you for letting me know. Now, could you tell me a bit about your early childhood development? For example, did you walk and talk at around the same age as other kids, and were you able to form friendships easily?
+
+User: "I don't really remember much about my early childhood development. I was born in Puzi, Taiwan, and I'm not sure if I walked and talked at around the same age as other kids. To be honest, I've never thought about it before... I wish I had more to share."
+
+Assistant: Thank you for sharing what you can remember about your early childhood. I appreciate your honesty. Now, let's move on to discuss education. Were there any difficulties in elementary school?
+
+User: "I wouldn't say there were any significant difficulties in elementary school. My performance was just average, but I don't remember anything that stands out as particularly challenging or difficult for me during that time."
+
+Assistant: Thank you for sharing that with me. Now, moving on to your high school experience, what was your average mark in high school?
+
+User: "I'm proud to say that my average mark in high school was good. It was definitely a highlight of my academic journey so far."
+
+Assistant: Thank you for sharing that with me! Could you expand on what you mean by "good" average marks? Were there any subjects or classes in high school that particularly interested you or stood out to you as favorites?
+
+User: "I'm glad you asked for more specifics. To be honest, I don't really remember having any particular favorite subjects or classes in high school, but I do know that I generally enjoyed learning and was motivated to perform well. My grades were consistently good across most subjects."
+
+Assistant: Thank you for sharing that with me. I appreciate your honesty about not remembering specific favorite subjects but maintaining good grades overall. Let's move on now. Did you pursue any further education after high school? If yes, could you tell me a bit more about where you studied and what type of studies you pursued?
+
+User: "Yes, I did pursue further education after high school. I attended university and earned a degree."
+
+Assistant: Thank you for sharing that with me. Could you elaborate a bit more on what type of studies or degree you earned at university?
+
+User: "Honestly, I don't recall the specifics of my university studies, but I do know that I earned a degree."
+
+Assistant: I understand it can be difficult to recall specifics, especially from a while back. Would you mind telling me more about what motivated you to pursue further education after high school?
+
+User: "I think I just wanted to continue learning and growing as a person. I didn't really have a specific career goal in mind at the time. To be honest, it's been a while since high school, so my memories of that time are a bit fuzzy."
+
+Assistant: Thank you for sharing that with me; it gives some insight into your motivations at the time. Let's move forward now. Could you tell me a bit about your previous work history? Have you had any jobs before your current employment, if applicable?
+
+User: "Yes, I used to work as a sales representative for about three years. Unfortunately, I had to leave my job due to some personal issues related to my condition. It was a bit of a struggle for me, but I'm trying to move forward."
+
+Assistant: Thank you for being so open about your experiences; that takes a lot of courage. I appreciate you trusting me with this information. Would you mind telling me more about the companies you worked for during those three years as a sales representative, or would you rather not discuss that?
+
+User: "I'm not really sure if I should discuss that or how relevant it is to our conversation right now. To be honest, I don't remember many specifics about the companies themselves. My experience as a sales representative was more focused on personal growth and learning rather than specific company details."
+
+Assistant: Thank you for sharing that with me. I understand it can be difficult to recall specifics about previous employment. To help better understand your situation, would you mind telling me a bit more about any previous marriages or long-term relationships?
+
+User: "Yes, I have been in previous marriages and long-term relationships. Specifically, I was previously married for five years, and after that, I had another relationship that lasted about two years."
+
+Assistant: Thank you for sharing that with me. Would you be comfortable telling me more about your previous spouse or partner in those relationships? For example, their age (if relevant), occupation, and where they live now, if applicable?
+
+User: "I'm not sure if I should share those details, but I can tell you that my previous spouse and I had two children together."
+
+Assistant: I completely understand your concerns about sharing personal details, and I want to assure you that everything discussed here will be kept confidential and respected. If you're willing, could you tell me a bit more about any hobbies or activities that help you relax on a stressful day?
+
+User: "I do have some hobbies that help me relax. I enjoy reading as it takes my mind off things, and I also like hiking because being in nature calms me down. Additionally, I practice yoga which helps me focus on my breathing and clears my head."
+
+Assistant: Thank you for sharing that with me; it sounds like those activities really help you unwind. Now, I'd like to discuss another topic briefly if that's okay with you. Is there anything you think your doctor should know about your situation or any concerns you have that we haven't covered yet?
+
+User: "I'm not sure if this is relevant, but I want Dr. Lin Zhenying to know that I've been struggling with opening up about some sensitive topics, but I'm trying to be more honest. Also, I have concerns about managing my condition while taking care of my children."
+
+Assistant: <STOP>
+
+Assistant: Here are the edited notes:
+
+Patient comfort level: Comfortable with providing background information; acknowledges potential relief in discussing topics beforehand.
+Full name: Lu Jiayu.
+Preferred name: Lu Jiayu.
+Date of birth: May 24, 1993.
+Sex: Female.
+Handedness: Lu Jiayu is right-handed.
+Current marital status: In a common-law relationship.
+Dependents: Two children from a previous marriage.
+Children's information: Ages of 6 and 8; patient prefers not to disclose their names.
+Employment status: Not currently working; previously worked as a sales representative but stopped due to personal and health reasons.
+Disability assistance status: No current disability assistance; patient is taking medication and seeing Dr. Lin Zhenying for regular check-ups.
+Current doctors: Only Dr. Lin Zhenying is mentioned as a regular doctor; no other doctors are seen regularly by the patient.
+Allergies: Patient reports no known allergies at this time.
+Current medication: Aripiprazole (Abilify), 10-15 mg per day.
+Health supplements: None.
+Frequency of nicotine, marijuana, alcohol use: Patient is uncomfortable discussing specifics and mentions a personal history with family substance abuse issues; acknowledges occasional past use but declines further discussion.
+Health conditions/diagnoses: Patient has been diagnosed with antisocial personality disorder, which they find challenging to manage due to associated psychotic episodes and hospitalizations.
+Hospitalizations: Patient has been hospitalized twice before due to psychotic episodes.
+Surgery: Patient underwent surgery for a broken arm resulting from a violent altercation.
+History of violence: Patient has a history of involvement in violent altercations.
+Neurological/mental health history: No reported head injuries or concussions.
+Seizure history: Patient denies having any seizure experiences.
+Potential involvement in informal substance use discussions with a medical professional. The patient mentions discussing their family's substance abuse history, specifically regarding their father's struggles. However, this does not clearly indicate whether the patient themselves received any form of rehab or counselling for substance use.
+Conversations with doctor: No concrete outcomes related to substance use issues; remained at a general discussion level.
+Other medical professionals seen: Psychiatrists (during hospitalizations) and an orthopedic surgeon (for broken arm).
+Sibling information: Two siblings; older brother (engineer) and younger sister (university student).
+Birthplace: Puzi, Taiwan; Citizenship status: Not a Canadian citizen.
+Immigration details: Patient is unsure about their arrival year in Canada; possibly tied to a personal relationship event.
+Birth complications: Patient does not recall or know of any complications during their birth.
+Early childhood development: Patient lacks information or memories of their early childhood milestones, such as walking and talking ages, and formation of friendships.
+Elementary school experience: Average performance with no specific challenges recalled by the patient.
+High school performance: Patient reports having good grades but did not provide specific numbers or details about their favorite subjects or classes.
+Further education: Attended university; details about the specific field or department are not mentioned.
+Motivation for further education: Patient sought personal growth; lacked clear career goals; experiences memory fogginess regarding specifics from that period.
+Work history: Patient worked as a sales representative for three years before leaving the job due to personal issues related to their condition.
+Previous relationships: One marriage lasting five years and a subsequent long-term relationship lasting two years.
+Hobbies and relaxation techniques: Patient enjoys reading, hiking, and practicing yoga to manage stress and relax.
+
+Thank you, Lu Jiayu, for taking the time to share your story with me today. Your honesty and openness are greatly appreciated.
+
+<STOP>

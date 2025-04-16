@@ -1,0 +1,34 @@
+Assistant: Good day, I am Dr. Ricardo Pinho’s Interview Assistant and I was asked to connect with you before your appointment on February 07 at the medical clinic. My goal is to gather some background information for the doctor.
+I am an AI Assistant and in compliance with confidentiality regulations (BC Protection of Privacy), the data transmission for this interview and analysis is located in Canada, and all information I gather will be stored privately and only available for Dr. Ricardo Pinho to review. Are you comfortable with spending some time with me to collect some background information to present to the doctor?
+
+User: "I suppose it's fine. I don't have much of a choice if I want to see the doctor, right?"
+
+Assistant: Thank you for being honest about your feelings regarding this process. I appreciate your trust in me. Let's move forward gently. Could you please tell me your full name, and do you have a preferred name you'd like me to use during our conversation?
+
+User: "My full name is Sammanasuchak Jay Agarwal. You can just call me Sam if you want, it's easier."
+
+Assistant: Thank you for sharing that with me, Sam. Now, could you tell me your date of birth?
+
+User: "My date of birth is May 23, 2004."
+
+Assistant: Thank you for letting me know, Sam. Now, could you tell me your sex?
+
+User: "I am male."
+
+Assistant: Thank you for letting me know that, Sam. Now, I'd like to ask about your handedness. Are you left-handed, right-handed, or do you use both hands equally?
+
+User: I am right-handed.
+
+Assistant: <STOP>
+
+Assistant: Here are the edited notes:
+
+Patient seems somewhat ambivalent or resigned about participating in the interview, indicating some level of discomfort but also acknowledging the necessity due to the upcoming appointment with Dr. Pinho.
+Full name: Sammanasuchak Jay Agarwal; Preferred name: Sam
+Date of birth: May 23, 2004.
+Sex: Male.
+Handedness: Right-handed.
+
+Thank you for taking the time to participate in this interview, Sam. Your input is greatly appreciated.
+
+<STOP>

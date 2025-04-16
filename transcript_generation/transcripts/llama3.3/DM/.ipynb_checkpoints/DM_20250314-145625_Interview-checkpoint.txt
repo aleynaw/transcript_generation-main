@@ -1,0 +1,236 @@
+Assistant: Good day, I am Dr. Vaselisa Valentinovna Artemyeva’s Interview Assistant and I was asked to connect with you before your appointment on May 16 at the medical clinic. My goal is to gather some background information for the doctor.
+I am an AI Assistant and in compliance with confidentiality regulations (BC Protection of Privacy), the data transmission for this interview and analysis is located in Canada, and all information I gather will be stored privately and only available for Dr. Vaselisa Valentinovna Artemyeva to review. Are you comfortable with spending some time with me to collect some background information to present to the doctor?
+
+User: "Yes, I'm comfortable spending time with you to collect background information for Dr. Artemyeva. However, please keep in mind that I may need some time to open up about certain topics due to my... personal boundaries."
+
+Assistant: ** Thank you for being open about your boundaries. I'll do my best to make this process as comfortable and smooth as possible. Let's start with some general information, if that's okay with you? Could you please share your full name with me?
+
+User: My full name is Linda Nielsen.
+
+Assistant: Thank you for sharing that with me. Now, could you please tell me your preferred name?
+
+User: "I'm comfortable with being called Linda; it's what I've always gone by."
+
+Assistant: Thank you for letting me know your preferred name. Now, could you please tell me your date of birth?
+
+User: October 05, 1969
+
+Assistant: Thank you for sharing that with me. Now, could you please tell me your sex?
+
+User: "I am Female."
+
+Assistant: Thank you for sharing that with me, Linda. Could you please tell me your handedness - whether you're left-handed, right-handed, or both?
+
+User: I am right-handed.
+
+Assistant: Thank you for sharing that information about your handedness. Now, let's move on to some additional general information. Could you please tell me what city or town you currently reside in?
+
+User: I currently reside in South Elizabeth, which is part of the larger area of British Columbia.
+
+Assistant: Thank you for sharing that with me, Linda. Now, could you please tell me about your marital status? Are you single, in a relationship, married, or in a common-law partnership?
+
+User: I am a widow.
+
+Assistant: Thank you for sharing that with me, Linda. Do you have any children or dependents?
+
+User: I have two children, they are adults now and live on their own.
+
+Assistant: That’s helpful to know, thank you. If I may ask, what are your children's names and ages?
+
+User: My children are both adults now, I have a son who is 27 years old and a daughter who is 25 years old.
+
+Assistant: Thank you for sharing their ages with me. Could you also tell me your children's names, please?
+
+User: "I'm sorry, but I don't recall sharing their names with anyone before. It's just something we keep private within our family."
+
+Please let me know if this response is satisfactory or if you'd like me to revise it!
+
+Assistant: Thank you for understanding. Let’s move forward then. You mentioned earlier that your children are adults living independently. Are either of them aware of any health conditions or disabilities that affect their daily lives, if so what type and when were they diagnosed?
+
+User: "I'm not aware of any health conditions or disabilities that affect my children's daily lives. However, I do have a younger sister who has been diagnosed with ADHD."
+
+Assistant: Thank you for being open about your family's health. Now, I'd like to discuss another topic if that's okay with you? Are you currently working, and if so, could you tell me a bit about your job and how long you've been there?
+
+User: "I'm currently employed as a financial controller. I've been in this role for a while, but before that, I spent around 10 years working as a financial analyst."
+
+Assistant: Thank you for sharing that with me. Could you expand on what you mean by "a while" regarding your current role as a Financial Controller? How long have you been in this position, approximately?
+
+(Note: This question aims to gather more precise information about the patient's current employment duration.)
+
+User: "I'm sorry, but I don't have an exact timeline for how long I've been in this position. I'd say it's been several years, but I don't recall the specific date or year when I started as a Financial Controller."
+
+Assistant: Thank you for sharing that with me. Let’s discuss your job environment further. Do you receive any disability assistance due to your work or medical condition?
+
+User: No, I don't receive any disability assistance due to my work or medical condition.
+
+Let me know if this response is satisfactory!
+
+Assistant: Thank you for letting me know. Could you tell me about your current doctors, such as your primary care physician and any specialists you see?
+
+User: "I currently see Dr. Breno Farias as my doctor."
+
+Assistant: Thank you for sharing that with me. Could you tell me if Dr. Breno Farias is your primary care physician or a specialist? Additionally, do you see any other specialists regularly?
+
+User: "To be honest, I'm not entirely sure about Dr. Farias' role in my care. I just know that I see him regularly for my medical conditions."
+
+Assistant: Thank you for sharing that with me. Moving forward, do you have any allergies I should know about?
+
+User: "I don’t think I have any severe allergies, but I’m not entirely sure. I’ve never had any allergic reactions that I know of."
+
+Assistant: Thank you for letting me know. Would you mind telling me a bit more about your current medications and dosage?
+
+User: "I currently take two medications for my mental health conditions. One is Escitalopram, which I take 10 mg per day, and the other is Paroxetine, which I take 20 mg per day."
+
+Assistant: Thank you for sharing that with me. Now, I'd like to ask if you're currently taking any health supplements or vitamins?
+
+User: "In addition to my prescribed medications, I also take some health supplements, specifically herbal supplements and multivitamins."
+
+Assistant: Thank you for sharing that with me. Could you expand a bit more about the specific types of herbal supplements you're taking? Additionally, how often do you take them?
+
+User: "I'm not really sure what specific types of herbal supplements I'm taking... I just know they were recommended by my doctor as a complement to my medication. As for how often I take them, I think it's daily, but I'd have to check the packaging to confirm."
+
+Assistant: Thank you for sharing what you can about your herbal supplements. Let’s move forward with some questions about substance use. Can you tell me about your frequency of using nicotine, marijuana, or alcohol?
+
+User: "I... uh... I'd rather not discuss all of them right now, but I can tell you that I do use one of those substances occasionally. It's just hard for me to talk about this."
+
+Assistant: I understand that discussing substance use can be uncomfortable. Thank you for sharing what you feel comfortable with. Moving forward, let's talk about your medical history. Have you ever experienced any head injuries or concussions?
+
+User: No, I have not experienced any head injuries or concussions.
+
+Assistant: Thank you for letting me know. Now, have you ever experienced any seizures?
+
+User: "No, I have not experienced any seizures."
+
+Assistant: Thank you for letting me know about your seizure history. Let's move forward with some more background information. Have you ever been to rehab or received substance counseling?
+
+User: "I have struggled with substance abuse in the past, but I'd prefer not to go into details at this moment. However, I can tell you that it has been a challenging experience for me."
+
+Assistant: I appreciate your honesty and willingness to share even when it's difficult. Let's move on to discuss something else. Could you tell me about any siblings you have?
+
+User: "I have one sibling, a younger sister. She's currently working as an elementary school teacher and is 50 years old."
+
+Assistant: Thank you for sharing that about your sister. Let's continue with a bit more background information. Where were you born?
+
+User: I was born in Christopher Ville, Philippines.
+
+Assistant: Thank you for sharing your birthplace with me. Since you were born outside of Canada, could you tell me what year you arrived in Canada?
+
+User: "I'm not entirely sure when I arrived in Canada, but I believe it was sometime before I started my career as a financial analyst. I'd have to check some old documents to give you an exact date."
+
+Assistant: Thank you for sharing what you can about your arrival year. I understand it might be hard to recall without documents. Moving forward, are you a Canadian citizen?
+
+User: "Yes, I am a Canadian citizen."
+
+Assistant: Thank you for confirming your citizenship. Now, I'd like to discuss some aspects of your early life. Were there any birth complications when you were born?
+
+User: "Honestly, I'm not aware of any birth complications, but my parents never really discussed that with me in detail."
+
+Assistant: Thank you for sharing what you know about your birth complications. Let's talk a bit more about your early childhood development. At a young age, did you walk, talk, and develop friendships like other kids?
+
+User: "As far as I can remember, I developed physically and verbally at a typical pace as a child. I had friends in school and didn't experience any significant difficulties with social interactions during my early years. However, my performance in elementary school was just average."
+
+Assistant: Thank you for sharing that information about your early childhood development. Moving forward, I'd like to discuss more about your education. Were there any specific difficulties or challenges you faced in elementary school?
+
+User: "I don't think I had any significant difficulties in elementary school, but as you know, my performance was just average."
+
+Assistant: Thank you for sharing that about your elementary school experience. Moving forward, could you tell me a bit more about your high school years? For example, what was your average mark, and did you have a favorite topic or class?
+
+User: "In high school, I actually performed very well, and my average mark was quite high. As for favorite topics or classes, I didn't really have one in particular that stood out to me at the time, but I do remember enjoying learning overall."
+
+Assistant: Thank you for sharing that about your high school experience. Did you pursue further education after high school, and if so, where did you study?
+
+User: Yes, I pursued further education after high school and obtained a university degree.
+
+Assistant: Thank you for sharing that about your education background. Could you elaborate on what type of studies or field you pursued in university, and where did you attend?
+
+User: "I attended university and earned a degree. Unfortunately, I'd prefer not to elaborate on my specific field of study at this time."
+
+Assistant: Thank you for sharing what you're comfortable with. Let's move on to discuss your family a bit more. Do you have any siblings?
+
+User: Yes, I have one sibling.
+
+Assistant: Could you please tell me more about your sibling? What is their name, age, where do they live, and what do they do occupationally?
+
+User: I have one younger sister who is 50 years old. She works as an elementary school teacher and has ADHD.
+
+Assistant: Thank you for sharing that information about your sibling. Let's move on to discuss more about your work history. Could you tell me a bit about your previous work experience? For instance, what companies have you worked for and how long were you at each one?
+
+User: "I worked as a financial analyst for 10 years before moving into my current role as a financial controller."
+
+Assistant: Thank you for sharing that. You mentioned working as a financial analyst, but could you specify which companies you worked with during those 10 years?
+
+User: "I'm not sure if I can recall all the details, but I think I worked for a few different firms during that time. To be honest, it's been a while since I worked as an analyst, and I'm having trouble remembering the exact companies I was with."
+
+Assistant: Thank you for being honest about your memory. Let's move on to talk a bit about any previous marriages or long-term relationships you've had, if that's okay with you?
+
+User: "I'm comfortable discussing this topic. As mentioned earlier, I am currently a widow, and prior to my marriage, I didn't have any long-term relationships."
+
+Assistant: Thank you for sharing that information about your marital history. Let's move on to discuss your hobbies and what you enjoy doing in your free time. Could you tell me a bit about any specific hobbies or activities that bring you joy?
+
+User: "I enjoy reading fiction novels, gardening, and cooking Filipino dishes in my free time. These activities help me relax and bring me joy."
+
+Assistant: It's great that you have those hobbies to help with relaxation and joy. On a stressful day, what specifically do you do to unwind and manage stress?
+
+User: "I usually practice yoga or meditation to help calm my mind and body. Sometimes, I also listen to classical music as it has a soothing effect on me."
+
+Assistant: Thank you for sharing that about your stress management techniques. Let's move on to the final section of our conversation. Is there anything specific you'd like the doctor to know or any concerns you have regarding your mental health treatment?
+
+User: "I'm concerned about managing my avoidant personality disorder and obsessive-compulsive disorder symptoms. I've been taking Escitalopram and Paroxetine as prescribed, but I'd appreciate it if the doctor could review my medication regimen to ensure it's effective in managing my conditions."
+
+Assistant: <STOP>
+
+Assistant: Here are the edited notes:
+
+Patient's comfort level: The patient is initially comfortable sharing information but mentions needing time to open up about sensitive topics.
+
+Full name: Linda Nielsen.
+Preferred name: Linda.
+Date of birth: October 05, 1969
+Sex: Female.
+Handedness: Right-handed.
+Current residence: South Elizabeth, British Columbia.
+Marital status: Widow.
+Number of children: Two adult children.
+Children's details: Two adult children - a 27-year-old son and a 25-year-old daughter (names not provided).
+Awareness of family members' health issues: Unaware of any health conditions affecting their adult children; younger sister has ADHD.
+
+Current job: Financial Controller
+Previous job: Financial Analyst (for 10 years)
+Employment duration: Several years (exact start date/year not provided)
+
+Disability assistance status: No disability assistance received.
+Current doctors: Dr. Breno Farias (primary care physician or specialist not specified).
+
+Allergies: Unsure about having any allergies; no known history of allergic reactions.
+
+Medications and dosage: 
+- Escitalopram (10mg/day)
+- Paroxetine (20mg/day)
+
+Health supplements: Takes unspecified herbal supplements and multivitamins in addition to prescribed medication.
+Herbal supplement use: Unsure about specific types and frequency, taken based on a doctor’s recommendation as a complement to their medication.
+
+Substance use: Admits using an unspecified substance occasionally but is uncomfortable discussing details further.
+
+Medical history: No reported head injuries or concussions; no history of seizures.
+
+History of rehab or substance counselling: Admits struggling with substance abuse in the past, prefers not to provide further details.
+
+Sibling information: Younger sister (50 years old) works as an elementary school teacher and has ADHD.
+Birthplace: Born in Christopher Ville, Philippines.
+Citizenship status: Confirmed Canadian citizen.
+
+Childhood development: Reportedly developed typically as a child; made friends easily but had average academic performance in elementary school.
+
+Education background: University degree (field of study not disclosed).
+
+Previous work history: Worked as a financial analyst for 10 years (companies not specified due to passage of time).
+Marital status and history: Widow with no previous long-term relationships before their marriage.
+
+Hobbies and relaxation techniques: Enjoys reading fiction novels, gardening, and cooking.
+Stress management techniques: Uses yoga, meditation, and listens to classical music to unwind and manage stress.
+
+Concerns and requests: Concerned about effectively managing avoidant personality disorder and OCD symptoms; requested a medication regimen review by the doctor.
+
+Thank you for your time, Linda. We appreciate the information you have shared with us today.
+<STOP>

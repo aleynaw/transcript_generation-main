@@ -1,0 +1,209 @@
+Assistant: Good day, I am Dr. Park Joon-young’s Interview Assistant and I was asked to connect with you before your appointment on June 19 at the medical clinic. My goal is to gather some background information for the doctor.
+I am an AI Assistant and in compliance with confidentiality regulations (BC Protection of Privacy), the data transmission for this interview and analysis is located in Canada, and all information I gather will be stored privately and only available for Dr. Park Joon-young to review. Are you comfortable with spending some time with me to collect some background information to present to the doctor?
+
+User: "I'm a bit nervous, but I understand the importance of sharing this information for my appointment. I'll do my best to answer your questions. It's just that talking about personal stuff can be a bit uncomfortable for me."
+
+Assistant: Thank you for sharing that with me. I appreciate your honesty about feeling nervous and uncomfortable discussing personal topics. That's completely understandable, and I'm here to support you throughout this process. Now, let's move on to gather some general information. Could you please share your full name with me?
+
+User: My full name is Li Dongmei.
+
+Assistant: Thank you, Li Dongmei. I appreciate your openness about that. Now, could you tell me what name you prefer people use when addressing or referring to you?
+
+User: "I'm fine with either Li Dongmei or just Li."
+
+Assistant: Thank you for sharing that with me. Could you please tell me your date of birth?
+
+User: June 28, 2002
+
+Assistant: Thank you for letting me know your date of birth. Now, could you tell me what sex you identify as?
+
+User: I identify as male.
+
+Assistant: Thank you for sharing that with me. Now, could you please tell me your handedness - do you consider yourself left-handed, right-handed, or ambidextrous (both)?
+
+User: I consider myself right-handed.
+
+Assistant: Thank you for letting me know. Now, could you tell me what city or town you currently reside in?
+
+User: I currently live in Port Rickyburgh.
+
+Assistant: Thank you for letting me know your handedness. Moving on, could you please tell me about your marital status - are you single, in a relationship, married, or in a common-law partnership?
+
+User: "I am married."
+
+Assistant: Thank you for sharing that with me. Do you have any children or dependents?
+
+User: Yes, I have two children.
+
+Assistant: That's helpful to know, thank you. Could you tell me the names and ages of your children?
+
+User: "My children are two boys, aged 4 and 6. Unfortunately, I don't have their specific names mentioned in my information."
+
+Assistant: Thank you for sharing that with me. Now, let's move on to discuss your employment status. Are you currently working?
+
+User: No, I am currently unemployed, but I am a student.
+
+Assistant: Thank you for letting me know about your employment status. Are you receiving any disability assistance, and if so, what type and when did it start?
+
+User: "No, I am not receiving any disability assistance."
+
+Assistant: Now, let's move on to discuss your medical history. Could you tell me about your current doctors?
+
+User: My current doctor is Dr. Florin Georgescu.
+
+Assistant: Thank you for sharing that with me. Are there any other doctors or specialists you regularly see, aside from Dr. Florin Georgescu?
+
+User: "No, aside from Dr. Florin Georgescu, I don't have any other doctors or specialists mentioned in my information."
+
+Assistant: I appreciate your honesty. Could you tell me about any allergies you might have?
+
+User: "I don't have any information about having allergies, but I also don't have any mentioned in my medical history."
+
+Assistant: Thank you for letting me know. Could you tell me about any current medications you're taking and their dosages?
+
+User: I am currently taking Sertraline, also known as Zoloft, at a dosage of 50-200 mg per day. Additionally, I take Amphetamine/Dextroamphetamine, or Adderall, in divided doses of 5-40 mg per day. Lastly, I am taking Lamotrigine, or Lamictal, at a fixed dose of 25 mg per day.
+
+Assistant: Thank you for sharing that information with me. Could you tell me about any health supplements you're currently taking?
+
+User: I'm currently taking vitamin D and multivitamins as health supplements.
+
+Assistant: Thank you for sharing that information with me. Moving forward, could you tell me about your frequency of using nicotine, marijuana, or alcohol?
+
+User: Honestly, I don't have a regular habit of using nicotine, marijuana, or alcohol. It's not really part of my lifestyle.
+
+Assistant: Thank you for sharing that with me. Let's move on to discuss your medical history. Could you tell me about any health conditions or diagnoses you've received, and provide some details such as when you were diagnosed?
+
+User: I have been diagnosed with binge-eating disorder, ADHD, and bipolar II disorder. To be honest, I'm not really sure when I was first diagnosed with each condition, as it's all been a bit of a blur for me.
+
+Assistant: Thank you for being honest about that with me. It's understandable that dates can be fuzzy at times. Let's move forward. Have you had any previous hospitalizations or surgeries? If so, could you tell me more about them and why they were necessary?
+
+User: No, I don't have any history of previous hospitalizations or surgeries.
+
+Assistant: Thank you for letting me know. Now, let's move on to discuss your neurological and mental health history. Have you ever had a head injury or concussion?
+
+User: Yes, I've had a concussion in the past. It occurred when I was 19 years old due to a sports-related injury. Thankfully, I've fully recovered from it.
+
+Assistant: Thank you for sharing that with me. Now, have you ever experienced seizures?
+
+User: No, I don't think so. At least, not that I can recall.
+
+Assistant: Thank you for letting me know. Now, regarding any rehab or substance counseling, have you ever attended such programs?
+
+User: "I don’t recall attending rehab or substance counseling programs specifically. However, I do see Dr. Florin Georgescu regularly to manage my existing medical conditions."
+
+Assistant: Thank you for letting me know about your current doctor, Dr. Florin Georgescu. Could you tell me more about what type of medical conditions you're managing with his help?
+
+User: "I'm currently managing my binge-eating disorder, ADHD, and bipolar II disorder with Dr. Georgescu's help. He has prescribed me medications such as Sertraline, Amphetamine/Dextroamphetamine, and Lamotrigine to help manage my symptoms. To be honest, it can be a bit challenging at times, but I'm trying my best to stay on top of things."
+
+Assistant: Thank you for being so open about your medical conditions and treatment. Now, I'd like to explore other aspects of your health and background. Have you seen any other medical professionals aside from Dr. Georgescu?
+
+User: No, I don't think so. Dr. Georgescu is my current doctor, and I haven't seen any other medical professionals recently.
+
+Assistant: Thank you for letting me know that. Now, could you tell me about your family history of psychiatric conditions? Have any other members in your family experienced or been treated for mental health issues?
+
+User: No, there is no family history of psychiatric conditions or mental health issues that I'm aware of.
+
+Assistant: Thank you for letting me know that. Let's move on to another topic. Are there any other medical professionals aside from Dr. Georgescu who have treated you in the past, say for example, before your current diagnosis or treatment?
+
+User: "I don't think so, but I did have a concussion at age 19 due to a sports injury. However, I fully recovered from it."
+
+Assistant: Thank you for letting me know about that past injury. Now, let's talk a bit more about your family history. You mentioned earlier that there isn't any known family history of psychiatric conditions. I'd like to explore a bit further if that's okay with you. Is there any family history of neurological or genetic conditions that you're aware of?
+
+User: No, I'm not aware of any family history of neurological or genetic conditions.
+
+Assistant: Thank you for sharing that information with me. Now, let's move on to talk about your personal history. Could you tell me a bit about where you were born?
+
+User: I was born in Chongqing County, China.
+
+Assistant: Thank you for sharing that with me. Since you were born in China, I'd like to know a bit more about your connection to Canada. If outside Canada, what year did you arrive?
+
+User: "To be honest, I'm not sure what year exactly we arrived in Canada. I'd have to check with my family or look through our documents."
+
+Assistant: That's understandable, and I appreciate your honesty. Whenever you find out the exact year of arrival, feel free to share it with me or my team. Moving on, could you tell me if you are a Canadian citizen?
+
+User: No, I am not a Canadian citizen.
+
+Assistant: Thank you for sharing that information with me. Now, let's move on to another topic related to your personal history. Were there any complications during your birth?
+
+User: "To the best of my knowledge, there were no complications during my birth."
+
+Assistant: Thank you for sharing that with me. Moving forward, at a young age, did you walk, talk, and develop friendships like other kids?
+
+User: "I don't recall having any major difficulties walking or talking as a kid. As for friendships, I think I developed them normally, but I didn't really think about it much back then."
+
+Assistant: Thank you for sharing that with me. Now, let's move on to discuss your educational background. Were there any difficulties you experienced in elementary school?
+
+User: "I don't recall having any major struggles or difficulties in elementary school, my performance was just average."
+
+Assistant: Thank you for sharing that information about your elementary school experience. Now, let's move on to high school. What was your average mark in high school, and do you have a favorite topic or class from back then?
+
+User: "My average mark in high school was good, but I don't recall it exactly. If I had to estimate, I'd say it was around 80% or higher. As for a favorite topic or class, I think I enjoyed learning about various subjects, but none stood out to me as particularly special."
+
+Assistant: Thank you for sharing that with me. Moving forward, did you pursue any further education after high school? If so, where and what type of studies did you undertake?
+
+User: "I did pursue further education after high school. I'm currently pursuing a university degree."
+
+Assistant: Thank you for sharing that. Could you expand on that for me? What university are you currently attending, and what specific degree or field of study are you pursuing?
+
+User: "I'm currently pursuing a university degree, but I don't have any specific details to share about the university or my field of study."
+
+Assistant: I understand that you might not feel comfortable sharing specific details about your university education. Thank you for letting me know. Now, let's move on to another topic. Can you tell me a bit about your previous work history? Have you had any jobs or employment experiences prior to this point?
+
+User: I don't have any previous work history.
+
+Assistant: Thank you for sharing that with me. Moving forward, have you ever been married or been in any long-term relationships?
+
+User: "I am currently married, but prior to this marriage, I didn't have any long-term relationships."
+
+Assistant: Thank you for sharing that with me. Moving forward, let's discuss your interests outside of work or school. What kinds of hobbies do you enjoy in your free time?
+
+User: "I enjoy reading, hiking, and playing chess in my free time."
+
+Assistant: Thank you for sharing your hobbies with me. It's great that you have activities that bring you joy and help you relax. Now, let's talk about how you typically manage stress on a difficult day. What do you usually do to unwind and calm down when you're feeling stressed or overwhelmed?
+
+User: "I usually try to manage stress by practicing meditation, listening to calming music, or going for a walk outside."
+
+Assistant: Thank you very much for sharing your thoughts, feelings, and experiences with me today. I appreciate your openness, and this information will be helpful in understanding your situation better. If there's anything else you think the doctor should know that we haven't discussed, please feel free to share it now. After this, our conversation will come to a close. <STOP>
+
+Assistant: Here are the edited notes:
+
+Initial comfort level: Patient is nervous but willing to participate; expresses some discomfort with discussing personal topics.
+Full name: Li Dongmei.
+Preferred names: Li Dongmei (full name) or Li (nickname/preferred).
+Date of birth: June 28, 2002.
+Sex identification: Male.
+Handedness: Right-handed.
+Marital status: Married.
+Presence of dependents: Yes, patient has two children.
+Information about children: Two sons aged 4 and 6.
+Current employment status: Unemployed, but actively enrolled as a student.
+Disability assistance status: Not receiving any disability assistance.
+Current doctors: Dr. Florin Georgescu.
+Allergies: No known allergies.
+Current medications and dosages:
+1. Sertraline (Zoloft): 50-200 mg/day
+2. Amphetamine/Dextroamphetamine (Adderall): 5-40 mg/day (divided doses)
+3. Lamotrigine (Lamictal): 25 mg/day
+Health supplements: Vitamin D and multivitamins.
+Frequency of substance use: Does not regularly use nicotine, marijuana, or alcohol.
+Diagnosed conditions: Binge-eating disorder, ADHD, and bipolar II disorder.
+Medical History - Hospitalizations/Surgeries: No previous hospitalizations or surgeries.
+Head injury/concussion history: Had a concussion at age 19 due to a sports-related injury and has since fully recovered.
+Seizure history: No recollection of seizures; however, patient is uncertain ("don't think so").
+Current medical conditions: Binge-eating disorder, ADHD, and bipolar II disorder.
+Family history of psychiatric conditions: No known history.
+Birthplace: Chongqing County, China.
+Citizenship status: Not a Canadian citizen.
+Birth complications: None known to the patient.
+Childhood development: Reports no major issues with physical development (walking and talking) and friendship formation.
+Elementary school experience: No significant difficulties were reported; described performance as average.
+High school academic performance and interests: Estimated average mark was around 80% or higher in high school.
+Further education: Currently attending university.
+Previous work experience: None.
+Relationship status: Currently married with no previous long-term relationships.
+Hobbies and interests: Enjoys reading, hiking, and playing chess.
+Stress management techniques: Uses meditation, calming music, and walking outside to unwind.
+
+Thank you for taking the time to participate in this interview. We appreciate your honesty and openness.
+
+<STOP>
