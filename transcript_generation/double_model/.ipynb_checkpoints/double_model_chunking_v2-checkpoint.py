@@ -18,17 +18,18 @@ except ModuleNotFoundError:
     import helper_fns as helper
 
 # import Langchain and Ollama
-from langchain_ollama import OllamaLLM
-from langchain_core.prompts import ChatPromptTemplate
+# from langchain_ollama import OllamaLLM
+# from langchain_core.prompts import ChatPromptTemplate
+import ollama
 
 model1 = OllamaLLM(base_url="localhost:11435", 
-                  model="llama3.1:70b-instruct-q4_0", 
+                  model="llama3.3:70b", 
                   temperature=0.9, 
                   num_ctx = 6144,
                   top_k = 40,
                   top_p = 0.9)
 model2 = OllamaLLM(base_url="localhost:11435", 
-                  model="llama3.1:70b-instruct-q4_0", 
+                  model="llama3.3:70b", 
                   temperature=0.8, 
                   num_ctx = 6144,
                   top_k = 40,
@@ -183,6 +184,11 @@ def invoke_asst_model(message_list, prompt, notes, summarize):
     '''
     Model responds as an interviewer. 
     '''
+
+    options = {
+            "num_ctx": 6144,
+            "num_predict": 1000
+        }
     
     if summarize:
         notes_prompt = "Here is all the notes taken for this interview. Edit the notes to only include actual notes, not any of the steps that may have been accidentally included, but you must include ALL of the notes taken. Output the edited notes, thank the patient for their time, then you MUST output '<STOP>'"
@@ -194,8 +200,14 @@ def invoke_asst_model(message_list, prompt, notes, summarize):
         
         summary_prompt.insert(0, notes_msg)
         summary_prompt.insert(0, system_msg)
+
+        chat_params = {
+            "model": model1,
+            "messages": notes,
+            "stream": False
+        }   
     
-        response = model1.invoke(notes)
+        response = ollama.chat(chat_params, options=options)
         # print("------------------------------------------------------------")
         # print("Assistant response: ", response)
         # notes = extract_and_store_notes(response, notes)
@@ -210,10 +222,14 @@ def invoke_asst_model(message_list, prompt, notes, summarize):
         msgs = message_list.copy()
         # print("PREV MESSAGES: ", msgs)
         msgs.insert(0, system_msg)
-        
-        
+
+        chat_params = {
+            "model": model1,
+            "messages": msgs,
+            "stream": False
+        } 
     
-        response = model1.invoke(msgs)
+        response = ollama.chat(chat_params, options=options)
         # print("------------------------------------------------------------")
         # print("Assistant response: ", response)
         notes = extract_and_store_notes(response, notes)
@@ -229,13 +245,25 @@ def invoke_pat_model(message_list, prompt):
     '''
     Model responds as a patient. 
     '''
+
+    options = {
+            "num_ctx": 6144,
+            "num_predict": 1000
+        }
+    
     swapped_list = swap_msg_list(message_list)
     
     system_msg = {"role": "system", "content": prompt}
     msgs = swapped_list.copy()
     msgs.insert(0, system_msg)
+
+    chat_params = {
+            "model": model2,
+            "messages": msgs,
+            "stream": False
+        } 
     
-    response = model2.invoke(msgs)
+    response = ollama.chat(chat_params, options=options)
     # print("------------------------------------------------------------")
     # print("Patient response: ", response)
     

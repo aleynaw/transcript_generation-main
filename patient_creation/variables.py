@@ -1,24 +1,3 @@
-# HEALTH_CONDITIONS = {
-#     "major depressive disorder": ["Fluoxetine", "Prozac", "Sertraline", "Zoloft", "Citalopram", "Celexa"],
-#     "generalized anxiety disorder": ["Escitalopram", "Lexapro", "Duloxetine", "Cymbalta", "Paroxetine", "Paxil"],
-#     "panic disorder": ["Alprazolam", "Xanax", "Clonazepam", "Klonopin", "Lorazepam", "Ativan"],
-#     "social anxiety disorder": ["Sertraline", "Zoloft", "Paroxetine", "Paxil", "Venlafaxine", "Effexor"],
-#     "obsessive-compulsive disorder": ["Fluoxetine", "Prozac", "Sertraline", "Zoloft", "Paroxetine", "Paxil"],
-#     "post-traumatic stress disorder": ["Sertraline", "Zoloft", "Paroxetine", "Paxil", "Fluoxetine", "Prozac"],
-#     "bipolar I disorder": ["Lithium", "Lithobid", "Valproate", "Depakote", "Lamotrigine", "Lamictal"],
-#     "bipolar II disorder": ["Quetiapine", "Seroquel", "Lamotrigine", "Lamictal", "Olanzapine", "Zyprexa"],
-#     "schizophrenia": ["Aripiprazole", "Abilify", "Clozapine", "Clozaril", "Olanzapine", "Zyprexa"],
-#     "attention-deficit/hyperactivity disorder": ["Methylphenidate", "Ritalin", "Amphetamine/Dextroamphetamine", "Adderall", "Lisdexamfetamine", "Vyvanse"],
-#     "autism spectrum disorder": ["Risperidone", "Risperdal", "Aripiprazole", "Abilify", "Olanzapine", "Zyprexa"],
-#     "anorexia": ["Fluoxetine", "Prozac", "Sertraline", "Zoloft", "Olanzapine", "Zyprexa"],
-#     "bulimia": ["Fluoxetine", "Prozac", "Topiramate", "Topamax", "Olanzapine", "Zyprexa"],
-#     "binge-eating disorder": ["Lisdexamfetamine", "Vyvanse", "Topiramate", "Topamax", "Sertraline", "Zoloft"],
-#     "borderline personality disorder": ["Quetiapine", "Seroquel", "Olanzapine", "Zyprexa", "Lamotrigine", "Lamictal"],
-#     "narcissistic personality disorder": ["Lithium", "Lithobid", "Olanzapine", "Zyprexa", "Quetiapine", "Seroquel"],
-#     "antisocial personality disorder": ["Risperidone", "Risperdal", "Aripiprazole", "Abilify", "Olanzapine", "Zyprexa"],
-#     "avoidant personality disorder": ["Escitalopram", "Lexapro", "Sertraline", "Zoloft", "Paroxetine", "Paxil"]
-# }
-
 HEALTH_CONDITIONS = {
     "major depressive disorder": {
         "Fluoxetine (Prozac)": {"Starting Dose": "10-20 mg/day", "Therapeutic Dose": "20-60 mg/day"},
@@ -275,42 +254,12 @@ EDGE_CASE_SCENARIOS = [
     
 ]
 
-# NAME_REGIONS = [
-#     "bg_BG",  # Bulgarian (Bulgaria)
-#     "cs_CZ",  # Czech (Czech Republic)
-#     "de_DE",  # German (Germany)
-#     "dk_DK",  # Danish (Denmark)
-#     "el_GR",  # Greek (Greece)
-#     "en_AU",  # English (Australia)
-#     "en_CA",  # English (Canada)
-#     "en_GB",  # English (Great Britain)
-#     "en_US",  # English (United States)
-#     "es_ES",  # Spanish (Spain)
-#     "es_MX",  # Spanish (Mexico)
-#     "fa_IR",  # Persian (Iran)
-#     "fi_FI",  # Finnish (Finland)
-#     "fr_FR",  # French (France)
-#     "hi_IN",  # Hindi (India)
-#     "hr_HR",  # Croatian (Croatia)
-#     "it_IT",  # Italian (Italy)
-#     "ja_JP",  # Japanese (Japan)
-#     "ko_KR",  # Korean (South Korea)
-#     "lt_LT",  # Lithuanian (Lithuania)
-#     "lv_LV",  # Latvian (Latvia)
-#     "ne_NP",  # Nepali (Nepal)
-#     "nl_NL",  # Dutch (Netherlands)
-#     "no_NO",  # Norwegian (Norway)
-#     "pl_PL",  # Polish (Poland)
-#     "pt_BR",  # Portuguese (Brazil)
-#     "pt_PT",  # Portuguese (Portugal)
-#     "ru_RU",  # Russian (Russia)
-#     "sl_SI",  # Slovene (Slovenia)
-#     "sv_SE",  # Swedish (Sweden)
-#     "tr_TR",  # Turkish (Turkey)
-#     "uk_UA",  # Ukrainian (Ukraine)
-#     "zh_CN",  # Chinese (China)
-#     "zh_TW"   # Chinese (Taiwan)
-
+INDIGENOUS = [
+    "en_CA",  # English - Canada
+    "en_US",   # English - United States
+    "en_GB",  # English - United Kingdom
+    "en_IE",  # English - Ireland
+]
 # Middle Eastern Regions
 MIDDLE_EASTERN_REGIONS = [
     "fa_IR",  # Persian - Iran
@@ -330,7 +279,7 @@ EUROPEAN_REGIONS = [
     "en_IE",  # English - Ireland
     "es_ES",  # Spanish - Spain
     "fi_FI",  # Finnish - Finland
-    "fr_CA",  # French - Canada (often linked to Europe)
+    "fr_CA",  # French - Canada
     "fr_CH",  # French - Switzerland
     "fr_FR",  # French - France
     "hr_HR",  # Croatian - Croatia
@@ -364,7 +313,7 @@ SOUTH_ASIAN_REGIONS = [
     "en_BD",  # English - Bangladesh
     "bn_BD",  # Bengali - Bangladesh
     "hi_IN",  # Hindi - India
-    "ka_GE",  # Georgian - Georgia (sometimes culturally connected to South Asia)
+    "ka_GE",  # Georgian - Georgia
     "ne_NP",  # Nepali - Nepal
     "ta_IN"   # Tamil - India
 ]
