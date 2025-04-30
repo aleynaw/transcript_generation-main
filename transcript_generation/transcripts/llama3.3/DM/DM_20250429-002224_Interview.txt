@@ -1,0 +1,217 @@
+Assistant: Good day, I am Dr. Laura Paschoud-Cousin’s Interview Assistant and I was asked to connect with you before your appointment on August 01 at the medical clinic. My goal is to gather some background information for the doctor.
+I am an AI Assistant and in compliance with confidentiality regulations (BC Protection of Privacy), the data transmission for this interview and analysis is located in Canada, and all information I gather will be stored privately and only available for Dr. Laura Paschoud-Cousin to review. Are you comfortable with spending some time with me to collect some background information to present to the doctor?
+
+User: Yes, I'm comfortable with that. I understand it's for my appointment with Dr. Paschoud-Cousin.
+
+Assistant: Thank you for agreeing to share some background information with me. To start, could you please tell me your full name?
+
+User: My full name is Kim Mijeong.
+
+Assistant: Thank you for sharing that with me, Kim. Could you tell me your preferred name? Is it something different from your full name, or do you prefer to go by a nickname?
+
+User: I usually go by Mijeong, but some friends call me Kimmi. However, in formal settings, I prefer to use my full name, Kim Mijeong.
+
+Assistant: Thank you for sharing that with me, Kim Mijeong. Could you please tell me your date of birth?
+
+User: December 10, 2002
+
+Assistant: Thank you for letting me know your date of birth. Could you please tell me your sex?
+
+User: I'm female.
+
+Assistant: Thank you for letting me know that, Mijeong. Now, could you tell me which hand you're more comfortable using? Are you left-handed, right-handed, or do you use both hands equally?
+
+User: I'm right-handed.
+
+Assistant: Thank you for sharing that with me, Mijeong. Moving on to your living situation, could you please tell me what city or town you currently reside in?
+
+User: I live in Nicholasfort, British Columbia, Canada.
+
+Assistant: Thank you for sharing that with me, Mijeong. You mentioned earlier that you live in Nicholasfort, British Columbia, Canada. Could you tell me a bit about your marital status? Are you single, in a relationship, married, or common law?
+
+User: I'm single.
+
+Assistant: Thank you for sharing that with me, Mijeong. Do you have any children or dependents?
+
+User: No, I don't have any children.
+
+Assistant: Thank you for sharing that with me, Mijeong. Now, let's move on to your employment status. Are you currently working?
+
+User: As a student, I'm not working full-time, but I do engage in part-time or volunteer work related to education.
+
+Assistant: Thank you for clarifying that, Mijeong. Since you mentioned engaging in part-time or volunteer work related to education, could you tell me a bit more about this role? For instance, what is the name of the organization you're working with, and how long have you been involved with them?
+
+User: "I've been working part-time as a library assistant at the university for about a semester. Before that, I worked as a private tutor for high school students during summer breaks. I've been involved with these roles for about 2-3 years now, on and off, depending on my university schedule."
+
+Assistant: Thank you for sharing that information about your work experience, Mijeong. Let's move on to discuss your medical history now. Could you tell me a bit about your current doctors?
+
+User: "I'm not really sure... I don't think I've ever discussed my current doctors with anyone before. I mean, I do have some medical conditions that I see specialists for, but I'm not really sure who would be considered my 'current' doctor... I think it's the one who prescribed me Ritalin?"
+
+Assistant: Thank you for sharing that, Mijeong. I'd like to understand more about your current doctors. Could you try to recall the name of the doctor who prescribed you Ritalin?
+
+User: "I'm really sorry, but I don't think I can recall the name of the doctor who prescribed me Ritalin."
+
+Assistant: That's okay, Mijeong. It can be hard to remember specific details sometimes. Let's move on to something else. Could you tell me about any allergies you have or if there are any medications that you're allergic to?
+
+User: "I'm not really sure... I don't think I have any allergies that I know of. I've never had any bad reactions to medications or anything like that."
+
+Assistant: Thank you for sharing that with me, Mijeong. Let's move on to discuss your current medications and dosage. You mentioned earlier being prescribed Ritalin, but could you tell me more about what else you're currently taking, if anything?
+
+User: "I'm currently taking Ritalin, which I mentioned earlier, but aside from that, I also take some health supplements like probiotics, herbal supplements, and iron to help with my overall well-being."
+
+Assistant: Thank you for sharing that about your medications and supplements, Mijeong. Could you tell me more specifically about the dosages of Ritalin and these health supplements you're taking? For instance, how much do you take daily or weekly of each, and have there been any notable changes in your regimen recently?
+
+(Note: The next step will follow after this clarification is addressed by the patient.)
+
+User: "I take 20-60 mg of Ritalin per day, divided into multiple doses. As for my health supplements, I don't really measure them out specifically, but I try to take them daily. I'm not sure about the exact dosages, though. I'm sorry, I don't have the exact dosages memorized, but I'll try to find out if you need that information."
+
+Assistant: Thank you for sharing those specific details, Mijeong. I appreciate your willingness to provide more information when needed. Could you tell me a bit about any changes in your overall physical or mental health that you've noticed since starting these medications and supplements?
+
+User: "To be honest, I haven't really noticed any significant changes in my physical health since starting these medications and supplements. As for my mental health, I'd say that I've been feeling a bit more stable and focused with the Ritalin, but it's hard to pinpoint exact changes. I mean, I still have days when my anxiety gets really bad, but overall, I feel like I'm managing better than before. It's just...it's hard to explain."
+
+Assistant: Thank you for sharing that with me, Mijeong. I appreciate your honesty about how you've been feeling. Let's move on to discuss something else now. Could you tell me a bit about your frequency of nicotine, marijuana, or alcohol use? For instance, do you use any of these substances regularly, and if so, how often?
+
+User: "I don't really use nicotine or marijuana, but I do drink beer occasionally. I'd say I have a beer maybe once or twice a month when I'm out with friends."
+
+Assistant: Thank you for being honest with me about your alcohol consumption, Mijeong. I appreciate that. Moving forward, could you tell me about any significant health conditions or diagnoses you've received over the years? For instance, have you been diagnosed with diabetes, hypertension, or anything else of note?
+
+User: "I have been diagnosed with PTSD and ADHD. In my family history, my mother has depression, and my father has high blood pressure. To answer your question specifically, I haven't been diagnosed with diabetes or hypertension personally, but I do have these other conditions and family history of health issues."
+
+Assistant: Thank you for sharing that information with me, Mijeong. It's helpful to understand your health background. Now, could you tell me about any previous hospitalizations or surgeries you've had?
+
+User: "I have been hospitalized twice. Once was when I had a severe anxiety attack at 18, and I stayed in the hospital for two days. The other time was after I fell and hurt my wrist during my freshman year of university, so I had minor surgery on it."
+
+Assistant: Thank you for sharing that information with me, Mijeong. Now, let's move on to discuss your history of head injuries or concussions. Have you ever experienced any head injuries or concussions in the past?
+
+User: No, I don't think I've ever had any head injuries or concussions.
+
+Assistant: Thank you for letting me know, Mijeong. Now, let's move on to discuss another topic. Have you ever experienced any seizures in your lifetime?
+
+User: No, I've never had any seizures, at least none that I'm aware of or remember.
+
+Assistant: Thank you for letting me know that. Moving on, have you ever undergone any rehabilitation or substance counseling programs?
+
+User: No, I haven't undergone any rehabilitation or substance counselling programs, although I have been recommended to attend therapy sessions.
+
+Assistant: Thank you for letting me know that. Now, let's move on to discuss your medical history with other professionals. Have you seen any other medical professionals besides your primary doctor?
+
+User: "I'm not sure if I've seen any other medical professionals recently, but I do see my primary doctor regularly for my ADHD and PTSD conditions. I don't think I've had any recent visits with specialists or other doctors."
+
+Assistant: Thank you for letting me know. Moving on, let's talk about your family history related to mental and neurological health. Has there been a history of psychiatric conditions in other members of your family?
+
+User: "Yes, my mother has been diagnosed with depression. My father has high blood pressure, but I'm not aware of any other mental health conditions in my immediate family."
+
+Assistant: Thank you for sharing that with me. You mentioned your mother has depression; did she receive treatment or hospital care for her condition?
+
+User: "I'm not really sure... I don't think she's ever been hospitalized for it, but I know she's been seeing a doctor for medication and therapy. To be honest, we don't always talk about her condition in detail."
+
+Assistant: Thank you for sharing that with me. Let's move on to another topic. Do you have any siblings, and if so, could you tell me a bit about them?
+
+User: No, I'm an only child.
+
+Assistant: Thank you for letting me know that. Now, let's move on to discuss your early life and citizenship. Where were you born?
+
+User: I was born in Hoengseong-gun, South Korea.
+
+Assistant: Thank you for sharing that with me. If you don't mind, could you tell me the year you arrived in Canada? And are you a Canadian citizen?
+
+User: "I'm not really sure when I arrived in Canada... I don't remember the exact year. But I do know I'm a Canadian citizen."
+
+Assistant: Thank you for letting me know as much as you can remember. Now, let's discuss your early life experiences a bit more. Were there any birth complications when you were born?
+
+User: "I'm not really sure... I don't remember anything about my birth being complicated. To be honest, I've never really thought about it before."
+
+Assistant: That's okay; it can be hard to remember details from that far back. Moving on, did you develop normally as a child? For example, at what age did you start walking and talking? And were your early friendships typical of other kids around you?
+
+User: "I don't really remember when I started walking or talking... I think it was all pretty normal, though? My mom never mentioned anything out of the ordinary. As for friendships, I had friends in school, but I wouldn't say they were extremely close. I mean, we hung out and stuff, but I don't know if that's typical or not."
+
+Assistant: Thank you for sharing that with me. Now, let's move on to discuss your educational background. Did you experience any difficulties in elementary school?
+
+User: "I don't think it was too bad, but my elementary school performance was just emerging, so I guess you could say it was a bit of a struggle."
+
+Assistant: Thank you for sharing that. When you mention your performance was "just emerging," what do you mean by that exactly? Was there something specific that challenged you during those years?
+
+User: To be honest, I'm not really sure what specific challenges I faced during elementary school. My mom never mentioned anything out of the ordinary, but I do remember struggling with paying attention and sitting still for long periods. It was all pretty normal, though? I guess that's why my performance was just "emerging" at the time.
+
+Assistant: Thank you for being so open about your experiences. Let's move on to discuss your high school years a bit more. What was your average mark in high school, and was there a particular topic or class that really stood out to you?
+
+User: "I don't have an exact average mark to share, but my high school performance was considered 'extending'. As for a particular topic or class that stood out, I think it was Korean literature – I really enjoyed studying it. I'm sorry I don't have the exact numbers, but my mom always said I did well in high school..."
+
+Assistant: Thank you for sharing your experiences with Korean literature; it's helpful to know what subjects interest you. Let's move on. Did you pursue any further education after high school, and if so, where did you study, and what type of studies did you undertake?
+
+User: "Yes, I pursued further education after high school. I'm currently studying at a university, and as part of my studies, I've also worked part-time as a library assistant for one semester. I'm studying to become an Education officer, community, but I don't have any specific details about my university degree yet."
+
+Assistant: Thank you for sharing your educational background with me. I'd like to move on to discuss your personal life a bit more. Can you tell me about your siblings, if you have any?
+
+User: "I don't have any siblings."
+
+Assistant: Thank you for letting me know. Now, could you tell me a bit about your previous work history? Have you had any jobs prior to your current role or studies?
+
+User: "Yes, I've had a couple of jobs before my current studies. I worked part-time as a library assistant at the university for one semester, and during summer breaks, I also worked as a private tutor for high school students."
+
+Assistant: Thank you for sharing your work experience with me. Now, I'd like to discuss your relationships a bit more. Have you had any previous marriages or long-term relationships?
+
+User: "I haven't been married before, but I did have a brief romantic relationship during my sophomore year. It only lasted for about six months."
+
+Assistant: Thank you for sharing that with me. Now, could you tell me about your hobbies? Are there any specific activities or things you enjoy doing in your free time?
+
+User: "I enjoy doing a few things in my free time. I like reading Korean literature, which is something that I've always been interested in since high school. I also listen to K-pop music and try to practice yoga whenever I can."
+
+Assistant: Thank you for sharing your hobbies with me. Now, I'd like to talk about what you do to relax on a stressful day. Can you describe how you typically unwind when feeling stressed or overwhelmed?
+
+User: "When I'm feeling stressed or overwhelmed, I usually try to calm down by listening to calming music. Sometimes, I'll also practice some deep breathing exercises or take a short walk around the campus if I need some fresh air."
+
+Assistant: Thank you for sharing your relaxation techniques with me; that's helpful to know what works best for you. Now, I'd like to move on to something else. Is there anything you think the doctor needs to know about your situation or any concerns you might have?
+
+User: "I think the doctor should know that I have been experiencing some symptoms of post-traumatic stress disorder and attention-deficit/hyperactivity disorder, which can sometimes be overwhelming. To be honest, I'm concerned about managing my anxiety and stress levels, especially during exams or when dealing with difficult situations. I hope we can discuss ways to address these concerns."
+
+Assistant: <STOP>
+
+Assistant: Here are the edited notes:
+
+**Personal Details**
+
+* Full name: Kim Mijeong
+* Preferred name: Mijeong (informal), Kim Mijeong (formal); nickname: Kimmi
+* Date of birth: December 10, 2002
+* Sex: Female
+* Handedness: Right-handed
+* Marital Status: Single
+* Dependents: No children or dependents
+
+**Medical History**
+
+* Current doctors: Unsure, but sees specialists and a doctor who prescribed Ritalin
+* Allergies: Unknown
+* Current medications and supplements: Ritalin (20-60 mg per day), probiotics, unspecified herbal supplements, and iron
+* Diagnosed conditions: PTSD and ADHD
+* Previous hospitalizations: Two instances - one due to severe anxiety attack at age 18 (2-day stay) and another due to a wrist injury requiring minor surgery
+* Head injury history: No known head injuries or concussions
+* Seizure history: No known seizure episodes
+
+**Family History**
+
+* Mother's depression treatment: Medication and therapy from a doctor
+* Family history of psychiatric conditions: Mother has depression; Father has high blood pressure (not a psychiatric condition)
+
+**Education and Work Experience**
+
+* Elementary school experience: Difficulty with focus and remaining seated during lessons
+* High school performance: "Extending"; favorite subject is Korean literature
+* Further education: Pursuing higher education at a university to become an Education officer
+* Part-time work experience: Library assistant at a university and private tutoring for high school students
+
+**Personal Life**
+
+* Hobbies: Reading Korean literature, listening to K-pop music, practicing yoga
+* Relaxation techniques: Listening to calming music, practicing deep breathing exercises, and taking short walks when needed
+* Previous marriages/long term relationships: No previous marriages; had one brief romantic relationship in sophomore year lasting six months
+
+**Key Points for the Doctor's Awareness**
+
+* Patient is experiencing symptoms of PTSD and ADHD
+* Patient is concerned about managing anxiety and stress levels
+
+Thank you for your time, Kim Mijeong.
+
+<STOP>

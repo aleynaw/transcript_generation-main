@@ -1,0 +1,227 @@
+Assistant: Good day, I am Dr. Kun Lee’s Interview Assistant and I was asked to connect with you before your appointment on July 21 at the medical clinic. My goal is to gather some background information for the doctor.
+I am an AI Assistant and in compliance with confidentiality regulations (BC Protection of Privacy), the data transmission for this interview and analysis is located in Canada, and all information I gather will be stored privately and only available for Dr. Kun Lee to review. Are you comfortable with spending some time with me to collect some background information to present to the doctor?
+
+User: Yes, I'm comfortable with sharing some background information with you... I think it's necessary to help the doctor understand me better.
+
+Assistant: Thank you for being open with me about sharing your background. Now, let's start with some general information to help Dr. Kun Lee better understand your situation. Could you please tell me your full name?
+
+User: My full name is Slávka Cibulová.
+
+Assistant: Thank you for sharing that with me, Slávka. Now, could you please tell me your preferred name?
+
+User: "I don't really have a different preferred name; people usually just call me Slávka."
+
+Assistant: Thank you for clarifying that, Slávka. Now, could you please tell me your date of birth?
+
+User: My date of birth is October 16, 2000.
+
+Assistant: Thank you for sharing that with me, Slávka. Now, could you please tell me your sex?
+
+User: My sex is Female.
+
+Assistant: Thank you for letting me know, Slávka. To continue gathering some general information, could you tell me about your handedness? Are you left-handed, right-handed, or do you use both hands equally?
+
+User: I'm ambidextrous, which means I use both hands equally.
+
+Assistant: Thank you for sharing that with me, Slávka. Now, could you please tell me about your current city or town of residence?
+
+User: My current city or town of residence is South Jennifertown in British Columbia, Canada.
+
+4. Check for Clarity:
+   The response seems clear and directly answers the assistant's question. No additional clarification or emotion is needed in this case.
+
+5. Answer the Question:
+   ANSWER: My current city or town of residence is South Jennifertown in British Columbia, Canada.
+
+Assistant: Thank you for sharing that with me, Slávka. Now, could you please tell me about your marital status? Are you single, in a relationship, married, or common law?
+
+User: I am single.
+
+Assistant: Thank you for sharing that with me, Slávka. Could you tell me if you have any children or dependents?
+
+User: No, I don't have any children.
+
+Assistant: Thank you for sharing that with me. Let's move on to discuss your employment status. Are you currently working?
+
+User: Yes, I am currently working as a children's nurse.
+
+Assistant: Thank you for sharing that with me. Could you please tell me more about your work? What is the name of the company or hospital where you're working, and how many years have you been working there?
+
+User: "I'm currently working as a children's nurse at a local hospital in British Columbia. Since I don't have any previous work history, this is my first job, and I've been working here for about... *counts on fingers* ...four years now, I think."
+
+Assistant: Thank you for sharing that with me. Now, I'd like to ask about any assistance you may be receiving. Are you currently receiving any disability assistance?
+
+User: No, I'm not currently receiving any disability assistance. To be honest, I don't consider myself disabled either.
+
+Assistant: Thank you for letting me know. Let's move on to discuss your medical history now. Could you please tell me about your current doctors, including their names and specialties?
+
+User: "I have one current doctor, his name is Stuart Brooks."
+
+Assistant: Thank you for sharing that with me. Could you please tell me a bit more about Dr. Brooks? What is his specialty, and what kind of care does he provide to you?
+
+Please wait for the patient's response before proceeding further.
+
+User: "I'm not entirely sure what Dr. Brooks' specialty is, but I think he's a psychiatrist. He's been helping me with my medication management for my anxiety disorders."
+
+Assistant: Thank you for sharing that with me. I understand it can be a bit unclear sometimes. Now, could you tell me if you have any allergies to medications or substances?
+
+User: "I don't think I have any allergies to medications or substances... at least, none that I know of. But to be honest, I've never really thought about it too much either."
+
+Assistant: Thank you for sharing your thoughts about allergies. Since it's possible that you might have undiagnosed allergies, I'd like to note that down and move on. Let's discuss your current medications in more detail. Could you please tell me what specific medications you're taking under Dr. Brooks' guidance for anxiety disorders, including the dosages if you remember them?
+
+User: I'm currently taking two medications under Dr. Brooks' guidance: Sertraline (Zoloft) at 50 mg per day and Venlafaxine (Effexor) at 75 mg per day.
+
+Assistant: Thank you for sharing that with me. Could you please tell me a bit about any health supplements or vitamins you're taking, aside from your prescribed medications?
+
+User: I don't think I'm taking any health supplements or vitamins aside from my prescribed medications.
+
+Assistant: Thank you for letting me know. Now, could you tell me a bit about your habits with nicotine, marijuana, or alcohol? Do you use any of these substances regularly, and if so, how often do you typically consume them?
+
+User: "Yes, I have used these substances in the past. Specifically, I've consumed beer and wine on occasion, and also tried psychedelics a few times. Additionally, I've had cigarettes before but don't smoke regularly. However, it's worth noting that I've received outpatient therapy for substance abuse from 2018 to 2020 at the Slovakian National Health Service."
+
+Assistant: Thank you for sharing that with me. Now, could you tell me about any health conditions or diagnoses you've received in the past? For example, have you been diagnosed with diabetes, hypertension, or anything else?
+
+User: Yes, I have been diagnosed with avoidant personality disorder and social anxiety disorder. Additionally, my family members have various health conditions such as depression, anxiety, heart disease, high blood pressure, and ADHD.
+
+Assistant: Thank you for sharing that with me. Now, could you tell me about any previous hospitalizations or surgeries you've had?
+
+User: Yes, I have been hospitalized twice. The first time was in 2015 when I had to undergo a minor surgical procedure for appendicitis at University Hospital Bratislava. The second hospitalization occurred in 2019 due to a panic attack, and I received treatment at South Johannatown General Hospital.
+
+Assistant: Thank you for sharing those details with me. Now, I'd like to move on to discussing your neurological and mental health history in more detail. Have you ever had a head injury or concussion that required medical attention?
+
+User: No, I have not had a head injury or concussion that required medical attention.
+
+Assistant: Thank you for letting me know. Now, could you tell me about any history of seizures? Have you ever experienced a seizure that required medical attention?
+
+User: No, I don't think I've ever had seizures.
+
+Assistant: Thank you for sharing that with me. Now, have you ever been in a rehabilitation program or received counseling for substance use?
+
+User: Yes, I have been in outpatient therapy for substance abuse at the Slovakian National Health Service from 2018 to 2020.
+
+Assistant: Thank you for sharing that information with me. Now, I'd like to move on to discussing your family history. Have other medical professionals been involved in your care at any point?
+
+User: Yes, my current doctor is Stuart Brooks, and I have been hospitalized twice under different medical professionals' care.
+
+Assistant: Thank you for letting me know about Stuart Brooks and your hospitalizations. Before we move forward, could you provide a bit more detail about these other medical professionals involved in your care?
+
+User: "I was treated by different medical professionals during my hospitalizations. In 2015, I was hospitalized at the University Hospital Bratislava for an appendicitis treatment, and in 2019, I was treated at the South Johannatown General Hospital for a panic attack."
+
+Assistant: Thank you for sharing that information with me. Now, I'd like to discuss your family history a bit more. Have any other family members had psychiatric conditions or received treatment or hospital care?
+
+User: "Yes, my mother has struggled with depression and anxiety. I'm not sure if she's received formal treatment, but I know it's been an ongoing issue for her. My brother has ADHD, and he's been receiving treatment for that."
+
+Assistant: Thank you for sharing that with me. Now, I'd like to ask about any family history of neurological or genetic conditions. Have any other family members been diagnosed with such conditions, and if so, did they receive treatment or hospital care?
+
+User: "I don't think so... I mean, I know my mom has depression and anxiety, and my dad has heart disease and high blood pressure, but those aren't really neurological or genetic conditions. And my brother has ADHD, but like I said before, he's been receiving treatment for that."
+
+Assistant: Just to make sure I understand correctly - besides your mother's depression and anxiety, and your brother's ADHD, there aren't any other family members with known neurological or genetic conditions that you're aware of?
+
+User: "No, I don't think so. Like I mentioned before, my mom has depression and anxiety, and my dad has heart disease and high blood pressure, but those aren't really neurological or genetic conditions that I'm aware of. And my brother's ADHD is the only other condition I know of in our family."
+
+Assistant: Thank you for clarifying that for me. Moving on, could you tell me a bit more about your siblings? Do you have any brothers or sisters?
+
+User: I have one sibling, a younger brother. He's currently 20 years old and studying computer science at Comenius University in Bratislava.
+
+Assistant: Thank you for sharing that information with me. Now, I'd like to ask about your early life and citizenship. Where were you born?
+
+User: I was born in Sládkovičovo, Slovakia.
+
+Assistant: Thank you for sharing that with me. Now, I'd like to ask about your citizenship. Are you a Canadian citizen?
+
+User: No
+
+Assistant: Thank you for letting me know. If outside Canada, could you tell me what year you arrived in Canada?
+
+User: "I'm not sure... I don't really remember when I arrived in Canada."
+
+Assistant: Thank you for letting me know. Don't worry about remembering exact dates; it can be difficult to recall specific details from a long time ago. Moving on, were there any birth complications during your delivery?
+
+User: "I'm not aware of any birth complications during my delivery."
+
+Assistant: Thank you for letting me know. Now, I'd like to ask about your development at a young age. Did you walk, talk, and develop friendships like other kids?
+
+User: "I mostly had a normal childhood in terms of making friends and playing with others. I don't really remember any issues with walking or talking... at least, my parents never mentioned anything unusual."
+
+Assistant: Thank you for sharing that. Now, let's move on to your education history. Did you experience any difficulties in elementary school?
+
+User: No, I didn't experience any major difficulties in elementary school. According to my records, my performance was "on track".
+
+Assistant: Thank you for sharing that about your elementary school experience. Moving on to high school, what was your average mark, and did you have a favorite topic or class?
+
+User: "To be honest, I don't really remember much about my grades or favorite topics in high school. But what I do remember is hanging out with friends and trying to navigate social situations. It was a bit challenging for me, especially since I've always been someone who struggles with anxiety and making connections with others."
+
+Assistant: Thank you for sharing that about your high school experience. It helps me understand more about your background. Now, I'd like to ask if you pursued any further education after high school?
+
+User: Yes, I am currently pursuing a university degree.
+
+Assistant: Thank you for sharing that. Could you tell me more about your university studies? Specifically, what type of studies are you pursuing and at which institution?
+
+User: "I'm currently pursuing a degree related to nursing, but I'd rather not go into details about the institution or specific courses."
+
+Assistant: Thank you for sharing that about your nursing degree. I understand that you'd rather not go into more details, and I appreciate your honesty. Moving on to a different topic, could you tell me about your previous work history? Have you had any jobs prior to pursuing your degree?
+
+User: No, I don't have any previous work history prior to pursuing my degree.
+
+Assistant: Thank you for letting me know. Moving forward, I'd like to talk about your relationships and employment history a bit more. Have you ever been in any previous marriages or long-term relationships?
+
+User: Yes, I was in a long-term relationship for about three years.
+
+Assistant: Thank you for sharing that about your previous long-term relationship. Could you tell me a bit more about what you do in your free time? Do you have any hobbies or activities that help you relax and enjoy yourself?
+
+User: "Yes, I enjoy doing various things in my free time to help me unwind and relax. I find solace in reading books, especially those that allow me to escape into different worlds. Hiking is another activity that helps me clear my mind and connect with nature. I also appreciate creating art through painting and playing the guitar, as it allows me to express myself creatively. Additionally, I practice meditation, deep breathing exercises, and listen to classical music to calm my mind and soothe my anxiety."
+
+Assistant: Thank you for sharing that about your previous long-term relationship. Now, I'd like to talk a bit more about what you do to relax on stressful days. You mentioned earlier enjoying reading books and hiking. What specifically do you find relaxing or enjoyable when engaging in these activities?
+
+User: "I think what I find most enjoyable about reading is getting lost in different worlds and stories. It helps me escape from reality for a bit and clear my mind. As for hiking, being out in nature has always been calming for me. There's something about breathing fresh air and listening to the sounds of birds chirping that just soothes my anxiety."
+
+Assistant: Thank you for sharing that. Now, let's move on to the final part of our conversation. Is there anything else that you think the doctor needs to know about your mental health history or current experiences?
+
+User: "Actually, yes. I think it's worth mentioning that I've struggled with anxiety and depression in the past, particularly during my long-term relationship from 2017 to 2020. While I'm currently taking medication for avoidant personality disorder and social anxiety disorder, I sometimes worry about relapsing into old patterns or struggling with new challenges as a nursing student. However, I'm working hard to maintain my mental health through self-care activities like meditation, deep breathing exercises, and creative pursuits."
+
+Assistant: <STOP>
+
+Assistant: Here are the edited notes:
+
+**Patient Information**
+
+* Full name: Slávka Cibulová
+* Preferred name: Slávka
+* Date of birth: October 16, 2000
+* Sex: Female
+* Handedness: Ambidextrous
+
+**Residence and Employment**
+
+* Current city/town of residence: South Jennifertown, British Columbia, Canada
+* Marital Status: Single
+* Employment status: Currently working as a children's nurse at a local hospital in British Columbia for approximately four years
+
+**Medical History**
+
+* Disability assistance status: No current receipt of disability assistance; patient does not identify as disabled
+* Current doctor: Dr. Stuart Brooks (specialty believed to be psychiatry)
+* Allergies: Patient is unaware of any medication or substance allergies
+* Current medications:
+	+ Sertraline (Zoloft) - 50 mg/day
+	+ Venlafaxine (Effexor) - 75 mg/day
+* Diagnosed health conditions: Avoidant personality disorder and social anxiety disorder
+
+**Family Medical History**
+
+* Mother with depression and anxiety
+* Brother with ADHD receiving treatment
+* Father has heart disease/high blood pressure
+
+**Substance Use History**
+
+* Patient has used beer, wine, psychedelics, and cigarettes in the past
+* Received outpatient therapy for substance abuse from 2018-2020
+
+**Mental Health Struggles**
+
+* Patient has experienced anxiety and depression in the past, specifically during a long-term relationship from 2017 to 2020
+
+Thank you, Slávka, for taking the time to share this information with us.
+
+<STOP>

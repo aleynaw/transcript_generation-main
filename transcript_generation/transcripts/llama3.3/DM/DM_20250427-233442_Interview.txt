@@ -1,0 +1,201 @@
+Assistant: Good day, I am Dr. Rosaria Mogherini’s Interview Assistant and I was asked to connect with you before your appointment on December 04 at the medical clinic. My goal is to gather some background information for the doctor.
+I am an AI Assistant and in compliance with confidentiality regulations (BC Protection of Privacy), the data transmission for this interview and analysis is located in Canada, and all information I gather will be stored privately and only available for Dr. Rosaria Mogherini to review. Are you comfortable with spending some time with me to collect some background information to present to the doctor?
+
+User: "Yes, I'm comfortable with spending some time discussing background information... I just hope it won't take too long or be too invasive. I want to make sure I'm prepared for my appointment with Dr. Mogherini."
+
+Assistant: Thank you for sharing your thoughts, and I completely understand your concerns. This conversation should take about 30 minutes, and we will only discuss topics relevant to your appointment with Dr. Mogherini. Let's get started! Could you please share your full name with me?
+
+User: "My full name is Olivia Gonzalez Olivera."
+
+Assistant: Thank you for sharing your full name with me, Olivia. Could you please tell me what name you prefer to be called by?
+
+User: You can call me Olivia, please.
+
+Assistant: That's helpful, thank you. Now, could you please tell me your date of birth?
+
+User: "I was born on April 12, 1990."
+
+Assistant: Thank you for sharing that with me, Olivia. To continue, could you please tell me your sex?
+
+User: I am Female.
+
+Assistant: Thank you for sharing that with me, Olivia. To continue, could you please tell me your handedness? Are you left-handed, right-handed, or do you use both hands equally?
+
+User: "I'm ambidextrous, which means I use both hands equally."
+
+Assistant: Thank you for letting me know, Olivia. Now, could you please tell me what city or town you currently reside in?
+
+User: "I currently reside in Tylerbury."
+
+Assistant: Thank you for sharing that with me. To continue, could you please tell me about your marital status? Are you single, in a relationship, married, or common law?
+
+User: I am married.
+
+Assistant: Thank you for sharing that with me, Olivia. Now, do you have any children or dependents?
+
+User: Yes, I have two children, ages 7 and 9. They are both in elementary school.
+
+Assistant: Thank you for sharing that with me, Olivia. If I may ask a bit more about your children, what are their names?
+
+User: "I'd prefer not to share their names if that's okay with you."
+
+Assistant: I completely understand, Olivia. Thank you for letting me know that's a sensitive topic. Let's move on to discuss another area of your life. Are you currently working?
+
+User: "Yes, I am currently working as a theatre stage manager. It's been a fulfilling career for me so far."
+
+Assistant: Thank you for sharing that with me, Olivia. Could you tell me more about your current company? What is the name of the theatre where you work, and how many years have you been working there?
+
+User: "I work as a stage manager for a local theatre company in Tylerbury, British Columbia. I've been with the company for several years now, but I'm not sure of the exact number offhand."
+
+Assistant: Thank you, Olivia, for sharing that about your job. Would you mind trying to estimate approximately how many years you've been working there? If not, we can move on to other topics.
+
+User: Hmm, let me think... I'd say around 5-7 years? I'm not entirely sure, but that's my rough estimate."
+
+Assistant: Thank you for taking the time to think about that, Olivia. Now, let's move on to discuss another aspect of your life. Are you currently receiving any disability assistance?
+
+User: No, I am not currently receiving any disability assistance.
+
+Assistant: That’s helpful to know, Olivia. Now, let's move on to discuss your medical history. Could you tell me a bit more about your current doctors? Do you have a primary care physician and any specialists that you regularly see?
+
+User: "Yes, my current doctor is Dr. Tsuyoshi Katsuragi. If I recall correctly, he is my primary care physician, and I also see specialists as needed for my specific conditions, but I don't have any other regular specialists at this time."
+
+Assistant: Thank you for sharing that with me, Olivia. That's helpful information about your medical team. Now, could you tell me a bit more about any allergies you might have?
+
+User: "Yes, I do have allergies to fragrances and latex."
+
+Assistant: Thank you for letting me know about your allergies, Olivia. Could you tell me a bit more about any current medications you're taking and their dosage?
+
+User: "I am currently taking three medications: Escitalopram, also known as Lexapro, at a dosage of 10 milligrams per day; Sertraline, or Zoloft, at 50 milligrams per day; and Paroxetine, or Paxil, at 20 milligrams per day."
+
+Assistant: Thank you for sharing that information about your medications with me. Could you tell me a bit more about any health supplements you might be taking?
+
+User: "I am currently taking turmeric/curcumin and probiotics as health supplements."
+
+Assistant: Thank you for sharing that with me. Now, could you tell me a bit about your use of nicotine, marijuana, and alcohol? How frequently do you consume these substances?
+
+Please let me know how I should proceed based on the patient's response.
+
+User: "To be honest, I don't really consume those substances frequently. I'm more focused on managing my anxiety and OCD symptoms through medication and therapy. But if you'd like to know more, I can try to provide some information."
+
+Assistant: Thank you for being open about your substance use habits, Olivia. That helps a lot. Now, could you tell me more about any health conditions or diagnoses you've received?
+
+User: "Yes, I've been diagnosed with generalized anxiety disorder, binge-eating disorder, and obsessive-compulsive disorder. These conditions have been a significant part of my life, and I'm working to manage them through therapy and medication."
+
+Assistant: Thank you so much for sharing this with me, Olivia. That takes a lot of courage. Could you tell me more about when these diagnoses were made? Additionally, I'd like to explore another area – have you ever been hospitalized or had any surgeries in your past?
+
+User: "I was diagnosed with generalized anxiety disorder, binge-eating disorder, and obsessive-compulsive disorder... I'm not sure when exactly, but I think it was around my mid-twenties. As for hospitalizations or surgeries, yes, I've been hospitalized twice for severe depressive episodes - once in 2015 and again in 2020. I also had surgery in 2018 to repair a torn ligament from a sports injury."
+
+Assistant: Thank you for sharing that information with me, Olivia. I can imagine it's not easy to talk about these experiences. Now, if you're comfortable doing so, could you tell me a bit about any head injuries or concussions you've had in the past?
+
+User: "I've had two concussions in the past - one when I was 22 years old, which happened during a car accident, and another at age 30, when I fell while hiking."
+
+Assistant: Thank you for sharing those details with me. Now, I'd like to ask if either of these concussions resulted in any significant changes or symptoms that persisted over time?
+
+User: "As far as I can recall, neither concussion resulted in any persistent changes or symptoms that stood out to me. Of course, I may be forgetting something, but overall, I feel like I recovered pretty well from both incidents."
+
+Assistant: Thank you for sharing that information with me, Olivia. Moving on, I'd like to discuss another topic. Have you ever experienced any seizures or conditions that may have caused seizures in your past?
+
+User: "I'm not aware of having experienced any seizures or conditions that may have caused seizures in my past."
+
+Assistant: Thank you for sharing that information with me, Olivia. I'd like to ask about your history of rehab or substance counseling. Have you ever participated in any rehabilitation programs or sought counseling for substance use?
+
+User: "I'm quite certain that I've never sought counseling for substance use, and I'm not aware of having participated in any rehabilitation programs for such issues. My focus has been more on managing my anxiety and other conditions with the help of Dr. Katsuragi."
+
+Assistant: Thank you for sharing that information with me, Olivia. I'd like to ask about your family history now. Have there been any psychiatric conditions in other family members?
+
+User: "Yes, there have been psychiatric conditions in other family members. My mother has struggled with generalized anxiety disorder, my father has obsessive-compulsive disorder, and my older sibling has dealt with depression."
+
+Assistant: Thank you for sharing that with me, Olivia. Could you tell me a bit more about your siblings? For example, how many do you have, and what are their ages?
+
+User: I have one sibling, an older brother who is currently 37 years old. He works as an engineer.
+
+Assistant: Thank you for sharing that information with me, Olivia. I'd like to ask about your early life and citizenship now. Where were you born?
+
+User: I was born in Santa Fe, Argentina.
+
+Assistant: Thank you for sharing that with me, Olivia. Since you were born in Argentina, could you tell me what year you arrived in Canada? Are you currently a Canadian citizen?
+
+User: "I don't recall the exact year I moved to Canada, but I know it was sometime after I got married. I've been living here with my family for several years now, and I'm proud to be a Canadian citizen."
+
+Assistant: I appreciate you sharing that with me. Since you were born outside of Canada, could you tell me what year you arrived in this country?
+
+User: "I apologize, but I don't recall the exact year I arrived in Canada. It was sometime after I got married, and I've been living here with my family for several years now."
+
+Assistant: That’s okay if you don’t remember the exact year. It can be tricky to keep track of dates over time. Let's move on to another topic. Were there any complications during your birth that you're aware of, or did everything go smoothly?
+
+User: "I'm not aware of any complications during my birth. As far as I know, everything went smoothly."
+
+Assistant: That's helpful to know, thank you. Now, could you tell me a bit about your early development? For example, did you walk, talk, and develop friendships like other kids at a young age?
+
+User: "I don't recall anything out of the ordinary about my early development. As far as I know, I walked and talked at a normal age. In school, I performed well in elementary school and was proficient in high school."
+
+Assistant: Thank you for sharing that. Moving forward in your educational journey, did you pursue any further education after high school? If so, where and what type of studies did you undertake?
+
+User: "Yes, I pursued further education after high school. I completed a post-secondary certificate or diploma."
+
+Assistant: Thank you for sharing that. Moving forward to your work experience, could you tell me about your previous work history? If yes, please provide details such as company names and years of employment?
+
+User: "I worked part-time as a waitress during high school and later became a stagehand for a local theatre company before becoming a full-time theatre stage manager. Unfortunately, I don't recall specific company names or exact years of employment."
+
+Assistant: Thank you for sharing your work experience with me. I'd like to explore another area now. Could you tell me a bit about any previous marriages or long-term relationships?
+
+User: "I've been married to my current spouse since 2012. Before this marriage, I was in a long-term relationship from 2008 to 2010."
+
+Assistant: Thank you for sharing that with me. I'd like to move on to another area now. Could you tell me a bit about your hobbies?
+
+User: "I enjoy reading, especially fiction novels, as it allows me to escape reality for a while. I also try to go hiking whenever I can, usually during weekends or days off, as being in nature helps calm my mind. Additionally, practicing yoga has become an essential part of my daily routine; it helps me relax and maintain focus throughout the day."
+
+Assistant: Thank you for sharing your hobbies with me. Now, could you tell me a bit about what you do to relax on a stressful day?
+
+User: "I find solace in listening to classical music when I'm feeling stressed or overwhelmed. It helps me calm down and clear my mind. Additionally, taking a long bath with some calming essential oils also does wonders for my mental well-being. Lastly, meditating has become an integral part of my daily routine; it allows me to focus on the present moment and release any pent-up anxiety."
+
+Assistant: Thank you for sharing those relaxation techniques with me. Finally, is there anything else you think the doctor needs to know about your situation or any other information that might be helpful for us to understand?
+
+User: "I think it would be helpful for the doctor to know about my past trauma experiences, which might be contributing to some of my current mental health struggles. Additionally, given my family history of anxiety disorders, obsessive-compulsive disorder, and depression, I'm concerned that these conditions could impact my children or other family members in the future. I'd appreciate it if the doctor could consider these factors when assessing my situation and developing a treatment plan that addresses not only my current needs but also potential future risks."
+
+Assistant: <STOP>
+
+Assistant: Here is the edited version of the notes:
+
+Comfort level: The patient is generally comfortable but has expressed concerns about the length and invasiveness of the conversation.
+
+Full name: Olivia Gonzalez Olivera.
+Preferred name: Olivia.
+Date of Birth: April 12, 1990.
+Sex: Female
+Handedness: The patient is ambidextrous, meaning they use both hands equally.
+Marital status: Married.
+Children/dependents: Two children aged 7 and 9 who are in elementary school.
+Current employment status: Patient is currently employed as a theatre stage manager; finds their job fulfilling.
+Current employment: Patient works as a stage manager at a local theatre company in Tylerbury, British Columbia; duration of work is several years, but exact length is unspecified.
+Years working at current company: Patient estimates approximately 5-7 years.
+Disability assistance status: Not currently receiving any disability assistance.
+Current doctors: Primary care physician is Dr. Tsuyoshi Katsuragi; occasionally sees specialists as necessary.
+Allergies: Patient has confirmed allergies to fragrances and latex.
+Medication usage: Patient is taking three medications - Escitalopram (Lexapro) 10mg/day, Sertraline (Zoloft) 50mg/day, and Paroxetine (Paxil) 20mg/day.
+Health supplements: Turmeric/Curcumin and Probiotics.
+Substance use frequency: Patient reports infrequent consumption of nicotine, marijuana, and alcohol; focuses on managing mental health symptoms instead.
+Diagnosed health conditions: Generalized anxiety disorder, binge-eating disorder, and obsessive-compulsive disorder (OCD). Conditions are being managed with therapy and medication.
+Diagnosis timeline: Diagnoses were made around mid-twenties; exact dates unknown.
+Hospitalization/surgery history:
+     - Hospitalized twice for severe depressive episodes (2015, 2020).
+     - Surgery in 2018 to repair torn ligament from a sports injury.
+Head injuries/concussions: Two incidents - one at 22 due to a car accident and one at 30 from a fall while hiking.
+Concussion outcomes: No persistent changes or symptoms were noticed by the patient after either concussion incident.
+History of seizures: Patient reports no known history of seizures or seizure-causing conditions.
+History of rehab or substance counselling: Patient reports no history of seeking counseling for substance use or participating in rehabilitation programs, focusing instead on managing anxiety and other conditions under a doctor's care.
+Family history of psychiatric conditions: Mother with generalized anxiety disorder; Father with obsessive-compulsive disorder; Older sibling with depression.
+Sibling information: One older brother, age 37, occupation: Engineer.
+Birthplace: Patient was born in Santa Fe, Argentina.
+Year of arrival in Canada: Patient does not recall the exact year but mentions it was sometime after getting married.
+Birth complications: None known or reported by patient.
+Early development and education: The patient reports typical developmental milestones (walking, talking) and had academic success from elementary to high school.
+Education: Completed a post-secondary certificate or diploma.
+Previous work history: Part-time waitress and stagehand; transitioned to a full-time stage manager in the theatre industry, but lacks specifics on companies and dates.
+Marital history: Married to current spouse since 2012; previous long-term relationship from 2008-2010.
+Hobbies: Patient enjoys reading (fiction novels), hiking, and practicing yoga as a way to relax and manage stress.
+Relaxation techniques: Listening to classical music, taking a long bath with calming essential oils, and meditating are used to relax and manage stress.
+
+Thank you for your time, Olivia. It was helpful to have this conversation with you.
+
+<STOP>

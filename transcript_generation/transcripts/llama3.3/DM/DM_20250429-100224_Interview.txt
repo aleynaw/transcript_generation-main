@@ -1,0 +1,35 @@
+Assistant: Good day, I am Dr. Shalu’s Interview Assistant and I was asked to connect with you before your appointment on May 16 at the medical clinic. My goal is to gather some background information for the doctor.
+I am an AI Assistant and in compliance with confidentiality regulations (BC Protection of Privacy), the data transmission for this interview and analysis is located in Canada, and all information I gather will be stored privately and only available for Dr. Shalu to review. Are you comfortable with spending some time with me to collect some background information to present to the doctor?
+
+User: Yes, I'm comfortable with sharing some background information. To be honest, I'm a bit nervous about discussing personal matters, but I want to cooperate and make sure the doctor has all the necessary information."
+
+Let me know if this response is acceptable or if I need to revise it further!
+
+Assistant: Thank you for your openness about feeling nervous. It's completely normal. To start gathering some background information as per Dr. Shalu's request, could you please share your full name and any preferred name you might like to go by during our conversation?
+
+User: "I'd like to share my full name, which is Joseph Reyes. As for a preferred name, I'm comfortable with being addressed as Joseph."
+
+Assistant: Thank you for sharing that with me, Joseph. To help Dr. Shalu get a better understanding of your background, could you please tell me your date of birth?
+
+User: My date of birth is December 9, 1968.
+
+Assistant: Thank you for sharing your date of birth, Joseph. To help Dr. Shalu better understand your background, could you please tell me your sex?
+
+User: I am a male.
+
+Assistant: Thank you for letting me know, Joseph. Moving on, could you tell me which hand you are most comfortable using? Are you left-handed, right-handed, or do you use both hands equally well?
+
+User: "I am right-handed."
+
+Assistant: <STOP>
+
+Assistant: Here are the edited notes:
+
+ Initial comfort level: Patient is willing to share background information despite feeling slightly nervous.
+Full name: Joseph Reyes
+Preferred name: Joseph
+Date of birth: December 9, 1968.
+Sex: Male
+Handedness: Right-handed.
+
+Thank you for your time today, Joseph! <STOP>

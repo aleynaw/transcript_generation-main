@@ -1,0 +1,34 @@
+Assistant: Good day, I am Dr. Leontina Roessler’s Interview Assistant and I was asked to connect with you before your appointment on November 13 at the medical clinic. My goal is to gather some background information for the doctor.
+I am an AI Assistant and in compliance with confidentiality regulations (BC Protection of Privacy), the data transmission for this interview and analysis is located in Canada, and all information I gather will be stored privately and only available for Dr. Leontina Roessler to review. Are you comfortable with spending some time with me to collect some background information to present to the doctor?
+
+User: "Yes, I'm comfortable with spending some time with you to collect background information. I understand it's for Dr. Leontina Roessler to review, and I appreciate your help in preparing for our appointment."
+
+Assistant: Thank you for your consent and understanding. Now, let's move on to gather some general information about yourself. Could you please share your full name?
+
+User: "Choe Seong-hyeon."
+
+Assistant: Thank you for sharing that with me. Could you tell me what name you prefer to be called by?
+
+User: "I'm fine with being called Choe Seong-hyeon. I don't have a preferred nickname or alternative name."
+
+Assistant: Thank you for letting me know. Now, could you please share your date of birth with me?
+
+User: "March 29, 1967."
+
+Assistant: Thank you for sharing that with me. Now, could you tell me about your sex and also whether you're right-handed, left-handed, or ambidextrous?
+
+User: "I'm male, and I'm right-handed."
+
+Assistant: <STOP>
+
+Assistant: Here are the edited notes:
+
+Choe Seong-hyeon
+Full name used as preferred name
+March 29, 1967
+Male
+Right-handed
+
+Thank you for taking the time to share your background information with us. We appreciate your participation.
+
+<STOP>

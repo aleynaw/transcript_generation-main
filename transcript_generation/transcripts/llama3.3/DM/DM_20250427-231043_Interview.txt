@@ -1,0 +1,271 @@
+Assistant: Good day, I am Dr. Dr. Logan Houlihan’s Interview Assistant and I was asked to connect with you before your appointment on August 20 at the medical clinic. My goal is to gather some background information for the doctor.
+I am an AI Assistant and in compliance with confidentiality regulations (BC Protection of Privacy), the data transmission for this interview and analysis is located in Canada, and all information I gather will be stored privately and only available for Dr. Dr. Logan Houlihan to review. Are you comfortable with spending some time with me to collect some background information to present to the doctor?
+
+User: Yes, I'm comfortable with that. I want to make sure Dr. Houlihan has all the necessary information for our appointment.
+
+Assistant: Thank you for your willingness to share this information. Let's start with some general details. Could you please tell me your full name?
+
+User: My full name is Poomipanya Thanadhatthakorn.
+
+Assistant: Thank you for sharing that with me, Poomipanya. Could you tell me what name you prefer to go by?
+
+User: To be honest, I don't really go by any particular nickname or alias outside of my family and close friends. If you'd like, you can just call me Poomipanya, which is what most people use when addressing me formally.
+
+Assistant: Thank you for clarifying that for me. Now, could you tell me your date of birth?
+
+User: My date of birth is April 03, 1964.
+
+Assistant: Thank you for letting me know your date of birth. Could you please tell me what sex you identify with?
+
+User: I identify as male.
+
+Assistant: Thank you for sharing that with me. Now, could you tell me about your handedness? Are you left-handed, right-handed, or do you use both hands equally?
+
+User: I am right-handed.
+
+Assistant: Thank you for letting me know your handedness. Now, let's move on to discuss where you reside. Could you please tell me what city or town you currently live in?
+
+User: I currently live in New Lisa, British Columbia, Canada.
+
+Assistant: Thank you for sharing that with me, Poomipanya. Now, could you tell me about your marital status? Are you single, in a relationship, married, or common law?
+
+User: I'm widowed.
+
+Assistant: I'm sorry to hear that you're widowed, Poomipanya. Thank you for sharing that with me. Now, could you tell me if you have any children or dependents?
+
+User: No, I don't have any children or dependents.
+
+Assistant: Thank you for letting me know. Now, could you please tell me if you're currently working?
+
+User: No, I'm currently unemployed.
+
+Assistant: Thank you for sharing that with me. If yes, what is the name of your previous company, and how many years did you work there?
+
+User: I don't have any previous work history, so I didn't work at any company for a certain number of years.
+
+Assistant: Thank you for sharing that with me. Now, I'd like to ask if you receive any disability assistance?
+
+User: No, I don't receive any disability assistance.
+
+Assistant: Thank you for letting me know. Now, could you tell me about your current doctors? Are there any specific medical professionals you see regularly?
+
+User: "My current doctor is Dr. Christopher Curtis."
+
+Assistant: Thank you for sharing that with me. Do you see any other doctors or specialists, aside from Dr. Christopher Curtis, on a regular basis?
+
+User: "I'm not sure if I see any other doctors regularly, but I do take medications prescribed by Dr. Curtis, and I might need to see specialists for monitoring or adjustments, like pharmacists or psychologists."
+
+Assistant: Thank you for sharing that with me. Now, could you tell me if you have any known allergies to medications or substances?
+
+User: "I have an allergy to anticonvulsants."
+
+Assistant: Thank you for sharing that with me. Now, could you please tell me about your current medications and dosage?
+
+User: "I am currently taking three medications prescribed by Dr. Christopher Curtis. The first one is Sertraline, also known as Zoloft, which I take at a dosage of 25-50 mg per day. The second medication is Lamotrigine, or Lamictal, with a fixed dosage of 25 mg daily. Lastly, I am taking Amphetamine/Dextroamphetamine, commonly known as Adderall, in divided doses ranging from 5 to 40 mg per day."
+
+Assistant: Thank you for sharing the details of your current medications with me. I'd like to move on now and ask about any health supplements you may be taking, aside from prescribed medications?
+
+User: "I take sports nutrition supplements."
+
+Assistant: Thank you for sharing that. Could you please specify what types of sports nutrition supplements you're taking, such as protein powders or creatine?
+
+User: "I'm not sure what specific types they are, but I just know they're sports nutrition supplements. I'm not really familiar with all the details, but I think my doctor recommended them to me as part of my treatment plan."
+
+Assistant: Thank you for letting me know about your supplements, even if it's not in great detail. That can be helpful information. Now, I'd like to talk about something else. Could you tell me a bit about your use of nicotine, marijuana, or alcohol? Do you consume any of these substances regularly, and if so, how frequently?
+
+User: "I don't really have much to share about my use of nicotine, marijuana, or alcohol. To be honest, I'm not sure if I've ever used any of these substances regularly."
+
+Assistant: Thank you for sharing your thoughts on substance use. Moving forward, I'd appreciate it if you could tell me about any significant health conditions or diagnoses you've received over the years? For example, have you ever been diagnosed with diabetes, hypertension, or any other notable health issues?
+
+User: "I've been diagnosed with social anxiety disorder, borderline personality disorder, and attention-deficit/hyperactivity disorder. These are the significant health conditions I'm aware of."
+
+Assistant: Thank you for sharing that with me. I'd like to move on now and ask about any previous hospitalizations or surgeries you've had. Have you ever been hospitalized for a mental health issue, or have you undergone any notable surgical procedures?
+
+User: "I don't have any history of being hospitalized for mental health issues or undergoing notable surgical procedures."
+
+Assistant: Thank you for letting me know. Moving forward, I'd like to discuss your neurological and mental health history a bit more in-depth. Have you ever experienced any head injuries or concussions?
+
+User: "No."
+
+Assistant: That's helpful to know. Thank you for sharing that with me. Now, have you ever experienced any seizures?
+
+User: "No"
+
+Assistant: Thank you for sharing that with me. Have you ever attended any rehabilitation programs or received substance counseling?
+
+User: "No, I don't think I've ever attended any rehabilitation programs or received substance counseling. My treatment has mainly been through medication and therapy with my doctor, Dr. Christopher Curtis."
+
+Assistant: Thank you for sharing that information with me. Moving forward, I'd like to discuss your family history a bit more. Could you tell me about your siblings? Do you have any brothers or sisters?
+
+User: "I have two siblings, an older sister named Sirinya and a younger brother named Kiettisak. They're both still living in Thailand."
+
+Assistant: Thank you for sharing that with me; I appreciate your openness about your family. Could you tell me a bit more about Sirinya and Kiettisak? For example, what are their ages, occupations, or any other details you feel comfortable sharing?
+
+User: "I don't know their current ages or occupations. We're not as close as we used to be since I moved away from Thailand. To be honest, I've lost touch with them over the years, so I'm not sure what they're up to these days."
+
+Assistant: Thank you for sharing that with me; I understand it can be difficult to keep in touch over long distances. Let's move on. Where were you born?
+
+User: "I was born in Nakhon Si Thammarat, Thailand."
+
+Assistant: Thank you for sharing that with me. I'd like to ask, if you were born outside of Canada, what year did you arrive in Canada?
+
+User: "I'm not sure what year I arrived in Canada exactly, but I do know I've been living here for some time now and have obtained Canadian citizenship. I'm sorry I don't have a more precise answer."
+
+Assistant: Thank you for sharing that with me. I understand it can be hard to keep track of specific dates, especially when they're from a while back. Are you a Canadian citizen by birth or naturalization?
+
+User: I am a Canadian citizen by naturalization.
+
+Assistant: Thank you for letting me know. Let's move on. Were there any complications during your birth, or did you have a typical development in early childhood?
+
+User: "I don't recall any complications during my birth. However, I did have some struggles in elementary school, as I was considered 'Emerging' in terms of performance. But overall, I think my development in early childhood was fairly typical."
+
+Assistant: Thank you for sharing that with me. At what age did you start walking and talking, and how were your early social interactions with other children? Did you develop friendships like other kids around you at a young age?
+
+User: I don't recall exactly when I started walking and talking, but I do remember having some difficulties in elementary school. As for social interactions, I'm not sure if I developed friendships at the same pace as other kids around me. To be honest, I don't have many clear memories of my early childhood, but I do know that I had some struggles in school.
+
+Assistant: Thank you for sharing that with me; I understand it can be tough to recall specifics from so far back. Let's talk about your education experience a bit more. Did you have any difficulties in elementary school, or were there any specific subjects that gave you trouble?
+
+User: "I did have some difficulties in elementary school, as I was considered 'Emerging' in terms of performance. However, I don't recall any specific subjects that gave me trouble. To be honest, my memories from that time are a bit fuzzy."
+
+Assistant: Thank you for sharing that with me. I understand it can be tough to recall specifics from so far back. Moving on, what was your average mark in high school, and did you have a favorite topic or class during that time?
+
+User: "I was proficient in high school, but I don't recall my exact average mark. As for favorite topics or classes, I didn't really have one that stood out to me at the time."
+
+Assistant: Thank you for sharing that with me. Did you pursue any further education after high school? If yes, could you tell me a bit about where you went and what type of studies you pursued?
+
+User: No, I did not pursue any further education after high school.
+
+Assistant: Thank you for letting me know. Now, moving on to another topic, could you tell me a bit about your previous work history? Have you had any jobs prior to your current one?
+
+User: "I don't have any previous work history to share. As it's mentioned in my profile, I'm currently unemployed and haven't had any jobs prior to this."
+
+Assistant: Thank you for letting me know. Let's move on to another topic. Could you tell me a bit about any previous marriages or long-term relationships you've had?
+
+User: "I was married to my wonderful wife, Pornpan, for 25 years until she passed away due to illness. We didn't have any children together, but it was a loving relationship from start to finish."
+
+Assistant: I'm glad you shared that with me. It sounds like a very meaningful relationship. Moving on to another topic, could you tell me about your hobbies? What do you enjoy doing in your free time?
+
+User: "I enjoy reading Thai literature as it helps me connect with my roots. I also find solace in practicing traditional Thai cooking, which reminds me of my wife's recipes. Listening to classical music is another hobby of mine, as it calms my mind and brings me peace."
+
+Assistant: That's helpful to know, thank you. Now, let's move on to another topic. What do you usually do to relax on a stressful day?
+
+User: "I usually practice meditation or do some light yoga to calm myself down. Taking short walks around my neighborhood also helps me clear my mind and feel more relaxed."
+
+Assistant: <STOP>
+
+Assistant: Here are the edited notes:
+
+**Personal Information**
+
+* Full name: Poomipanya Thanadhatthakorn
+* Preferred name: Poomipanya (in formal settings)
+* Date of birth: April 03, 1964
+* Sex identification: Male
+* Handedness: Right-handed
+
+**Contact and Residency**
+
+* Current city/town of residence: New Lisa, British Columbia, Canada
+* Marital status: Widowed
+* Family status: No children or dependents
+
+**Medical History**
+
+* Allergies: Anticonvulsants
+* Current medications and dosages:
+	1. Sertraline (Zoloft): 25-50 mg/day
+	2. Lamotrigine (Lamictal): 25 mg/day
+	3. Amphetamine/Dextroamphetamine (Adderall): divided doses of 5-40 mg/day
+* Health supplements: Unspecified sports nutrition supplements recommended by doctor
+* Substance use history: Little to no use, uncertain about consumption patterns
+* Health conditions/diagnoses:
+	1. Social anxiety disorder
+	2. Borderline personality disorder
+	3. Attention-deficit/hyperactivity disorder
+
+**Family and Relationships**
+
+* Siblings: Two (older sister - Sirinya, younger brother - Kiettisak), residing in Thailand
+* Relationship history: 25-year marriage with late wife, Pornpan; no children
+* Hobbies:
+	1. Reading Thai literature
+	2. Practicing traditional Thai cooking
+	3. Listening to classical music
+
+**Developmental and Educational History**
+
+* Birthplace: Nakhon Si Thammarat, Thailand
+* Year of arrival in Canada: Unsure, but lived long enough to obtain citizenship
+* Citizenship status: Naturalized Canadian citizen
+* Early childhood development: Typical except for some struggles in elementary school
+* Elementary school performance: "Emerging"
+* High school performance: Proficient
+* Further education: Did not pursue any further education after completing high school
+
+**Relaxation Techniques**
+
+* Meditation
+* Light yoga
+* Short walks on stressful days
+
+Assistant: Here are the edited notes:
+
+Consent given: Patient is willing to share background information.
+
+Full name: Poomipanya Thanadhatthakorn
+Preferred name: No specific nickname or alias; prefers to be called Poomipanya in formal settings.
+Date of birth: April 03, 1964
+Sex identification: Male
+Handedness: Right-handed
+
+Current city/town of residence: New Lisa, British Columbia, Canada
+Marital status: Widowed
+Family status: No children or dependents
+Employment status: Currently unemployed
+
+Work history: No previous work experience
+Disability assistance status: No current or past receipt of disability assistance
+
+Current doctor: Dr. Christopher Curtis
+Current doctors and specialists: Dr. Christopher Curtis is the primary doctor; patient may occasionally see specialists (pharmacists or psychologists) for medication management
+
+Allergies: Patient has a known allergy to anticonvulsants
+Current medications and dosages:
+1. Sertraline (Zoloft): 25-50 mg/day
+2. Lamotrigine (Lamictal): 25 mg/day
+3. Amphetamine/Dextroamphetamine (Adderall): divided doses of 5-40 mg/day
+
+Health supplements: Patient takes unspecified sports nutrition supplements recommended by their doctor, with unknown specifics
+
+Substance use history: Patient reports little to no use and seems uncertain about their consumption patterns
+
+Health conditions/diagnoses: Social anxiety disorder, borderline personality disorder, and attention-deficit/hyperactivity disorder
+No previous hospitalizations or surgeries
+
+Head injury/concussion history: No reported incidents
+Seizure history: No reported history of seizures
+
+Rehabilitation/substance counseling history: Patient denied attendance in any rehabilitation programs or receiving substance counseling; mentions treatment through medication and therapy under Dr. Christopher Curtis' care
+
+Siblings: Two (older sister - Sirinya, younger brother - Kiettisak), residing in Thailand
+Sibling information: Patient has two siblings (Sirinya and Kiettisak) but has lost contact with them due to relocation.
+
+Birthplace: Nakhon Si Thammarat, Thailand
+Year of arrival in Canada: Patient is unsure of the exact year but has lived in Canada long enough to obtain citizenship
+Citizenship status: The patient is a naturalized Canadian citizen
+
+Early childhood development: Typical except for some struggles in elementary school, where the patient's performance was considered 'Emerging'
+
+Elementary school performance: Patient had difficulties and was classified as "Emerging" but cannot remember specific troublesome subjects due to vague memories
+High school performance: Proficient; no specific favorite subjects noted
+
+Further education: The patient did not pursue any further education after completing high school
+
+Relationship history: The patient had a 25-year marriage with his late wife, Pornpan; no children were born in this relationship.
+
+Hobbies: Reading Thai literature, practicing traditional Thai cooking, listening to classical music.
+Relaxation techniques: The patient practices meditation, does light yoga, and takes short walks to relax on stressful days.
+
+Thank you, Poomipanya, for taking the time to share your background information with us. Your participation is greatly appreciated!
+
+<STOP>

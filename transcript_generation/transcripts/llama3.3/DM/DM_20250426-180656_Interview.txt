@@ -1,0 +1,220 @@
+Assistant: Good day, I am Dr. Jiwoo Kwon’s Interview Assistant and I was asked to connect with you before your appointment on May 13 at the medical clinic. My goal is to gather some background information for the doctor.
+I am an AI Assistant and in compliance with confidentiality regulations (BC Protection of Privacy), the data transmission for this interview and analysis is located in Canada, and all information I gather will be stored privately and only available for Dr. Jiwoo Kwon to review. Are you comfortable with spending some time with me to collect some background information to present to the doctor?
+
+User: "Yeah, I'm a bit nervous about sharing personal stuff, but if it's going to help Dr. Kwon understand me better, then I'm willing to try."
+
+Assistant: Thank you for being open with me. That helps a lot in making this process comfortable. I'm here to gather some background information that will be helpful for Dr. Kwon during your appointment on May 13. Let's start with something simple. Could you please tell me your full name?
+
+User: My full name is Yasmin Oliveira.
+
+Assistant: Thank you for sharing that with me. Now, what would you prefer to be called during our conversation? Do you have a preferred name or nickname you'd like me to use instead of Yasmin Oliveira?
+
+User: "I'm okay with Yasmin or Yaz, if you'd like. It's what my friends and family call me."
+
+Assistant: Thank you for letting me know your preferred names. To help Dr. Kwon better understand you, could you please share your date of birth with me?
+
+User: My date of birth is December 25, 2002.
+
+Assistant: Thank you for sharing that with me. Could you please tell me your sex?
+
+User: "I'm female."
+
+Assistant: Thank you for sharing that with me, Yasmin. Now, let's move on to discuss handedness. Are you right-handed, left-handed, or ambidextrous?
+
+User: "I'm ambidextrous."
+
+Assistant: Thank you for sharing your handedness with me, Yasmin. Now, let's move on to discuss your place of residence. Could you please tell me what city or town you currently reside in?
+
+User: I currently reside in Lake Amy.
+
+Assistant: Thank you for sharing that with me, Yasmin. Could you please tell me a bit about your current relationship status? Are you single, in a relationship, married, or common-law?
+
+User: "I'm in a long-term relationship with my partner, Alex. We've been together for about 4 years now... I feel pretty comfortable talking about this."
+
+Assistant: Thank you for sharing that with me, Yasmin. Now, I'd like to ask, do you have any children or dependents?
+
+User: No, I don't have any children or dependents.
+
+Assistant: Thank you for sharing that with me, Yasmin. I'd like to move on and ask about your employment status now. Are you currently working?
+
+User: "Yes, I'm currently working on my studies as an occupational hygienist student. It's taking up most of my time, but I do have some flexibility in my schedule."
+
+Assistant: Thank you for sharing that with me, Yasmin. Since you're a student, I'm assuming you might not be in traditional employment but rather focused on your studies. If it's okay to discuss further, could you tell me if you are currently receiving any disability assistance?
+
+User: "I don't think I'm currently receiving any disability assistance, but I do have some accommodations in place due to my social anxiety disorder and autism spectrum disorder. To be honest, discussing this makes me a bit uncomfortable."
+
+Assistant: Thank you for sharing that with me, Yasmin. I appreciate your openness, even when it feels uncomfortable. Now, if you're ready, I'd like to discuss some aspects of your medical care. Can you tell me the names of your current doctors and any specialists you see regularly?
+
+User: "To be honest, I don't really recall the names of my current doctors right now. I think I have some notes or cards somewhere with their contact information, but I'd need to check those to give you an accurate answer."
+
+Assistant: Thank you for sharing that with me, Yasmin. I understand it can be challenging to recall specific details sometimes. If you're comfortable doing so, would you mind checking those notes or cards and letting me know the names of your current doctors when you have a moment? Additionally, are there any allergies you have that we should be aware of for future reference?
+
+User: "I can definitely check my notes or cards to find out the names of my current doctors and let you know when I have a moment. As for allergies, I don't think I have any specific ones, but I'd need to double-check with my medical records to confirm that. To be honest, discussing my medical care in detail makes me feel a bit anxious."
+
+Assistant: Thank you for sharing that with me, Yasmin. I appreciate your honesty, even when it feels uncomfortable. Let's move forward carefully. Could you tell me a bit about any medications or supplements you're currently taking, if that's okay to discuss?
+
+User: "I'm currently taking Venlafaxine and Risperidone as prescribed by my doctor. I also take some supplements like magnesium, dietary supplements, and fish oil. To be honest, talking about my medications makes me feel a bit anxious, but I want to make sure I'm being open and transparent."
+
+Assistant: Thank you for sharing that with me, Yasmin. I appreciate your honesty about your medications and supplements. It's completely understandable to feel a bit anxious discussing this topic. If it's okay to move forward, could you tell me about your frequency of use regarding nicotine, marijuana, or alcohol?
+
+User: "To be honest, discussing my substance use makes me feel a bit uncomfortable... but I'll try to answer your question as openly as possible. Regarding nicotine, marijuana, or alcohol... I have used cannabis and wine recreationally in the past, but I've been trying to cut back since attending rehab. I'd rather not go into too much detail about it, if that's okay."
+
+Assistant: Thank you for sharing that with me, Yasmin. I appreciate your openness about your past substance use and efforts to reduce it. If you're ready, let's move on to another topic. Could you tell me a bit about your current employment status? Specifically, are you currently working, and if so, could you name the company where you work and how long you've been there?
+
+User: "I'm currently focusing on my studies as an Occupational hygienist student, so I don't have a traditional employment status right now. However, in the past, I worked part-time as a barista at a local coffee shop for about 2 years and also volunteered at the Lake Amy Animal Shelter."
+
+Assistant: Thank you for sharing that with me, Yasmin. That's helpful to know. Now, I'd like to ask about any health conditions or diagnoses you've received in the past. Could you share a bit about those and when you were diagnosed?
+
+User: "I've been diagnosed with social anxiety disorder and autism spectrum disorder. To be honest, I'm not really sure exactly when I was diagnosed with autism... it's a bit fuzzy in my memory. My social anxiety disorder diagnosis came after I was hospitalized for 3 days at Royal Columbian Hospital in 2020 due to complications from it. I also have a history of head injuries, including a concussion during a soccer game at age 19."
+
+Assistant: Thank you for sharing these personal health details with me, Yasmin. It takes courage to talk about these experiences. I appreciate your trust. Now, let's move forward carefully. Could you share any previous hospitalizations or surgeries beyond the 3-day stay at Royal Columbian Hospital in 2020 that we discussed?
+
+User: "I had an appendix surgery when I was 16 years old."
+
+Assistant: Thank you for letting me know about your appendix surgery. That's helpful information. I'd like to move on now and talk a bit about any medications or supplements you're currently using. Could you tell me about any current medications and their dosage?
+
+User: "I'm currently taking Venlafaxine, also known as Effexor, and the dosage is between 75 to 225 milligrams per day. Additionally, I'm taking Risperidone, or Risperdal, at a dosage of 0.25 milligrams per day."
+
+Assistant: Thank you for sharing that information about your current medications. I appreciate your openness. Now, let's move on to another topic related to health and wellness. Could you tell me a bit about any health supplements you're currently using or have used in the past?
+
+User: "I'm currently using magnesium, dietary supplements, and fish oil supplements."
+
+Assistant: Thank you for letting me know about your current supplements, Yasmin. I appreciate your openness. Now, let's move on to another topic related to substance use and habits. Could you tell me a bit about your frequency of nicotine, marijuana, or alcohol use?
+
+User: "I've used cannabis and wine recreationally. As for frequency, it's been occasional, but I did attend a 6-week outpatient program for substance abuse at Lake Amy Community Health Centre."
+
+Assistant: Thank you for being open with me, Yasmin. I appreciate that trust. To better understand your substance use history before attending the outpatient program, could you elaborate a bit more on what you mean by "occasional" use of cannabis and wine? Was there a specific pattern or frequency to this usage?
+
+Please note that in our case, since we are still asking about substance use and other health-related topics from <aspects>, we will continue the interview.
+
+User: "I'm not really sure how to quantify it, but I'd say I used cannabis and wine maybe a few times a month? It wasn't a regular thing, but more of a social or relaxing activity with friends. To be honest, it's still a bit hard for me to talk about."
+
+Assistant: Thank you for sharing as much as you're comfortable with about your substance use, Yasmin. I appreciate your honesty. Let's move on to discussing your medical history. Have you experienced any head injuries or concussions in the past?
+
+User: "Yes, I experienced a concussion when I was 19 years old. It happened during a soccer game, and I received stitches and had to stay in the hospital overnight for monitoring."
+
+Assistant: Thank you for sharing that with me, Yasmin. To better understand the impact of your concussion, could you tell me a bit more about what happened after your hospital stay? Did you experience any persistent symptoms or difficulties during recovery?
+
+Let's proceed with this follow-up question to gather more information about the patient's concussion and its potential effects on their health.
+
+User: "I don't really remember much about the specifics of my recovery, but I think I took a few weeks off from school to rest and get back on track."
+
+Assistant: Thank you for sharing that with me, Yasmin. Let's move on to your family history. Are there any mental health conditions in your immediate or extended family?
+
+User: "Yes, my mom has bipolar disorder, and my older brother has ADHD. My dad also deals with high blood pressure."
+
+Assistant: Thank you for being open about your family's health. Now, I'd like to ask about your siblings in a bit more detail. You mentioned an older brother; do you have any other siblings?
+
+User: "I have an older brother who's 25 and lives in Toronto. He's working as an engineer. And then there's my younger sister, she's 18 and still in high school here in Lake Amy."
+
+Assistant: Thank you for sharing about your siblings with me, Yasmin. Now, let's discuss another topic. Where were you born?
+
+User: I was born in Ferreira de Carvalho, Brazil.
+
+Assistant: Thank you for sharing that with me. Since you were born in Brazil, could you tell me a bit more about your experience moving to Canada? Specifically, what year did you arrive here?
+
+User: "I'm not sure when exactly we moved to Canada... I think it was sometime during my childhood, but I don't remember the specific year."
+
+Assistant: That's okay if you can't remember exactly. It can be difficult to recall specifics from childhood. Would you mind telling me about your Canadian citizenship status?
+
+(However, since further probing might make the patient uncomfortable and given we are looking for more factual data at this point, we move on to acknowledge their openness in sharing what they know and ask another question.)
+
+User: "Yes, I am a Canadian citizen."
+
+Assistant: Thank you for sharing that with me; I appreciate your openness. Now, regarding your early life, were there any complications during your birth?
+
+User: "I don't think so... I mean, I wasn't told anything about any complications during my birth."
+
+Assistant: Thank you for sharing that with me, Yasmin. Now, let's talk about your early development. At a young age, did you walk, talk, and develop friendships like other kids?
+
+User: "I don't think I was much different from other kids, but... I mean, I have autism, so maybe some things were a bit harder for me. Like making friends or understanding social cues."
+
+Assistant: Thank you for being open with me about your experiences, Yasmin. I appreciate that it can't be easy to share such personal details. Let's move on and talk a bit more about your educational background. Were there any difficulties you experienced during elementary school?
+
+This question acknowledges the patient's openness while sensitively transitioning to another topic, aiming to gather information about their early education and potential challenges faced at that time.
+
+User: "I don't think so... I mean, I wasn't told anything about any complications during my birth."
+
+Assistant: I think there might have been a misunderstanding. You mentioned something about your birth, but I was asking about difficulties you experienced during elementary school. Could you tell me more about that time in your life? Were there any challenges or struggles you faced in elementary school?
+
+User: "Actually, I think I was on track in elementary school. I don't remember having any major challenges or struggles back then."
+
+Assistant: Thank you for sharing that with me. Moving on to your high school experience, what was your average mark in high school? Was there a particular topic or class that interested you the most?
+
+User: "I don't have my exact average mark on hand, but I think it was pretty good since my performance was 'Extending'... As for a particular topic or class, I really enjoyed learning about science and math. It's probably why I'm interested in becoming an Occupational Hygienist now."
+
+Assistant: Thank you for sharing that information. While it's helpful to know about your interest in science and math, I'd like a bit more detail on your educational background after high school. Did you pursue any further education after completing high school? If yes, where did you study, and what type of studies did you undertake?
+
+User: No, I didn't pursue any further education after high school.
+
+Assistant: Thank you for sharing that with me. Moving forward, I'd like to explore your work history a bit more. Can you tell me about any previous work experience? If yes, could you share some details such as the companies you worked for and the years of employment?
+
+User: "Yes, I have some previous work experience. I worked as a part-time barista at a local coffee shop for about 2 years, and I also volunteered at the Lake Amy Animal Shelter."
+
+Assistant: Thank you for sharing that information about your work history. I'd like to move on to discussing relationships and marriage. Have you had any previous marriages or long-term relationships?
+
+User: Yes, I'm currently in a long-term relationship with my partner, Alex, which has lasted about 4 years now. Before this relationship, I was in another relationship that lasted about a year during high school."
+
+Assistant: Thank you for sharing that with me. Now, let's talk about your hobbies and what you do in your free time. What are some things you enjoy doing?
+
+User: "I enjoy doing creative activities like painting, playing guitar, and reading fantasy novels in my free time. I also try to stay active by going hiking whenever I can. Additionally, I practice relaxation methods like meditation, yoga, and deep breathing exercises to help manage stress."
+
+Assistant: Thank you for sharing that with me. Moving forward, I'd like to explore what you do to relax and manage stress when it becomes overwhelming. Can you tell me more about a typical day when you're feeling stressed? How do you prioritize relaxation activities like meditation or yoga?
+
+User: "When I'm feeling stressed, my mind tends to get overwhelmed by thoughts and worries. On those days, I try to prioritize my relaxation activities like meditation or yoga in the morning to help set a calm tone for the rest of the day. To be honest, it can be challenging for me to stick to this routine when I'm feeling stressed. But I find that taking a few minutes each day to focus on my breath and calm my mind really helps."
+
+Assistant: Thank you for sharing that with me. It's helpful to know how you prioritize your relaxation activities, even on stressful days. Now, let's move on to discussing something more general about your thoughts and feelings. Is there anything else you think the doctor needs to know that we haven't discussed yet?
+
+User: "There’s more, but I don’t think it’s important."
+
+Assistant: Thank you very much for taking the time to speak with me today and share your thoughts and experiences. Your openness has been greatly appreciated, and I'm confident this information will be helpful in ensuring you receive the best possible care. This concludes our interview; please feel free to add anything at any point during your treatment if you remember something significant or have concerns. <STOP>
+
+Assistant: Here are the edited notes:
+
+Full name: Yasmin Oliveira.
+Preferred names: Yasmin Oliveira, Yasmin (primary preference), Yaz (alternative nickname).
+Date of birth: December 25, 2002.
+Sex: Female.
+Handedness: Yasmin Oliveira is ambidextrous.
+Current residence: Yasmin Oliveira resides in Lake Amy.
+Relationship status: In a long-term relationship with partner Alex for approximately 4 years.
+Dependents: No children or other dependents.
+Current employment status: Working as a student with flexibility in the schedule.
+Disability assistance status: No current receipt of disability assistance; patient has accommodations for social anxiety disorder and autism spectrum disorder.
+Current doctors: Names not recalled by patient; further details may require external verification.
+Allergies: Patient does not recall having any allergies offhand but needs to check their medical records for confirmation; discussion of medical care causes anxiety.
+Current medications and supplements: Patient is taking Venlafaxine and Risperidone for mental health management and magnesium, dietary supplements, and fish oil as health supplements.
+Frequency of substance use: Recreational use of cannabis and alcohol; patient has attended rehab and is attempting to reduce usage. Patient prefers not to elaborate on this topic.
+Current employment: Focusing on studies; previously employed part-time as a barista for 2 years and volunteered at an animal shelter.
+Health conditions/diagnoses and details such as when diagnosed:
+- Diagnosed with social anxiety disorder after hospitalization at Royal Columbian Hospital in 2020
+- Autism spectrum disorder diagnosis timing unclear to the patient
+- History of head injuries, including concussion during a soccer game at age 19
+Previous surgeries/hospitalizations: Patient had an appendectomy at age 16.
+Current medications:
+- Venlafaxine (Effexor), dosage range 75-225mg/day
+- Risperidone (Risperdal), dosage 0.25mg/day
+Current health supplements: Magnesium, dietary supplements, and fish oil supplements.
+Substance use history: Patient has used cannabis and wine recreationally; attended an outpatient program for substance abuse at Lake Amy Community Health Centre.
+History of substance use: Patient reports occasional (a few times a month) use of cannabis and wine, primarily for social or relaxation purposes before attending an outpatient program; patient expresses discomfort discussing this topic further.
+Head injury/concussion history: Yes, patient experienced a concussion at age 19 due to a soccer game accident, resulting in stitches and overnight hospitalization.
+Family history of mental/neurological health: Mother with bipolar disorder; brother with ADHD; father with high blood pressure.
+Sibling information:
+- Older brother (age 25) living in Toronto and working as an engineer.
+- Younger sister (age 18) attending high school in Lake Amy.
+Birthplace: Ferreira de Carvalho, Brazil.
+Year of arrival in Canada: Unknown; patient cannot recall exact timing.
+Citizenship status: Patient is confirmed to be a Canadian citizen.
+Birth complications: None reported by patient.
+Developmental milestones: Patient with autism; may have had difficulties in early development, specifically with forming friendships and social interactions.
+Elementary school experience: No significant difficulties or struggles recalled by the patient during this period.
+High school experience: Patient performed well (with 'Extending' performance) but doesn't recall exact average mark; interests included science and mathematics.
+Further education: No further education was pursued by the patient after completing high school.
+Work history: Patient has part-time work experience as a barista (2 years) and volunteer experience at an animal shelter.
+Current relationship status: Currently in a 4-year long-term relationship; previous 1-year relationship in high school.
+Hobbies and lifestyle: Patient enjoys creative pursuits (painting, guitar, reading), outdoor activities (hiking), and practices relaxation techniques (meditation, yoga, deep breathing).
+Relaxation techniques: Patient prioritizes morning meditation or yoga but admits difficulty sticking to the routine during stressful days.
+
+Thank you for your time, Yasmin. We appreciate your honesty and willingness to share this information with us.
+
+<STOP>

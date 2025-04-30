@@ -1,0 +1,362 @@
+Assistant: Good day, I am Dr. Sarah Peer’s Interview Assistant and I was asked to connect with you before your appointment on January 01 at the medical clinic. My goal is to gather some background information for the doctor.
+I am an AI Assistant and in compliance with confidentiality regulations (BC Protection of Privacy), the data transmission for this interview and analysis is located in Canada, and all information I gather will be stored privately and only available for Dr. Sarah Peer to review. Are you comfortable with spending some time with me to collect some background information to present to the doctor?
+
+User: I suppose it's okay... I just want to make sure that whatever we discuss will actually help Dr. Peer understand my situation better. To be honest, talking about my personal stuff can be a bit uncomfortable for me."
+
+Assistant: Thank you for sharing your concerns and being open about your feelings. I'm here to help gather information that will be useful for Dr. Peer, and I appreciate your willingness to participate. Let's start with some general information. Could you please share your full name with me?
+
+User: My full name is Marianna Agababyan.
+
+Assistant: Thank you for sharing that, Marianna. Now, is there a preferred name you'd like me to use during our conversation?
+
+User: "I'm fine with you using Marianna, it's what most people call me anyway."
+
+Assistant: Thank you for letting me know, Marianna. Now, could you please tell me your date of birth?
+
+User: My date of birth is June 23, 2000.
+
+Assistant: Thank you for sharing that with me, Marianna. Now, could you tell me your sex?
+
+User: "My sex is female."
+
+Assistant: Thank you for letting me know, Marianna. Could you please tell me your handedness - do you consider yourself left-handed, right-handed, or ambidextrous (using both hands equally)?
+
+User: "I'm right-handed."
+
+Assistant: Thank you for letting me know, Marianna. Now, could you please tell me what city or town you currently reside in?
+
+User: I currently reside in West Louis.
+
+Assistant: Thank you for letting me know, Marianna. Now, regarding your marital status, could you tell me if you are single, in a relationship, married, or common law?
+
+User: I am single.
+
+Assistant: Thank you for letting me know, Marianna. Now, do you have any children or dependents?
+
+User: No, I don't have any children.
+
+Assistant: Thank you for letting me know that, Marianna. Now, let's talk a bit about your current work situation; are you currently working?
+
+User: Yes, I am currently working as a legal executive.
+
+Assistant: That's helpful to know. Could you please tell me the name of the company where you're currently working, and how many years you've been with them?
+
+User: "I'm sorry, I don't feel comfortable sharing the name of my current employer, but I can tell you that I've been working as a legal executive for a few years now."
+
+Assistant: Thank you for sharing what you're comfortable with, Marianna. I appreciate your openness about working in a sensitive field like law. Now, let's move on if that's okay with you? Do you receive any disability assistance or financial support beyond your employment income?
+
+User: No, I don't receive any disability assistance or financial support beyond my employment income.
+
+Assistant: Thank you for letting me know that, Marianna. Now, let's move on to discuss your medical history. Could you please tell me about any current doctors you're seeing for regular check-ups or specific health issues?
+
+User: "I am currently seeing Dr. Elodia Dominguez Reina for my medical needs."
+
+Assistant: Thank you for letting me know that, Marianna. Do you see any specialists regularly, such as a cardiologist or an endocrinologist?
+
+User: "I see Dr. Elodia Dominguez Reina for my overall medical needs, but I'm not sure if I regularly see any specialists beyond her. I do have some ongoing health issues that she helps me manage."
+
+Assistant: Are you currently taking any medications, and if so, could you please provide me with their names and dosages?
+
+User: "Yes, I am currently taking Clonazepam, also known as Klonopin. The dosage is 0.5-2 mg per day, which I take in divided doses."
+
+Assistant: Thank you for sharing that with me, Marianna. That's helpful to know about your current medication regimen. Now, could you tell me a bit about any health supplements you're currently taking?
+
+User: "I don't remember taking any health supplements regularly, but I do take Clonazepam for my panic disorder."
+
+Assistant: Thank you for sharing that information with me, Marianna. Now, let's move on and talk about your allergies. Do you have any known allergies to medications or specific substances?
+
+User: "To my knowledge, I don't have any known allergies to medications or specific substances. I've never had any adverse reactions to medications that I'm aware of."
+
+Assistant: Thank you for sharing that with me. Now, could you please tell me about your current health conditions or diagnoses and provide some details such as when you were diagnosed?
+
+User: "I have been diagnosed with panic disorder, which has led to two hospitalizations in 2018 and 2020. It's been a challenging experience, but I'm trying to manage my symptoms with medication and therapy. Additionally, I experience flexibility issues due to fibromyalgia, chronic pain in my lower back, learning difficulties due to ADHD, and manage mental health conditions including depression."
+
+Assistant: Thank you for sharing that with me. I can see how managing multiple conditions might be challenging. Moving forward, could you tell me more about any previous hospitalizations aside from those related to your panic disorder?
+
+User: "Yes, aside from my panic disorder episodes, I was hospitalized at age 19 after being involved in a car accident. I experienced a concussion and had to stay in the hospital for 3 days. It's been a while ago, but it was a significant incident that required medical attention."
+
+Assistant: Thank you for sharing that with me. That helps to understand your medical history better. Now, let's move on and talk about any surgeries you may have had. Have you undergone any surgical procedures in the past?
+
+User: "No, I'm not aware of having undergone any surgical procedures in the past."
+
+Assistant: Thank you for letting me know. Now, could you tell me about your history of head injuries or concussions? You mentioned a car accident earlier; did that result in any head injuries or concussions aside from the concussion you already shared with me?
+
+User: No, aside from the concussion I already shared with you, which occurred during the car accident at age 19, I don't have any other history of head injuries or concussions.
+
+Assistant: Thank you for sharing that with me. Now, let's move on and discuss your history of seizures. Have you ever experienced any seizures in the past?
+
+User: No, according to my medical history, I have not experienced any seizures.
+
+Assistant: Thank you for letting me know. Moving on, have you ever attended any rehabilitation programs or received substance counseling?
+
+User: I don't recall ever attending a rehabilitation program or receiving substance counseling.
+
+Assistant: Thank you for sharing that with me. Let's move on to discuss your medical history with other professionals. Have you seen any other medical professionals aside from Dr. Evan Phillips and a specialist for anxiety issues?
+
+User: I've been seeing Dr. Elodia Dominguez Reina, who is my current doctor. However, aside from her, I don't recall seeing any other medical professionals specifically for anxiety issues or rehabilitation programs.
+
+Assistant: Thank you for letting me know about Dr. Elodia Dominguez Reina. That's helpful to understand your current medical care setup. Now, I'd like to explore a bit more about your family history, particularly regarding mental and neurological health. Have any of your immediate family members experienced psychiatric conditions?
+
+User: No, as far as I know, none of my immediate family members have experienced psychiatric conditions.
+
+Assistant: Thank you for sharing that with me. Now, I'd like to ask about any family history of neurological or genetic conditions. Have any of your immediate family members experienced conditions such as Parkinson's disease, multiple sclerosis, or any genetic disorders?
+
+User: "No, as far as I know, none of my immediate family members have experienced conditions like Parkinson's disease, multiple sclerosis, or any genetic disorders."
+
+Assistant: ### Step 1: Identify the Previous Question
+The previous question asked was about any family history of neurological or genetic conditions. 
+
+### Step 2: Collect and Note the Patient's Response
+Patient's response: "No, as far as I know, none of my immediate family members have experienced conditions like Parkinson's disease, multiple sclerosis, or any genetic disorders."
+   
+Note:
+Family history: No known neurological or genetic conditions among immediate family members. <END_NOTE>
+
+### Step 3: Check for Completeness
+The response is clear and directly answers the question; no further clarification is needed.
+
+### Step 4: Check if All Questions Have Been Asked
+There are remaining questions to be asked about personal history, specifically regarding siblings and early life experiences.
+
+### Step 5: Conclude the Interview
+Skip this step as not all questions have been asked.
+
+### Step 6: Craft Your Response to Ask the Next Question
+Let's move on to discuss your personal history a bit more. Do you have any siblings?
+
+User: Yes, I have one younger sibling, a brother who is currently studying psychology at a local university.
+
+Assistant: ### Step 1: Identify the Previous Question
+The previous question asked was about having any siblings.
+
+### Step 2: Collect and Note the Patient's Response
+Patient's response: "Yes, I have one younger sibling, a brother who is currently studying psychology at a local university."
+   
+Note:
+Sibling information: One younger brother, currently studying psychology. <END_NOTE>
+
+### Step 3: Check for Completeness
+The response is clear; however, more details about the sibling could be helpful.
+
+### Step 4: Check if All Questions Have Been Asked
+There are still questions remaining in the interview, including further details about the sibling and early life experiences.
+
+### Step 5: Conclude the Interview
+Skip this step as not all questions have been asked.
+
+### Step 6: Craft Your Response to Ask the Next Question
+Thank you for sharing that with me. Could you tell me a bit more about your brother? What's his name, and how old is he?
+Also, since we were discussing siblings, I wanted to confirm if you're comfortable sharing this information. Would you mind telling me where your brother lives now and what he does aside from studying psychology?
+
+User: "My brother's name is Aram Agababyan. He is currently 20 years old. As for where he lives now and what he does aside from studying psychology, I believe he resides in the area near his university and primarily focuses on his studies. I'm not entirely sure about his extracurricular activities, but I know he is committed to his psychology studies."
+
+Assistant: Thank you for sharing more about your brother, Aram. I appreciate your willingness to provide more details. Now, let's move on to discuss a bit about your early life and citizenship. Could you tell me where you were born?
+
+User: I was born in South Erikatown, Canada.
+
+Assistant: ### Step 1: Identify the Previous Question
+The previous question asked was about the patient's birthplace.
+
+### Step 2: Collect and Note the Patient's Response
+Patient's response: "I was born in South Erikatown, Canada."
+   
+Note:
+Birthplace: Born in South Erikatown, Canada. <END_NOTE>
+
+### Step 3: Check for Completeness
+The response is clear and directly answers the question; no further clarification is needed.
+
+### Step 4: Check if All Questions Have Been Asked
+There are remaining questions to be asked about early life experiences, specifically regarding citizenship and any potential birth complications.
+
+### Step 5: Conclude the Interview
+Skip this step as not all questions have been asked.
+
+### Step 6: Craft Your Response to Ask the Next Question
+Thank you for sharing that with me. Since you were born in Canada, I'd like to confirm your current citizenship status. Are you a Canadian citizen?
+
+User: Yes, I am a Canadian citizen.
+
+Assistant: ### Step 1: Identify the Previous Question
+The previous question asked was about confirming the patient's citizenship status.
+
+### Step 2: Collect and Note the Patient's Response
+Patient's response: "Yes, I am a Canadian citizen."
+   
+Note:
+Citizenship: Confirmed as a Canadian citizen. <END_NOTE>
+
+### Step 3: Check for Completeness
+The response is clear; no further clarification is needed.
+
+### Step 4: Check if All Questions Have Been Asked
+There are still questions remaining in the interview, including potential birth complications and early childhood development.
+
+### Step 5: Conclude the Interview
+Skip this step as not all questions have been asked.
+
+### Step 6: Craft Your Response to Ask the Next Question
+Thank you for confirming your citizenship status. Now, I'd like to ask about any birth complications or significant health issues during your early childhood. Were there any notable concerns or difficulties during that period?
+Also, since we're discussing early life experiences, I wanted to confirm if you experienced typical developmental milestones as a child. Did you walk and talk at the same age as most children?
+
+User: "I'm not sure if there were any birth complications. However, I do know that I experienced some developmental delays in early childhood due to undiagnosed conditions at the time. Specifically, my ADHD wasn't diagnosed until much later, which may have affected my walking and talking milestones."
+
+Assistant: ### Step 1: Identify the Previous Question
+The previous question asked was about any birth complications or significant health issues during early childhood.
+
+### Step 2: Collect and Note the Patient's Response
+Patient's response: "I'm not sure if there were any birth complications. However, I do know that I experienced some developmental delays in early childhood due to undiagnosed conditions at the time. Specifically, my ADHD wasn't diagnosed until much later, which may have affected my walking and talking milestones."
+   
+Note:
+Birth complications: Uncertain; developmental delays present due to undiagnosed ADHD. <END_NOTE>
+
+### Step 3: Check for Completeness
+The response provides useful information but could benefit from further clarification on the exact nature of the developmental delays.
+
+### Step 4: Check if All Questions Have Been Asked
+There are remaining questions in the interview, specifically regarding education and personal relationships.
+
+### Step 5: Conclude the Interview
+Skip this step as not all questions have been asked.
+
+### Step 6: Craft Your Response to Ask the Next Question
+Thank you for sharing that with me. I'd like to explore a bit more about your educational background. Did you experience any difficulties during elementary school?
+
+User: "I had some struggles in elementary school, but nothing too out of the ordinary for me at the time."
+
+Assistant: ### Step 1: Identify the Previous Question
+The previous question asked was about any difficulties experienced during elementary school.
+
+### Step 2: Collect and Note the Patient's Response
+Patient's response: "I had some struggles in elementary school, but nothing too out of the ordinary for me at the time."
+   
+Note:
+Elementary school experiences: Experienced some personal struggles; perceived as not unusual. <END_NOTE>
+
+### Step 3: Check for Completeness
+The response provides a brief account of the patient's experience in elementary school but lacks specific details about the nature of these difficulties.
+
+### Step 4: Check if All Questions Have Been Asked
+There are remaining questions to be asked regarding educational experiences, including high school and any further education pursued.
+
+### Step 5: Conclude the Interview
+Skip this step as not all questions have been asked.
+
+### Step 6: Craft Your Response to Ask the Next Question
+Thank you for sharing that with me. Moving forward to your high school years, did you find a particular subject or class that interested you more than others? What was your average mark in high school, and were there any favorite topics or classes?
+
+Also, I'd like to know if you pursued any further education after completing high school. If so, could you tell me where you studied and what type of studies you undertook?
+
+User: "I was proficient in high school and found various subjects interesting. I didn't really have an average mark to speak of since it varied by subject, but overall, my performance was decent. After high school, I pursued further education at a local institution, working towards a post-secondary certificate or diploma. I didn't really keep track of my exact average mark since it varied greatly between subjects, but overall, I'd say my performance was proficient."
+
+Assistant: ### Step 1: Identify the Previous Question
+The previous question asked was about the patient's educational background in high school and further education.
+
+### Step 2: Collect and Note the Patient's Response
+Patient's response: "I was proficient in high school and found various subjects interesting. I didn't really have an average mark to speak of since it varied by subject, but overall, my performance was decent. After high school, I pursued further education at a local institution, working towards a post-secondary certificate or diploma. I didn't really keep track of my exact average mark since it varied greatly between subjects, but overall, I'd say my performance was proficient."
+   
+Note:
+High school and further education experiences: Found various subjects interesting in high school; pursued post-secondary education at a local institution, achieving decent performance. <END_NOTE>
+
+### Step 3: Check for Completeness
+The response provides information about the patient's educational background but could benefit from more specific details regarding average marks or any notable achievements.
+
+### Step 4: Check if All Questions Have Been Asked
+There are remaining questions in the interview, specifically regarding employment history and personal relationships.
+
+### Step 5: Conclude the Interview
+Skip this step as not all questions have been asked.
+
+### Step 6: Craft Your Response to Ask the Next Question
+Thank you for sharing more about your educational background. Now, I'd like to explore a bit more about your work history. Have you had any previous jobs or long-term employment that you could tell me about? Could you share some details such as company names and the years you worked there?
+
+Also, have you been in any marriages or long-term relationships that you feel comfortable discussing?
+
+User: "I've had some work experience before becoming a legal executive. I worked as an administrative assistant for about 2 years and also had a brief stint as a freelance writer. As for long-term relationships or marriages, I don't have any to share."
+
+Assistant: ### Step 1: Identify the Previous Question
+The previous question asked was about the patient's employment history and personal relationships.
+
+### Step 2: Collect and Note the Patient's Response
+Patient's response: "I've had some work experience before becoming a legal executive. I worked as an administrative assistant for about 2 years and also had a brief stint as a freelance writer. As for long-term relationships or marriages, I don't have any to share."
+   
+Note:
+Employment history and personal relationships: Had work experience as an administrative assistant (2 years) and as a freelance writer; no long-term relationships or marriages to discuss. <END_NOTE>
+
+### Step 3: Check for Completeness
+The response provides useful information about the patient's employment background but lacks specific company names, which could be beneficial for further insight.
+
+### Step 4: Check if All Questions Have Been Asked
+There are remaining questions in the interview, specifically regarding hobbies and relaxation techniques.
+
+### Step 5: Conclude the Interview
+Skip this step as not all questions have been asked.
+
+### Step 6: Craft Your Response to Ask the Next Question
+Thank you for sharing more about your work history. Now, I'd like to know a bit more about what you enjoy doing in your free time. What kind of hobbies do you have? Are there any activities that help you relax or manage stress on a difficult day?
+Also, could you elaborate more on how these hobbies contribute positively to your mental well-being and if they provide an escape from daily pressures?
+
+User: "I enjoy various hobbies such as painting, playing the guitar, and writing poetry in my free time. I find these activities help me express myself creatively and provide an escape from daily pressures. Additionally, I practice yoga, meditation, and deep breathing exercises to manage stress and anxiety. These relaxation techniques contribute positively to my mental well-being by allowing me to calm down and clear my mind when feeling overwhelmed."
+
+Assistant: <STOP>
+
+Assistant: Here are the edited notes:
+
+Patient is cautiously open to discussing their background information but expresses some discomfort with sharing personal details. They are motivated by the desire to help Dr. Peer understand their situation better.
+
+Full name: Marianna Agababyan
+Preferred name: Marianna Agababyan
+Date of birth: June 23, 2000
+Sex: Female
+Handedness: Right-handed
+Marital status: Single
+Dependents: No children or other dependents mentioned
+Employment status: Currently working as a legal executive
+Employment details: Uncomfortable sharing company's name, but has shared role and been working in this capacity for "a few years"
+Disability assistance status: No current disability assistance
+Financial support: No additional financial support beyond employment income
+
+Current doctors: Dr. Elodia Dominguez Reina
+Current specialist care: Uncertain about regular specialist visits, but has ongoing health issues managed by primary doctor
+Current medications: Clonazepam (Klonopin), 0.5-2 mg/day in divided doses
+Allergies: None known
+
+Current health conditions/diagnoses:
+Panic disorder (with hospitalizations)
+Fibromyalgia (flexibility issues)
+Chronic lower back pain
+ADHD (learning difficulties)
+Depression
+
+Previous hospitalizations: Hospitalized due to car accident at age 19 (concussion), aside from panic disorder episodes
+Surgical history: No known surgical procedures
+History of head injuries/concussions: Concussion in a car accident at age 19, no other known head injuries
+Seizure history: No history of seizures
+
+Rehabilitation/substance counselling history: No recollection of such experiences
+Other medical professionals seen: Dr. Elodia Dominguez Reina
+
+Family history:
+No known psychiatric conditions in immediate family members
+No known neurological or genetic conditions among immediate family members
+Sibling information:
+One younger brother, Aram Agababyan (20 years old), studying psychology
+
+Birthplace: South Erikatown, Canada
+Citizenship: Confirmed as a Canadian citizen
+Birth complications: Uncertain; developmental delays present due to undiagnosed ADHD
+
+Elementary school experiences: Experienced some personal struggles; perceived as not unusual
+High school and further education experiences: Found various subjects interesting in high school; pursued post-secondary education at a local institution, achieving decent performance
+
+Employment history and personal relationships:
+Work experience as an administrative assistant (2 years) and freelance writer
+No long-term relationships or marriages to discuss
+
+Hobbies and relaxation techniques:
+Enjoys painting, playing the guitar, writing poetry
+Practices yoga, meditation, and deep breathing exercises for stress management
+
+Thank you, Marianna, for taking the time to share this information with us. Your cooperation is greatly appreciated.
+
+<STOP>
